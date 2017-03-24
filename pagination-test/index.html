@@ -392,7 +392,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     
 
     <section class="post-articleMetaContainer row">
-      <div class="listContent col-xs-12 col-md-4">
+      <div class="listContent col-xs-12 col-md-3">
+        <h4 class="sectionSubtitle">Article Info</h4>
         
 
   	<span class="listCategory">Sectors</span><br />
@@ -411,9 +412,9 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
   		
   			
   		
-  			<a href='/sectors/energy#oil-and-gas' class="sectorSection-subsectorsListSubsector">Oil and Gas</a>,
+  			<a href='/sectors/energy#subsector=oil-and-gas' class="sectorSection-subsectorsListSubsector">Oil and Gas</a>,
   		
-  			<a href='/sectors/energy#power-and-energy-efficiency' class="sectorSection-subsectorsListSubsector">Power and Energy Efficiency</a>
+  			<a href='/sectors/energy#subsector=power-and-energy-efficiency' class="sectorSection-subsectorsListSubsector">Power and Energy Efficiency</a>
   		
         <br />
   	
@@ -435,8 +436,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <!-- Show More/Less -->
 
       </div>
-      <div class="col-xs-12 col-md-8">
-        <h4>You May Also Enjoy</h4> 
+      <div class="post-relatedPosts col-xs-12 col-md-9">
+        <h4 class="sectionSubtitle">Related Posts</h4>
 
 
 
@@ -444,16 +445,6 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 
 
-  
-  
-
-  
-
-  
-
-
-
-  
   
 
   
@@ -463,7 +454,6 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 
   
-  
 
   
 
@@ -471,16 +461,6 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 
 
-  
-  
-
-  
-
-  
-
-
-
-  
   
 
   
@@ -490,6 +470,21 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 
   
+
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
   
 
   
@@ -583,14 +578,14 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	      templates: {
 	        //'suggestion' templating function used to render a single suggestion
 	        suggestion: function(suggestion) {
-	        	if(suggestion._highlightResult.content_type) {
-	        		return '<span>' +
+	        	if(suggestion.content_type) {
+	        		return '<a href="'+suggestion.url+'"><span>' +
 	            suggestion._highlightResult.title.value + '</span><span class="search-contentType">' +
-	            suggestion._highlightResult.content_type.value + '</span>';
+	            suggestion.content_type + '</span></a>';
 	        	}
 	        	else {
-	        		return '<span>' +
-	            suggestion._highlightResult.title.value + '</span>';
+	        		return '<a href="'+suggestion.url+'"><span>' +
+	        		suggestion._highlightResult.title.value + '</span></a>';
 	        	}
 	          
 	        },

@@ -334,77 +334,78 @@
 
     <main class="page-content" aria-label="Content">
         <section class="search-container">
-  <div class="row">
+	<div class="row">
 
-    <!-- Sidebar -->
-    <div class="search-options col-xs-12 col-md-3">
-      <div id="states" class="facet"></div>
-      <div id="sectors" class="facet"></div>
-      <div id="content_type" class="facet"></div>
-      <div id="tags" class="facet"></div>
-    </div>
+		<!-- Sidebar -->
+		<div class="search-options col-xs-12 col-md-3">
+			<div id="states" class="facet"></div>
+			<div id="sectors" class="facet"></div>
+			<div id="content_type" class="facet"></div>
+			<div id="tags" class="facet"></div>
+		</div>
 
-    <!-- Search Results -->
-    <div class="col-xs-12 col-md-9">
-      <div class="content-wrapper fullWidthContent">
-        <header class="search-header">
-          <div id="search-input"></div>
-          <div id="search-input-icon"></div>
-        </header>
+		<!-- Search Results -->
+		<div class="col-xs-12 col-md-9">
+			<div class="content-wrapper fullWidthContent">
+				<header class="search-header">
+					<div id="search-input"></div>
+					<div id="search-input-icon"></div>
+				</header>
 
-        <section class="search-results">
-          <div id="sort-by-wrapper"><span id="sort-by"></span></div>
-          <div id="stats"></div>
-          <div id="hits"></div>
-          <div id="pagination"></div>
-        </section>
-      </div>
-    </div>
-  </div>
+				<section class="search-results">
+					<div id="sort-by-wrapper"><span id="sort-by"></span></div>
+					<div id="stats"></div>
+					<div id="hits"></div>
+					<div id="pagination"></div>
+				</section>
+			</div>
+		</div>
+	</div>
 </section>
 
-  <!-- TEMPLATES -->
-  <script type="text/html" id="hit-template">
-    <div class="hit">
-      <div class="hit-content">
-        <h3 class="hit-type">
-        
-          {{{content_type}}}
-        
-        </h3>
-        <h2 class="articleTitle hit-name">
-        
-          {{{_highlightResult.title.value}}}
-        
-        </h2>
-        {{{ formattedDate }}}
-        <p class="hit-excerpt">
-        
-          {{{excerpt}}}
-        
-        </p>
-      </div>
-    </div>
-  </script>
+<!-- TEMPLATES -->
+<script type="text/html" id="hit-template">
+	<div class="hit">
+		<div class="hit-content">
+			<h3 class="hit-type">
+				
+				{{{content_type}}}
+				
+			</h3>
+			<h2 class="articleTitle hit-name">
+				<a href="{{{url}}}">
+					
+					{{{_highlightResult.title.value}}}
+					
+				</a>
+			</h2>
+			{{{ formattedDate }}}
+			<p class="hit-excerpt">
+				
+				{{{excerpt}}}
+				
+			</p>
+		</div>
+	</div>
+</script>
 
-  <script type="text/html" id="no-results-template">
-    <div id="no-results-message">
-      <p>We didn't find any results for the search <em>""</em>.</p>
-      <a href="." class='clear-all'>Clear search</a>
-    </div>
-  </script>
-  <!-- /TEMPLATES -->
+<script type="text/html" id="no-results-template">
+	<div id="no-results-message">
+		<p>We didn't find any results for the search <em>""</em>.</p>
+		<a href="." class='clear-all'>Clear search</a>
+	</div>
+</script>
+<!-- /TEMPLATES -->
 
-  	<!-- SCRIPTS -->
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.css">
-    <!-- IE < 10 support -->
-    <!--[if lte IE 9]>
-    <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
-    <![endif]-->
-  	<script src="//cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.js"></script>
-  	<script src="/assets/js/searchpage.js"></script>
-  	<!-- /SCRIPTS -->
-
+<!-- SCRIPTS -->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.css">
+<!-- IE < 10 support -->
+<!--[if lte IE 9]>
+<script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+<![endif]-->
+<script src="//cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.js"></script>
+<script src="/assets/js/searchpage.js"></script>
+<!-- /SCRIPTS -->
     </main>
 
     <footer class="site-footer">
@@ -484,14 +485,14 @@
 	      templates: {
 	        //'suggestion' templating function used to render a single suggestion
 	        suggestion: function(suggestion) {
-	        	if(suggestion._highlightResult.content_type) {
-	        		return '<span>' +
+	        	if(suggestion.content_type) {
+	        		return '<a href="'+suggestion.url+'"><span>' +
 	            suggestion._highlightResult.title.value + '</span><span class="search-contentType">' +
-	            suggestion._highlightResult.content_type.value + '</span>';
+	            suggestion.content_type + '</span></a>';
 	        	}
 	        	else {
-	        		return '<span>' +
-	            suggestion._highlightResult.title.value + '</span>';
+	        		return '<a href="'+suggestion.url+'"><span>' +
+	        		suggestion._highlightResult.title.value + '</span></a>';
 	        	}
 	          
 	        },

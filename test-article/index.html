@@ -389,7 +389,8 @@
     
 
     <section class="post-articleMetaContainer row">
-      <div class="listContent col-xs-12 col-md-4">
+      <div class="listContent col-xs-12 col-md-3">
+        <h4 class="sectionSubtitle">Article Info</h4>
         
 
   	<span class="listCategory">Sectors</span><br />
@@ -412,7 +413,7 @@
   		
   			
   		
-  			<a href='/sectors/energy#renewable' class="sectorSection-subsectorsListSubsector">Renewable</a>
+  			<a href='/sectors/energy#subsector=renewable' class="sectorSection-subsectorsListSubsector">Renewable</a>
   		
         <br />
   	
@@ -457,23 +458,23 @@
 
 	<span class="listCategory">Keywords</span><br />
 	
-	  tag1, 
+	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=tag1">tag1</a>, 
 	
-	  tag2, 
+	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=tag2">tag2</a>, 
 	
-	  tag3, 
+	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=tag3">tag3</a>, 
 	
-	  tag4, 
+	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=tag4">tag4</a>, 
 	
-	  tag5
+	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=tag5">tag5</a>
 	
 	
 	<span class="post-articleExtraMetaIndicator" data-post="test-article">...</span>
 		<div class="post-articleExtraMeta" data-post="test-article">,
 			
-			  tag6, 
+				<a href="/tag6">tag6</a>, 
 			
-			  tag7
+				<a href="/tag7">tag7</a>
 			
 		</div>
 	
@@ -487,8 +488,8 @@
 	</div>
 
       </div>
-      <div class="col-xs-12 col-md-8">
-        <h4>You May Also Enjoy</h4> 
+      <div class="post-relatedPosts col-xs-12 col-md-9">
+        <h4 class="sectionSubtitle">Related Posts</h4>
 
 
 
@@ -497,7 +498,6 @@
 
 
   
-  
 
   
 
@@ -506,14 +506,16 @@
 
 
   
-  
 
   
 
   
-    <div>
-    <h5><a href="/tag-test/">Tag Test <span class="label label-default">tag1</span>  <span class="label label-default">tag2</span>  <span class="label label-default">tag3</span> </a></h5>
-    </div>
+    <article>
+      <h5 class="articleTitle">
+        <a href="/tag-test/">Tag Test</a> 
+        <span class="articleMeta">Posted on <time datetime="2017-02-08T21:47:00+00:00" itemprop="datePublished" class="articleDate">February 8, 2017</time></span>
+    </h5>
+    </article>
     
     
   
@@ -521,7 +523,6 @@
 
 
   
-  
 
   
 
@@ -530,7 +531,6 @@
 
 
   
-  
 
   
 
@@ -539,14 +539,16 @@
 
 
   
-  
 
   
 
   
-    <div>
-    <h5><a href="/welcome-to-jekyll/">Welcome to Jekyll! <span class="label label-default">tag1</span>  <span class="label label-default">tag3</span> </a></h5>
-    </div>
+    <article>
+      <h5 class="articleTitle">
+        <a href="/welcome-to-jekyll/">Welcome to Jekyll!</a> 
+        <span class="articleMeta">Posted on <time datetime="2017-02-08T21:47:00+00:00" itemprop="datePublished" class="articleDate">February 8, 2017</time></span>
+    </h5>
+    </article>
     
     
   
@@ -554,14 +556,16 @@
 
 
   
-  
 
   
 
   
-    <div>
-    <h5><a href="/sources-and-details-test/">Sources and Details Test <span class="label label-default">tag1</span>  <span class="label label-default">tag2</span>  <span class="label label-default">tag3</span>  <span class="label label-default">tag4</span>  <span class="label label-default">tag5</span>  <span class="label label-default">tag6</span>  <span class="label label-default">tag7</span> </a></h5>
-    </div>
+    <article>
+      <h5 class="articleTitle">
+        <a href="/sources-and-details-test/">Sources and Details Test</a> 
+        <span class="articleMeta">Posted on <time datetime="2017-02-08T21:47:00+00:00" itemprop="datePublished" class="articleDate">February 8, 2017</time></span>
+    </h5>
+    </article>
     
     
   
@@ -653,14 +657,14 @@
 	      templates: {
 	        //'suggestion' templating function used to render a single suggestion
 	        suggestion: function(suggestion) {
-	        	if(suggestion._highlightResult.content_type) {
-	        		return '<span>' +
+	        	if(suggestion.content_type) {
+	        		return '<a href="'+suggestion.url+'"><span>' +
 	            suggestion._highlightResult.title.value + '</span><span class="search-contentType">' +
-	            suggestion._highlightResult.content_type.value + '</span>';
+	            suggestion.content_type + '</span></a>';
 	        	}
 	        	else {
-	        		return '<span>' +
-	            suggestion._highlightResult.title.value + '</span>';
+	        		return '<a href="'+suggestion.url+'"><span>' +
+	        		suggestion._highlightResult.title.value + '</span></a>';
 	        	}
 	          
 	        },

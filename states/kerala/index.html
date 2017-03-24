@@ -31,12 +31,12 @@
 <meta property="og:url" content="/states/kerala/" />
 <meta property="og:site_name" content="Engaging Indian States" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2017-03-24T13:50:16+00:00" />
+<meta property="article:published_time" content="2017-03-24T20:10:13+00:00" />
 <script type="application/ld+json">
 {"@context": "http://schema.org",
 "@type": "BlogPosting",
 "headline": "Kerala",
-"datePublished": "2017-03-24T13:50:16+00:00",
+"datePublished": "2017-03-24T20:10:13+00:00",
 "description": "",
 "url": "/states/kerala/"}</script>
 <!-- End Jekyll SEO tag -->
@@ -649,7 +649,7 @@
   		
   			
   		
-  			<a href='/sectors/energy#renewable' class="sectorSection-subsectorsListSubsector">Renewable</a>
+  			<a href='/sectors/energy#subsector=renewable' class="sectorSection-subsectorsListSubsector">Renewable</a>
   		
         <br />
   	
@@ -694,23 +694,23 @@
 
 	<span class="listCategory">Keywords</span><br />
 	
-	  tag1, 
+	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=tag1">tag1</a>, 
 	
-	  tag2, 
+	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=tag2">tag2</a>, 
 	
-	  tag3, 
+	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=tag3">tag3</a>, 
 	
-	  tag4, 
+	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=tag4">tag4</a>, 
 	
-	  tag5
+	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=tag5">tag5</a>
 	
 	
 	<span class="post-articleExtraMetaIndicator" data-post="test-article">...</span>
 		<div class="post-articleExtraMeta" data-post="test-article">,
 			
-			  tag6, 
+				<a href="/tag6">tag6</a>, 
 			
-			  tag7
+				<a href="/tag7">tag7</a>
 			
 		</div>
 	
@@ -871,7 +871,7 @@
   		
   			
   		
-  			<a href='/sectors/energy#renewable' class="sectorSection-subsectorsListSubsector">Renewable</a>
+  			<a href='/sectors/energy#subsector=renewable' class="sectorSection-subsectorsListSubsector">Renewable</a>
   		
         <br />
   	
@@ -916,23 +916,23 @@
 
 	<span class="listCategory">Keywords</span><br />
 	
-	  tag1, 
+	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=tag1">tag1</a>, 
 	
-	  tag2, 
+	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=tag2">tag2</a>, 
 	
-	  tag3, 
+	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=tag3">tag3</a>, 
 	
-	  tag4, 
+	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=tag4">tag4</a>, 
 	
-	  tag5
+	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=tag5">tag5</a>
 	
 	
 	<span class="post-articleExtraMetaIndicator" data-post="test-article">...</span>
 		<div class="post-articleExtraMeta" data-post="test-article">,
 			
-			  tag6, 
+				<a href="/tag6">tag6</a>, 
 			
-			  tag7
+				<a href="/tag7">tag7</a>
 			
 		</div>
 	
@@ -1060,14 +1060,14 @@
 	      templates: {
 	        //'suggestion' templating function used to render a single suggestion
 	        suggestion: function(suggestion) {
-	        	if(suggestion._highlightResult.content_type) {
-	        		return '<span>' +
+	        	if(suggestion.content_type) {
+	        		return '<a href="'+suggestion.url+'"><span>' +
 	            suggestion._highlightResult.title.value + '</span><span class="search-contentType">' +
-	            suggestion._highlightResult.content_type.value + '</span>';
+	            suggestion.content_type + '</span></a>';
 	        	}
 	        	else {
-	        		return '<span>' +
-	            suggestion._highlightResult.title.value + '</span>';
+	        		return '<a href="'+suggestion.url+'"><span>' +
+	        		suggestion._highlightResult.title.value + '</span></a>';
 	        	}
 	          
 	        },

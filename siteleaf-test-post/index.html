@@ -387,7 +387,8 @@
     
 
     <section class="post-articleMetaContainer row">
-      <div class="listContent col-xs-12 col-md-4">
+      <div class="listContent col-xs-12 col-md-3">
+        <h4 class="sectionSubtitle">Article Info</h4>
         
 
 
@@ -398,8 +399,8 @@
 <!-- Show More/Less -->
 
       </div>
-      <div class="col-xs-12 col-md-8">
-        <h4>You May Also Enjoy</h4> 
+      <div class="post-relatedPosts col-xs-12 col-md-9">
+        <h4 class="sectionSubtitle">Related Posts</h4>
 
 
 
@@ -407,16 +408,6 @@
 
 
 
-  
-  
-
-  
-
-  
-
-
-
-  
   
 
   
@@ -426,7 +417,6 @@
 
 
   
-  
 
   
 
@@ -434,16 +424,6 @@
 
 
 
-  
-  
-
-  
-
-  
-
-
-
-  
   
 
   
@@ -453,6 +433,21 @@
 
 
   
+
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
   
 
   
@@ -546,14 +541,14 @@
 	      templates: {
 	        //'suggestion' templating function used to render a single suggestion
 	        suggestion: function(suggestion) {
-	        	if(suggestion._highlightResult.content_type) {
-	        		return '<span>' +
+	        	if(suggestion.content_type) {
+	        		return '<a href="'+suggestion.url+'"><span>' +
 	            suggestion._highlightResult.title.value + '</span><span class="search-contentType">' +
-	            suggestion._highlightResult.content_type.value + '</span>';
+	            suggestion.content_type + '</span></a>';
 	        	}
 	        	else {
-	        		return '<span>' +
-	            suggestion._highlightResult.title.value + '</span>';
+	        		return '<a href="'+suggestion.url+'"><span>' +
+	        		suggestion._highlightResult.title.value + '</span></a>';
 	        	}
 	          
 	        },

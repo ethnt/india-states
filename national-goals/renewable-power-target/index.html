@@ -25,19 +25,19 @@
   <!-- Begin Jekyll SEO tag v2.1.0 -->
 <title>Renewable Power Target - Engaging Indian States</title>
 <meta property="og:title" content="Renewable Power Target" />
-<meta name="description" content="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." />
-<meta property="og:description" content="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." />
+<meta name="description" content="In 2014, Prime Minister Narendra Modi set a goal of reaching 100 MW of solar power generation capacity by 2022. In order to achieve this ambitious target, state governments must increase their rate of solar capacity growth. The Ministry of New and Renewable Energy (MNRE) has assigned each state a solar capacity target. The Indian States Solar Energy Performance Tracker is a tool to monitor the progress states have made in reaching this target." />
+<meta property="og:description" content="In 2014, Prime Minister Narendra Modi set a goal of reaching 100 MW of solar power generation capacity by 2022. In order to achieve this ambitious target, state governments must increase their rate of solar capacity growth. The Ministry of New and Renewable Energy (MNRE) has assigned each state a solar capacity target. The Indian States Solar Energy Performance Tracker is a tool to monitor the progress states have made in reaching this target." />
 <link rel="canonical" href="/national-goals/renewable-power-target/" />
 <meta property="og:url" content="/national-goals/renewable-power-target/" />
 <meta property="og:site_name" content="Engaging Indian States" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2017-03-24T13:50:16+00:00" />
+<meta property="article:published_time" content="2017-03-24T20:10:13+00:00" />
 <script type="application/ld+json">
 {"@context": "http://schema.org",
 "@type": "BlogPosting",
 "headline": "Renewable Power Target",
-"datePublished": "2017-03-24T13:50:16+00:00",
-"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+"datePublished": "2017-03-24T20:10:13+00:00",
+"description": "In 2014, Prime Minister Narendra Modi set a goal of reaching 100 MW of solar power generation capacity by 2022. In order to achieve this ambitious target, state governments must increase their rate of solar capacity growth. The Ministry of New and Renewable Energy (MNRE) has assigned each state a solar capacity target. The Indian States Solar Energy Performance Tracker is a tool to monitor the progress states have made in reaching this target.",
 "url": "/national-goals/renewable-power-target/"}</script>
 <!-- End Jekyll SEO tag -->
 
@@ -323,7 +323,7 @@
 	
 	
 	
-		<li >Renewable Power Target</li>
+		<li class="isPost">Renewable Power Target</li>
 	
 </ul>
 
@@ -372,31 +372,18 @@
 	</li>
 </ul>
 
+      <h1 class="subtitle">
+        Renewable Power Target
+      </h1>
       <div class="row">
         <div class="goal-nameContainer col-xs-12 col-md-9">
-          <h1 class="subtitle">
-            Renewable Power Target
-          </h1>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <p>In 2014, Prime Minister Narendra Modi set a goal of reaching 100 MW of solar power generation capacity by 2022. In order to achieve this ambitious target, state governments must increase their rate of solar capacity growth. The Ministry of New and Renewable Energy (MNRE) has assigned each state a solar capacity target. The Indian States Solar Energy Performance Tracker is a tool to monitor the progress states have made in reaching this target.</p>
 
         </div>
         <div class="col-xs-12 col-md-3">
           <div class="goalInfo-container">
             <h4 class="sectionSubtitle">Goal Summary</h4>
             <ul class="goalInfo-infoList">
-              <li class="hasBorder">
-                <span class="category">Start Date</span><br />
-                    January 1, 2016
-              </li>
-              <li class="hasBorder">
-                <span class="category">End</span><br />
-                    January 1, 2022
-              </li>
               <li class="hasBorder">
                 <span class="category">Sectors</span><br />
                 
@@ -520,14 +507,14 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	      templates: {
 	        //'suggestion' templating function used to render a single suggestion
 	        suggestion: function(suggestion) {
-	        	if(suggestion._highlightResult.content_type) {
-	        		return '<span>' +
+	        	if(suggestion.content_type) {
+	        		return '<a href="'+suggestion.url+'"><span>' +
 	            suggestion._highlightResult.title.value + '</span><span class="search-contentType">' +
-	            suggestion._highlightResult.content_type.value + '</span>';
+	            suggestion.content_type + '</span></a>';
 	        	}
 	        	else {
-	        		return '<span>' +
-	            suggestion._highlightResult.title.value + '</span>';
+	        		return '<a href="'+suggestion.url+'"><span>' +
+	        		suggestion._highlightResult.title.value + '</span></a>';
 	        	}
 	          
 	        },

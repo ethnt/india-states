@@ -741,7 +741,6 @@ a {
       box-sizing: border-box;
       color: #F0F0F0; }
     .search-overlay .search-barResultsContainer .aa-suggestion {
-      padding: 24px 12px;
       border-bottom: 1px solid #F0F0F0;
       cursor: pointer;
       -webkit-transition: .2s;
@@ -754,7 +753,16 @@ a {
       justify-content: space-between;
       -webkit-box-align: center;
       -ms-flex-align: center;
-      align-items: center; }
+      align-items: center;
+      clear: right; }
+      .search-overlay .search-barResultsContainer .aa-suggestion a {
+        padding: 24px 12px;
+        display: block;
+        width: 100%;
+        text-align: left;
+        box-shadow: none; }
+        .search-overlay .search-barResultsContainer .aa-suggestion a:hover {
+          color: #E87415; }
       .search-overlay .search-barResultsContainer .aa-suggestion > span:first-child {
         color: #ffffff; }
       .search-overlay .search-barResultsContainer .aa-suggestion > span:last-child {
@@ -767,7 +775,8 @@ a {
         padding: 2px 0 2px 2px; }
       .search-overlay .search-barResultsContainer .aa-suggestion .search-contentType {
         font-family: "museo-sans", sans-serif;
-        color: #F0F0F0; }
+        color: #F0F0F0;
+        float: right; }
     .search-overlay .search-barResultsContainer .is-footer {
       text-align: right;
       padding-top: 28px; }
@@ -884,6 +893,8 @@ a {
   .search-container .hit-content .hit-type, .search-container .hit-content .hit-name {
     font-weight: normal;
     margin-top: 0; }
+  .search-container .hit-content .hit-name a:hover {
+    color: #E87415; }
   .search-container .hit-content em {
     font-style: normal;
     background: #fbdde0; }
@@ -2166,9 +2177,12 @@ article.post-individualContainer .post-content {
     margin-bottom: 1rem; }
 article.post-individualContainer .post-footer {
   border-top: 2px solid #DDDDDD;
-  padding-top: 3rem; }
+  padding: 3rem 0; }
   article.post-individualContainer .post-footer .post-authorInfoContainer {
     margin-bottom: 2rem; }
+    @media screen and (min-width: 48em) {
+      article.post-individualContainer .post-footer .post-authorInfoContainer .post-authorInfo {
+        padding-left: 2rem; } }
     article.post-individualContainer .post-footer .post-authorInfoContainer .post-authorName {
       margin: 0;
       color: #E87415;
@@ -2178,6 +2192,21 @@ article.post-individualContainer .post-footer {
     article.post-individualContainer .post-footer .post-authorInfoContainer .post-authorBio {
       margin-top: 1rem;
       margin-bottom: 0; }
+  article.post-individualContainer .post-footer .post-articleMetaContainer {
+    margin-top: 3rem; }
+  article.post-individualContainer .post-footer .listContent .sectionSubtitle {
+    margin: 0 0 0.5rem 0;
+    border-bottom: 2px solid #333333;
+    font-style: normal;
+    line-height: 1.15; }
+  @media screen and (min-width: 48em) {
+    article.post-individualContainer .post-footer .post-relatedPosts {
+      padding-left: 2rem; } }
+  article.post-individualContainer .post-footer .post-relatedPosts .sectionSubtitle {
+    margin: 0 0 0.5rem 0;
+    border-bottom: 2px solid #333333; }
+  article.post-individualContainer .post-footer .post-relatedPosts .articleTitle {
+    margin-bottom: 1rem; }
 
 /*======================================
 =            National Goals            =
@@ -2194,7 +2223,20 @@ article.post-individualContainer .post-footer {
     font-size: 15px;
     font-size: 0.9375rem; }
 
-/*----------  Individual Tracker Page  ----------*/
+/*----------  Landing Page  ----------*/
+.goals-landingContainer {
+  padding: 3rem 0; }
+  .goals-landingContainer .goals-goalContainer {
+    border-top: 2px solid #333333;
+    margin: 0 0 4rem 0;
+    padding-top: 1rem; }
+    @media screen and (min-width: 48em) {
+      .goals-landingContainer .goals-goalContainer .goal-summary {
+        padding-right: 3rem; } }
+    .goals-landingContainer .goals-goalContainer .goalInfo-container {
+      margin-top: 0; }
+
+/*----------  Individual Goal Page  ----------*/
 .goal-container {
   /*----------  Interactive  ----------*/ }
   .goal-container .goal-header {
@@ -2202,43 +2244,43 @@ article.post-individualContainer .post-footer {
     padding: 0.2rem 0 1rem 0; }
     .goal-container .goal-header ul.shareIcons {
       text-align: right; }
+    .goal-container .goal-header .subtitle {
+      margin: 1.5rem 0;
+      font-family: "museo-sans", sans-serif; }
     @media screen and (min-width: 48em) {
       .goal-container .goal-header .goal-nameContainer {
         padding-right: 3rem; } }
-    .goal-container .goal-header .goal-nameContainer .subtitle {
-      margin: 1.5rem 0;
-      font-family: "museo-sans", sans-serif; }
-    .goal-container .goal-header .goalInfo-container {
-      margin-top: 3rem; }
-      .goal-container .goal-header .goalInfo-container .sectionSubtitle {
-        border-bottom: 2px solid #707079;
-        margin: 0; }
-      .goal-container .goal-header .goalInfo-container ul.goalInfo-infoList {
-        list-style-type: none;
-        margin: 0.5rem 0;
-        padding: 0; }
-        .goal-container .goal-header .goalInfo-container ul.goalInfo-infoList li {
-          font-family: "museo-sans", sans-serif;
-          font-size: 14px;
-          font-size: 0.875rem;
-          color: #000000;
-          line-height: 1.4rem;
-          font-style: italic; }
-          .goal-container .goal-header .goalInfo-container ul.goalInfo-infoList li span.category {
-            text-transform: uppercase;
-            color: #797979;
-            font-style: normal; }
-          .goal-container .goal-header .goalInfo-container ul.goalInfo-infoList li.hasBorder {
-            margin-bottom: 0.5rem;
-            padding-bottom: 0.5rem;
-            border-bottom: 1px dashed #A8A8A8; }
-          .goal-container .goal-header .goalInfo-container ul.goalInfo-infoList li a.sector {
-            text-transform: uppercase;
-            font-weight: bold;
-            font-style: normal;
-            box-shadow: none; }
   .goal-container .goal-interactiveContainer {
     padding: 3rem 0; }
+
+/*----------  Goal Meta Information  ----------*/
+.goalInfo-container .sectionSubtitle {
+  border-bottom: 2px solid #707079;
+  margin: 0; }
+.goalInfo-container ul.goalInfo-infoList {
+  list-style-type: none;
+  margin: 0.5rem 0;
+  padding: 0; }
+  .goalInfo-container ul.goalInfo-infoList li {
+    font-family: "museo-sans", sans-serif;
+    font-size: 14px;
+    font-size: 0.875rem;
+    color: #000000;
+    line-height: 1.4rem;
+    font-style: italic; }
+    .goalInfo-container ul.goalInfo-infoList li span.category {
+      text-transform: uppercase;
+      color: #797979;
+      font-style: normal; }
+    .goalInfo-container ul.goalInfo-infoList li.hasBorder {
+      margin-bottom: 0.5rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px dashed #A8A8A8; }
+    .goalInfo-container ul.goalInfo-infoList li a.sector {
+      text-transform: uppercase;
+      font-weight: bold;
+      font-style: normal;
+      box-shadow: none; }
 
 /*===============================
 =            Vendors            =

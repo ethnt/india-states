@@ -58,9 +58,7 @@
           <nav class="header-nav">
   <input type="checkbox" name="toggleMenu" id="toggleMenu" />
   <label for="toggleMenu">
-    <span class="menu-icon">
-      <svg id="mobile-menu" data-name="mobile-menu" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 29"><defs><style>.cls-1{fill:#004165;}.cls-2{fill:#fff;}</style></defs><title>mobile-menu</title><path class="cls-1" d="M36.67 0H1.33A1.31 1.31 0 0 0 0 1.29v26.42A1.31 1.31 0 0 0 1.33 29h35.34A1.31 1.31 0 0 0 38 27.71V1.29A1.31 1.31 0 0 0 36.67 0"/><path class="cls-2" d="M29.58 7H8.47a1.87 1.87 0 0 0-.8.09v1.82a1.87 1.87 0 0 0 .8.09h21.11a1.87 1.87 0 0 0 .8-.09V7.09a1.87 1.87 0 0 0-.8-.09m0 6H8.47a1.87 1.87 0 0 0-.8.09v1.82a1.87 1.87 0 0 0 .8.09h21.11a1.87 1.87 0 0 0 .8-.09v-1.82a1.87 1.87 0 0 0-.8-.09M8.47 19a1.87 1.87 0 0 0-.8.09v1.82a1.87 1.87 0 0 0 .8.09h21.11a1.87 1.87 0 0 0 .8-.09v-1.82a1.87 1.87 0 0 0-.8-.09z"/><path class="cls-1" d="M36.67 0H1.33A1.31 1.31 0 0 0 0 1.29v26.42A1.31 1.31 0 0 0 1.33 29h35.34A1.31 1.31 0 0 0 38 27.71V1.29A1.31 1.31 0 0 0 36.67 0"/><path class="cls-2" d="M29.58 7H8.47a1.87 1.87 0 0 0-.8.09v1.82a1.87 1.87 0 0 0 .8.09h21.11a1.87 1.87 0 0 0 .8-.09V7.09a1.87 1.87 0 0 0-.8-.09m0 6H8.47a1.87 1.87 0 0 0-.8.09v1.82a1.87 1.87 0 0 0 .8.09h21.11a1.87 1.87 0 0 0 .8-.09v-1.82a1.87 1.87 0 0 0-.8-.09M8.47 19a1.87 1.87 0 0 0-.8.09v1.82a1.87 1.87 0 0 0 .8.09h21.11a1.87 1.87 0 0 0 .8-.09v-1.82a1.87 1.87 0 0 0-.8-.09z"/></svg>
-    </span>
+    <div id="nav-toggle"><span></span></div>
   </label>
 
   <div class="header-navListContainer">
@@ -75,10 +73,6 @@
         <ul>
           <li class="dropdown-viewAll"><a href="/states/">View All States</a></li>
           
-  <li>
-    <a href='/states/andaman-and-nicobar-islands'>Andaman and Nicobar Islands</a>
-  </li>
-
   <li>
     <a href='/states/andhra-pradesh'>Andhra Pradesh</a>
   </li>
@@ -96,19 +90,11 @@
   </li>
 
   <li>
-    <a href='/states/chandigarh'>Chandigarh</a>
+    <a href='/states/center-state-relations'>Center-State Relations</a>
   </li>
 
   <li>
     <a href='/states/chattisgarh'>Chattisgarh</a>
-  </li>
-
-  <li>
-    <a href='/states/dadra-and-nagar-haveli'>Dadra and Nagar Haveli</a>
-  </li>
-
-  <li>
-    <a href='/states/daman-and-diu'>Daman and Diu</a>
   </li>
 
   <li>
@@ -148,10 +134,6 @@
   </li>
 
   <li>
-    <a href='/states/lakshwadeep'>Lakshwadeep</a>
-  </li>
-
-  <li>
     <a href='/states/madhya-pradesh'>Madhya Pradesh</a>
   </li>
 
@@ -168,7 +150,7 @@
   </li>
 
   <li>
-    <a href='/states/mizoramn'>Mizoramn</a>
+    <a href='/states/mizoram'>Mizoram</a>
   </li>
 
   <li>
@@ -216,7 +198,7 @@
   </li>
 
   <li>
-    <a href='/states/west-bengal'>West Bengal</a>
+    <a href='/states/west-bengal'>West bengal</a>
   </li>
 
         </ul>
@@ -230,30 +212,20 @@
           <li class="dropdown-viewAll"><a href="/sectors/">View All Sectors</a></li>
           
 <li>
-  <a href='/sectors/aerospace-and-defense'>Aerospace and Defense</a>
-
-  <!-- START: List Subsectors -->
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-</li>
-
-<li>
   <a href='/sectors/energy'>Energy</a>
 
   <!-- START: List Subsectors -->
   
   
   <li class="home-dropdownSubsector"><a href='/sectors/energy#coal'>Coal</a></li>
+  
+  
+  
+  <li class="home-dropdownSubsector"><a href='/sectors/energy#energy-efficiency'>Energy Efficiency</a></li>
+  
+  
+  
+  <li class="home-dropdownSubsector"><a href='/sectors/energy#energy-related-transportation'>Energy-related Transportation</a></li>
   
   
   
@@ -265,11 +237,11 @@
   
   
   
-  <li class="home-dropdownSubsector"><a href='/sectors/energy#power-and-energy-efficiency'>Power and Energy Efficiency</a></li>
+  <li class="home-dropdownSubsector"><a href='/sectors/energy#power'>Power</a></li>
   
   
   
-  <li class="home-dropdownSubsector"><a href='/sectors/energy#renewable'>Renewable</a></li>
+  <li class="home-dropdownSubsector"><a href='/sectors/energy#renewables'>Renewables</a></li>
   
   
 
@@ -313,7 +285,8 @@
           <ul class="header-breadcrumbsList">
 	<li><a href="/">Home</a></li>
 	
-	
+<!-- 	 -->
+
 	
 		<li >National Goals</li>
 	
@@ -345,7 +318,7 @@
 
 
 	<article class="goals-goalContainer">
-		<h2 class="sectionSubtitle"><a href="/national-goals/renewable-power-target/">Renewable Power Target</a></h2>
+		<h2 class="sectionSubtitle"><a href="/national-goals/solar-performance-tracker/">Solar Performance Tracker</a></h2>
 		<div class="row">
 			<div class="goal-summary col-xs-12 col-md-9">
 				<p>In 2014, Prime Minister Narendra Modi set a goal of reaching 100 MW of solar power generation capacity by 2022. In order to achieve this ambitious target, state governments must increase their rate of solar capacity growth. The Ministry of New and Renewable Energy (MNRE) has assigned each state a solar capacity target. The Indian States Solar Energy Performance Tracker is a tool to monitor the progress states have made in reaching this target.</p>
@@ -365,24 +338,12 @@
 
 	                  
 	                  
-	                    &gt;
-	                  
-	                    
-	                  
-	                    
-	                  
-	                    
-	                  
-	                    
-	                  
-	                    <a href='/sectors/energy#renewable' class="sectorSection-subsectorsListSubsector">Renewable</a>
-	                  
 	                    <br />
 	                
 	              </li>
 	              <li>
 	                <span class="category">Last Updated</span><br />
-	                    January 1, 2016
+	                    2017-31-01
 	              </li>
 	            </ul>
 	          </div>
@@ -399,7 +360,7 @@
     <div class="content-wrapper">
 
       <div class="row around-md">
-        <div class="col-xs-12 col-md-4">
+        <div class="footer-logoContainer col-xs-12 col-md-4">
           <a href="https://csis.org" target="_blank"><img src="/assets/img/csis-logo.svg" alt="Center for Strategic and International Studies" title="Center for Strategic and International Studies" /></a>
           <p>The CSIS Wadhwani Chair in U.S.-India Policy Studies aims to unlock the full potential of the U.S.-India relationship and leads the Center's work on India. The Chair serves as an independent platform to pursue policy changes that strengthen bilateral ties, placing special emphasis on accelerating economic development in India and promoting greater business and economic engagement between the two countries.</p>
           <address>
@@ -409,6 +370,8 @@
         </div>
         <div class="col-xs-12 col-md-4 footer-tweetsContainer">
           <h3 class="footer-title">Latest Tweets</h3>
+          <p>Continue the conversation online with #StatesEngaged</p>
+          <a class="twitter-timeline" data-theme="dark" data-link-color="#98B0BC" data-height="250" data-chrome="noheader nofooter noborders transparent" href="https://twitter.com/IndiaStatesCSIS">Tweets by IndiaStatesCSIS</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
         </div>
         <div class="col-xs-12 col-md-4">
           <h3 class="footer-title">Newsletter</h3>

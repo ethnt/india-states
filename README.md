@@ -118,4 +118,3 @@ These contain the static assets for the site, including images and JavaScript fi
 
 ### [pages].md
 Parent level pages on the site, such as `/about`, `/states`, `/sectors`, are created by making a `.md` file in the root directory of the project. See [Jekyll documentation](https://jekyllrb.com/docs/pages/) for more information.
-

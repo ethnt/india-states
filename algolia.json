@@ -1,0 +1,2484 @@
+[
+	
+		{
+			"objectID": "andhra-pradesh",
+			"title": "Andhra Pradesh",
+			"url": "/states/andhra-pradesh/",
+			"content_type": "State",
+			"states": "Andhra Pradesh",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>Over the last 15 years, Andhra Pradesh has won renown for the extraordinary development of the IT industry in its capital city of Hyderabad. The current state of Andhra Pradesh, however, lost most of the sector when its former territory was divided in two to create the state of Telangana. Under the vigorous and forward-looking leadership of Chief Minister Chandrababu Naidu, Andhra Pradesh is attempting to rebuild by making itself the most business-friendly state in India.</p>\n"
+		},
+	
+		{
+			"objectID": "arunachal-pradesh",
+			"title": "Arunachal Pradesh",
+			"url": "/states/arunachal-pradesh/",
+			"content_type": "State",
+			"states": "Arunachal Pradesh",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>Arunachal Pradesh is the largest by area of the so-called “Seven Sisters” of northeastern India. With a predominantly agrarian economy, Arunachal Pradesh has the lowest density of population compared to other states in India, and much of the state is uninhabitable due to its extreme terrain. While Arunachal Pradesh has some hydroelectric projects underway, its primary significant comes from the disputed border with China, which has been a source of friction for over 50 years.</p>\n"
+		},
+	
+		{
+			"objectID": "assam",
+			"title": "Assam",
+			"url": "/states/assam/",
+			"content_type": "State",
+			"states": "Assam",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>Assam is most populous and economically active of the northeastern states and thus acts as the nexus between the mainland and the northeast. Assam has historically failed to attract major industries, however, and its primary economic drivers are tea plantations and minor oil resources. Illegal immigration from Bangladesh is perceived as a major problem and has driven increased religious conflict in the state over the past 10 years. The BJP recently took control of the state legislature for the first time ever; increased alignment with the central government may improve the state’s prospects.</p>\n"
+		},
+	
+		{
+			"objectID": "bihar",
+			"title": "Bihar",
+			"url": "/states/bihar/",
+			"content_type": "State",
+			"states": "Bihar",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>Bihar has a historical reputation as India’s basket case: the poorest, densest, and most lawless state, rich only in emigrants who provide low-wage labor in every city in India. While much of this reputation is deserved, in recent years Bihar has frequently achieved double-digit growth thanks to the state government’s relentless focus on public works and on ensuring that even the poorest inhabitants can access state hand-outs. While this has raised the standard of living somewhat, Bihar is yet to position itself as a competitor for private investment.</p>\n"
+		},
+	
+		{
+			"objectID": "center-state-relations",
+			"title": "Center-State Relations",
+			"url": "/states/center-state-relations/",
+			"content_type": "State",
+			"states": "Center-State Relations",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>Rather than collecting news on a certain state, this section tracks developments in the complex relationship between the central government and the states. The contours of Indian federalism are constantly in flux, as the center and states give up and power on certain issues or seek to regain it. This section contains news and analysis reflecting that push and pull, as well as news about developments that effect an entire region rather than just a single state.</p>\n"
+		},
+	
+		{
+			"objectID": "chattisgarh",
+			"title": "Chattisgarh",
+			"url": "/states/chattisgarh/",
+			"content_type": "State",
+			"states": "Chattisgarh",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>Chhattisgarh is a mineral-rich state with abundant coal and iron ore resources whose coal production makes it energy surplus; but it is also one of India’s poorest states, with a poverty rate of 40 percent and low human development indicators. Long plagued by left-wing violence, with which it still struggles, Chhattisgarh’s government is trying to diversify the state’s economy by making it an attractive destination for non-extractive industries.</p>\n"
+		},
+	
+		{
+			"objectID": "delhi",
+			"title": "Delhi",
+			"url": "/states/delhi/",
+			"content_type": "State",
+			"states": "Delhi",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>New Delhi is the capital of the Republic of India and the seat of the central government. One of the largest cities in India, its economy no longer depends wholly on government offices; Delhi nourishes a thriving IT sector and its neighboring suburbs of Noida and Gurugram are home to the offices of many of India’s top corporations.</p>\n"
+		},
+	
+		{
+			"objectID": "goa",
+			"title": "Goa",
+			"url": "/states/goa/",
+			"content_type": "State",
+			"states": "Goa",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>The tiny coastal state of Goa has a reputation as one of India’s most relaxed states, thanks to its beaches and to the lifestyle that comes with the highest per capita GDP of any state in India. Wealth from tourism, mining, and the pharmaceutical industry, together with good governance, have brough high levels of development: almost every home in Goa is electrified. Perhaps resting on its laurels, the state has not fully entered the competition for foreign investment and ranked a surprisingly low 21 on the center’s ease of doing business index.</p>\n"
+		},
+	
+		{
+			"objectID": "gujarat",
+			"title": "Gujarat",
+			"url": "/states/gujarat/",
+			"content_type": "State",
+			"states": "Gujarat",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>The so-called “Gujarat model” of development–attracting foreign investment through high-quality infrastructure and an intense attention to the needs of investors–has made Gujarat one of India’s richest and most industrialized states and catapulted long-time Chief Minister Narendra Modi to national power in 2014. Gujarat remains on of India’s most attractive investment destinations, but the Gujarat model has been criticized for failing to improve the lives of the states poor, and Gujarat has not had equal success in developing 21st century industries such as the IT sector.</p>\n"
+		},
+	
+		{
+			"objectID": "haryana",
+			"title": "Haryana",
+			"url": "/states/haryana/",
+			"content_type": "State",
+			"states": "Haryana",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>Once a conservative and sleepy agrarian state, Haryana has capitalized on its proximity to Delhi to transform itself into one of India’s most developed states, with a large automobile industry and a major financial and industrial hub in the Delhi suburb of Gurugram. Haryana’s diversified economy–it is also home to a major IT industry–and its willingness to experiment with reforms of have made it one of India’s most dynamic states, although village life remains intensely conservative and women face many barriers to economic participation.</p>\n"
+		},
+	
+		{
+			"objectID": "himachal-pradesh",
+			"title": "Himachal Pradesh",
+			"url": "/states/himachal-pradesh/",
+			"content_type": "State",
+			"states": "Himachal Pradesh",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>Mountainous Himachal Pradesh, although a relatively well-off state, is also one of India’s slowest growing economies. Almost 90 percent of the state’s population lives in rural areas, and the economy is thus largely driven by agriculture and hydropower generation. Himachal Pradesh’s difficult terrain, lack of infrastructure, and status as a backwater that shares a high-altitude border with China have made industries slow to enter the state.</p>\n"
+		},
+	
+		{
+			"objectID": "jammu-and-kashmir",
+			"title": "Jammu and Kashmir",
+			"url": "/states/jammu-and-kashmir/",
+			"content_type": "State",
+			"states": "Jammu and Kashmir",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>Jammu &amp; Kashmir is best known for the decade-long insurgency that has marred upland Kashmir’s chances for development. The state’s special status under the Indian Constitution means it can reject many of the center’s reform-minded economic legislation, meaning that business conditions here may be quite different than in the rest of the country. Poor connectivity to the rest of India and mountainous terrain that makes even habitation impossible in some areas don’t help. As a result, Jammu &amp; Kashmir is largely agriculture-dependent, although the lowland Jammu region has had more success at building industry.</p>\n"
+		},
+	
+		{
+			"objectID": "jharkhand",
+			"title": "Jharkhand",
+			"url": "/states/jharkhand/",
+			"content_type": "State",
+			"states": "Jharkhand",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>Long held up as an example of the poverty of India’s eastern regions, Jharkhand is seeking to capitalize on its mineral-rich terrain to boost development. It remains to be seen whether the relatively vigorous government can overcome lingering left-wing violence and poor infrastructure to deliver inclusive growth.</p>\n"
+		},
+	
+		{
+			"objectID": "karnataka",
+			"title": "Karnataka",
+			"url": "/states/karnataka/",
+			"content_type": "State",
+			"states": "Karnataka",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>Karnataka–and particularly its capital, Bangalore–shot to prominence in the 1990s as the home of India’s burgeoning IT industry. While Bangalore now faces steeper competition for the title of India’s “Silicon Valley,” it is still one of the most important destinations for foreign and domestic investment in India. Karnataka has also successfully built hubs in the aerospace and biotech industries, although its government is not known for aggressive reforms.</p>\n"
+		},
+	
+		{
+			"objectID": "kerala",
+			"title": "Kerala",
+			"url": "/states/kerala/",
+			"content_type": "State",
+			"states": "Kerala",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>Kerala is proud of its reputation as one of India’s most independent states, pursuing a course quite different from that laid out by the central government. It has nurtured a leftist economic model that has brought stellar human development indicators but has failed to provide enough jobs, leading millions of residents to seek work in the Gulf over the past generation. Kerala is now seeking to create jobs at home, with a strong emphasis on making itself an IT and start-up hub.</p>\n"
+		},
+	
+		{
+			"objectID": "madhya-pradesh",
+			"title": "Madhya Pradesh",
+			"url": "/states/madhya-pradesh/",
+			"content_type": "State",
+			"states": "Madhya Pradesh",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>Madhya Pradesh, India’s second largest state by area, is seeking to build a reputation as one of the country’s most dynamic states despite the steep challenges presented by a poor, largely agrarian and rural population. Led by a stable and vigorous government closely aligned with Prime Minister Modi, the state is seeking to attract foreign investment in agribusiness and manufacturing.</p>\n"
+		},
+	
+		{
+			"objectID": "maharashtra",
+			"title": "Maharashtra",
+			"url": "/states/maharashtra/",
+			"content_type": "State",
+			"states": "Maharashtra",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>Maharashtra is India’s economic powerhouse, home to the economic capital of Mumbai and the source of 40% of the central government’s tax revenues. But the massive state also embodies many of India’s contradictions; its eastern reaches are remote, prone to drought, and deeply poor. The current government is seeking to bring development to those areas while not neglecting the needs of fractious and ungovernable Mumbai.</p>\n"
+		},
+	
+		{
+			"objectID": "manipur",
+			"title": "Manipur",
+			"url": "/states/manipur/",
+			"content_type": "State",
+			"states": "Manipur",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>One of India’s isolated northeastern states, Manipur shares a long and rugged border with Myanmar and is a key location for India’s plans to improve connectivity to southeast Asia. Until connectivity improves, Manipur will remain something of a dead end for trade and will likely be unable to overcome the bifurcation of its current politics, split between tribal groups inhabiting its hills and those in its central valley.</p>\n"
+		},
+	
+		{
+			"objectID": "meghalaya",
+			"title": "Meghalaya",
+			"url": "/states/meghalaya/",
+			"content_type": "State",
+			"states": "Meghalaya",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>Sandwiched between Bangladesh and the Indian state of Assam, Meghalaya is distinguished from the much larger Assam by its hilly terrain and largely Christian population. With little trade or industry, the state’s population largely supports itself with subsistence farming, but the abundance of water makes Meghalaya an important location for hydroelectric power development.</p>\n"
+		},
+	
+		{
+			"objectID": "mizoram",
+			"title": "Mizoram",
+			"url": "/states/mizoram/",
+			"content_type": "State",
+			"states": "Mizoram",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>Mizoram is perhaps the most isolated of any of India’s states, surrounded as it is by Bangladesh in the west and Myanmar in the east. The cultural, religious, and linguistic distinctiveness of the native Mizo people have made the state slow to integrate with India as a whole. Suspicion of outsiders and special treatment from the central government has made the state reluctant to adopt market-based approaches to development.</p>\n"
+		},
+	
+		{
+			"objectID": "nagaland",
+			"title": "Nagaland",
+			"url": "/states/nagaland/",
+			"content_type": "State",
+			"states": "Nagaland",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>Nagaland was created as the homeland for the Naga people, an ethnic group that has fostered one of India’s longest-running insurgencies. The state’s unsecured border with northern Myanmar has benefited armed groups but has not led to significant licit trade. The state’s politics are dominated by the simmering conflict, with a single party uniting all interest groups. Economic development has long been low on the agenda.</p>\n"
+		},
+	
+		{
+			"objectID": "odisha",
+			"title": "Odisha",
+			"url": "/states/odisha/",
+			"content_type": "State",
+			"states": "Odisha",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>Odisha struggles with significant challenges, including a difficult neighborhood, persistent left-wing violence, and interior districts that are some of the poorest and most isolated in India. The state government, led by the Biju Janata Dal, has largely responded with populist measures that have won it unusual stability in office. Increased pressure from the opposition, however, may prompt the government to rethink its approach.</p>\n"
+		},
+	
+		{
+			"objectID": "puducherry",
+			"title": "Puducherry",
+			"url": "/states/puducherry/",
+			"content_type": "State",
+			"states": "Puducherry",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>Puducherry is a union territory which comprises the former French colonies Puducherry, Karaikal, Mahe and Yanam, situated in tiny enclaves on both India’s Atlantic and Pacific coasts. Puducherry’s small size and fractured terrain mean that it lacks a unified economy, and its various enclaves are more likely to take on the characteristics of the states around them.</p>\n"
+		},
+	
+		{
+			"objectID": "punjab",
+			"title": "Punjab",
+			"url": "/states/punjab/",
+			"content_type": "State",
+			"states": "Punjab",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>Thanks to the Green Revolution, for 50 years Punjab has been the breadbasket of India. It’s large, prosperous farms still provide one of the highest standards of living of any Indian state. But Punjab has struggled in recent years thanks to the fall in food prices and its failure to build 21st-century industries such as agriprocessing. It doesn’t help that the state’s previous government was widely perceived as ineffective and complicit in large-scale corruption; it remains to be seen whether the new Congress government can bring change.</p>\n"
+		},
+	
+		{
+			"objectID": "rajasthan",
+			"title": "Rajasthan",
+			"url": "/states/rajasthan/",
+			"content_type": "State",
+			"states": "Rajasthan",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>Rajasthan is the largest state in India by area, much of which is composed of the nearly uninhabitable Thar desert. Rajasthan’s lack of water long kept it a deeply poor state of nomadic herdsmen, but the present government is working hard to diversify the economy, using bold reforms in an attempt to attract investment and industry.</p>\n"
+		},
+	
+		{
+			"objectID": "sikkim",
+			"title": "Sikkim",
+			"url": "/states/sikkim/",
+			"content_type": "State",
+			"states": "Sikkim",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>Sikkim sticks out sharply from India’s northern border, sharing frontiers with more countries (Nepal, China, and Bhutan) than it does with fellow states (West Bengal). Its mountainous terrain has kept it culturally and economically isolated from the rest of India, with agriculture and tourism major industries, but in recent years Sikkim has harnessed the power of central government investment to become one of India’s fastest growing states.</p>\n"
+		},
+	
+		{
+			"objectID": "tamil-nadu",
+			"title": "Tamil Nadu",
+			"url": "/states/tamil-nadu/",
+			"content_type": "State",
+			"states": "Tamil Nadu",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>Tamil Nadu, which prizes its distinctiveness and independence from northern India, was one of India’s first states to industrialize and has built an impressive industrial base. Its high-functioning bureaucracy is known for excellent administration of welfare schemes, giving the state some of the best social indicators in India. In recent years, however, Tamil Nadu’s competitiveness has slipped as its government has been slow to adopt reforms or to appeal to foreign investors.</p>\n"
+		},
+	
+		{
+			"objectID": "telangana",
+			"title": "Telangana",
+			"url": "/states/telangana/",
+			"content_type": "State",
+			"states": "Telangana",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>The 29th and newest state in India, Telangana was birthed from the division of Andhra Pradesh into two states in 2014. Its capital Hyderabad is home to one of India’s largest IT hubs, with large technology firms such as Google, Facebook, Microsoft, etc. based there. Competition between Telangana and Andhra Pradesh for investment has led the Telangana government to take the lead in e-governance and promotion of startups.</p>\n"
+		},
+	
+		{
+			"objectID": "tripura",
+			"title": "Tripura",
+			"url": "/states/tripura/",
+			"content_type": "State",
+			"states": "Tripura",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>One of the isolated states of India’s northeast, Tripura is located between Assam, Mizoram and shares an international border with Bangladesh. It is rich in natural resources such as natural gas and limestone, and is also one of the largest producers of rubber in the country, but it has little industry. Tripura is one of the last strongholds of the Indian communist party, which has governed the state for decades.</p>\n"
+		},
+	
+		{
+			"objectID": "uttar-pradesh",
+			"title": "Uttar Pradesh",
+			"url": "/states/uttar-pradesh/",
+			"content_type": "State",
+			"states": "Uttar Pradesh",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>Uttar Pradesh is India’s largest state in terms of population and often acts as the center of gravity of northern Indian politics. Underdeveloped and historically seen as ungovernable, Uttar Pradesh struggles with almost every challenge modern India faces: poverty, communal tension, poor infrastructure, etc. Yet the state has seen growth in recent years, and the scale of its problems offers an unbeatable opportunity to test innovative solutions.</p>\n"
+		},
+	
+		{
+			"objectID": "uttarakhand",
+			"title": "Uttarakhand",
+			"url": "/states/uttarakhand/",
+			"content_type": "State",
+			"states": "Uttarakhand",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>Due to the strong growth in capital investments, Uttarakhand is one of the fastest growing states in India. Uttarakhand, which was broken off from Uttar Pradesh in 2001, is divided between the plains and the Himalayan foothills and is home to some of the holiest religious sites in India.</p>\n"
+		},
+	
+		{
+			"objectID": "west-bengal",
+			"title": "West Bengal",
+			"url": "/states/west-bengal/",
+			"content_type": "State",
+			"states": "West Bengal",
+			"posted_at": 0,
+			"weight": {
+				"position": 1
+			},
+			"excerpt": "<p>With the Himalayas to the north, and the Bay of Bengal to the south, West Bengal is the largest and most economically important state in eastern India. ALthough it was once one of the richest and most industrialized states in India, decades of left-wing government largely succeeded in driving out international investors. Under the stable government of Mamata Banerjee, West Bengal is seeking to attract investment once again while hanging on to its leftist bona fides.</p>\n"
+		}
+	
+	,
+	
+		{
+			"objectID": "energy",
+			"title": "Energy",
+			"url": "/sectors/energy/",
+			"content_type": "Sector",
+			"sectors": "Energy",
+			"posted_at": 0,
+			"weight": {
+				"position": 2
+			},
+			"excerpt": "<p>India faces a complex energy challenge: it needs cheap and abundant energy to power high economic growth and lift its citizens into the middle class. But it also hopes to keep its commitments to the U.N. Climate Change Convention and achieve energy independence. India’s states have the resources to generate the energy India needs, but they take different approaches to fostering the growth of the industry. This section allows you to explore energy news from India’s states and offers the Wadhwani Chair’s analysis of India’s energy sector.</p>\n"
+		}
+	
+	,
+	
+		{
+			"objectID": "coal",
+			"title": "Coal",
+			"url": "/sectors/energy#coal",
+			"content_type": "Subsector",
+			"sectors": "Energy",
+			"posted_at": 0,
+			"weight": {
+				"position": 3
+			},
+			"excerpt": "<p>The coal sector in India has had a dramatic turnaround; from an era of mismanagement and opacity, to one of greater transparency in allocation of coal blocks and improvements in management and technologies used to mine and process raw material. These reforms have boosted domestic production to the point that India is nearly self-sufficient in coal. Despite this turnaround, however, weak power demand, the central government’s commitment to renewable energy, and political meddling in electricity tariffs continues to threaten the sector. This section examines the coal sector in terms of renewable energy expansion, commitment to super critical technologies, the commissioning of new plants in some states, and economic hurdles in other states.</p>\n"
+		},
+	
+		{
+			"objectID": "energy-efficiency",
+			"title": "Energy Efficiency",
+			"url": "/sectors/energy#energy-efficiency",
+			"content_type": "Subsector",
+			"sectors": "Energy",
+			"posted_at": 0,
+			"weight": {
+				"position": 3
+			},
+			"excerpt": "<p>A surge in demand-side management measures has helped mitigate the rise in power demand across India. Various components under the National Mission on Enhanced Energy Efficiency including the Perform Achieve Trade program and the enactment of Energy Conservation Building Codes, which have helped make buildings more energy-efficient. This section highlights those measures as well as the Unnat Jyoti Affordable LEDs for All initiative, deployment of efficient irrigation pumps, and the national LED street light program.</p>\n"
+		},
+	
+		{
+			"objectID": "energy-related-transportation",
+			"title": "Energy-related Transportation",
+			"url": "/sectors/energy#energy-related-transportation",
+			"content_type": "Subsector",
+			"sectors": "Energy",
+			"posted_at": 0,
+			"weight": {
+				"position": 3
+			},
+			"excerpt": "<p>The transportation sector is rapidly increasing its energy consumption. As India’s states expand their public transportation systems, sales of private vehicles soar, and cities grow, more energy will be consumed. In this section we highlight state-level policies and regulations affecting the growth of the electric vehicle market and transportation fuel pricing, as well as the energy needs of and innovation in the aviation, shipping, and railway industries.</p>\n"
+		},
+	
+		{
+			"objectID": "nuclear",
+			"title": "Nuclear",
+			"url": "/sectors/energy#nuclear",
+			"content_type": "Subsector",
+			"sectors": "Energy",
+			"posted_at": 0,
+			"weight": {
+				"position": 3
+			},
+			"excerpt": "<p>Authority over nuclear power lies with the central government, but only states have the power to acquire the land for the plants themselves. In addition, state-level politics can delay the siting and construction of proposed plants. India thus depends on state-level openness to nuclear power, and state policies on land acquisition, to meet its target of expanding its civil nuclear capacity to 60 GW.</p>\n"
+		},
+	
+		{
+			"objectID": "oil-and-gas",
+			"title": "Oil and Gas",
+			"url": "/sectors/energy#oil-and-gas",
+			"content_type": "Subsector",
+			"sectors": "Energy",
+			"posted_at": 0,
+			"weight": {
+				"position": 3
+			},
+			"excerpt": "<p>Primarily the domain of central government authorities, the expansion of India’s oil and gas sector is influenced by international trade agreements, investments in upstream and downstream infrastructure, licensing for exploration and development of oil and gas fields, subsidies to end users, and regulations on fuel efficiency. In this section we highlight states that are seeing the greatest level of activity and examine how programs like the Pradhan Mantri Ujjwala Yojana are affecting the growth of the sector.</p>\n"
+		},
+	
+		{
+			"objectID": "power",
+			"title": "Power",
+			"url": "/sectors/energy#power",
+			"content_type": "Subsector",
+			"sectors": "Energy",
+			"posted_at": 0,
+			"weight": {
+				"position": 3
+			},
+			"excerpt": "<p>India’s power sector is entering a new era of surplus generation, yet its distribution companies are still hobbled by crippling debt. Transmission networks continue to expand, bringing electricity access to the far corners of the country while preparing to integrate vast quantities of power generated through renewable energy sources. Central and state governments share responsibility for providing electricity. States set electricity tariffs and have considerable freedom in allocating subsidies to power producers. In this section we highlight major reforms in the power sector, such as the Ujwal Discom Assurance Yojana (UDAY), investments in power sector infrastructure, alternative models for power monitoring and distribution, and policies affecting electricity tariffs.</p>\n"
+		},
+	
+		{
+			"objectID": "renewables",
+			"title": "Renewables",
+			"url": "/sectors/energy#renewables",
+			"content_type": "Subsector",
+			"sectors": "Energy",
+			"posted_at": 0,
+			"weight": {
+				"position": 3
+			},
+			"excerpt": "<p>The central government’s commitment to installing 175 GW of renewable energy capacity by 2022 has led to a flurry of policies to ensure investments in this growing sector, including requirements that state distribution companies purchase renewable energy. Renewable energy technologies are helping India become a power surplus state while simultaneously disrupting its power sector. Indian states have a wide variety of renewable energy policies and have made mixed progress towards creating a business environment in which these new technologies can thrive. In this section we highlight state-level policies on renewable energy technologies, investments for project development, power purchase agreements, and renewable energy technology and business innovation.</p>\n"
+		}
+	
+	,
+	
+		
+		
+		
+		
+		{
+			"objectID": "west-bengal-to-get-its-first-super-critical-thermalpower-plant",
+			"title": "West Bengal to get its first super-critical thermalpower plant",
+			"url": "/articles/west-bengal-to-get-its-first-super-critical-thermalpower-plant/",
+			"content_type": "Articles",
+			"states": ["West Bengal"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["PFC","Murshidabad","Sagardighi"],
+			"date": "March 15, 2017",
+			"posted_at": "1489536000",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The state-run Power Finance Corp has sanctioned financial assistance of $408.5 million for West Bengal’s first super critical thermal power project in Murshidabad district. West Bengal Power Development Corporation Ltd will expand the Sagardighi Thermal Power Station with a new 660 MW unit.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "telangana-presents-budget-for-2017-18",
+			"title": "Telangana presents budget for 2017-18",
+			"url": "/articles/telangana-presents-budget-for-2017-18/",
+			"content_type": "Articles",
+			"states": ["Telangana"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["Budget","Etala Rajender"],
+			"date": "March 15, 2017",
+			"posted_at": "1489536000",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>State Finance Minister Etala Rajender presented a $22.4 billion budget for 2017-18. The budget increased allocation for the agriculture and power sectors as well as various welfare measures. Rajender said Telangana is projected to achieve growth of over 10.1 percent during the current fiscal.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "second-unit-of-kudankulam-reaches-full-generation-capacity",
+			"title": "Second unit of Kudankulam reaches full generation capacity",
+			"url": "/articles/second-unit-of-kudankulam-reaches-full-generation-capacity/",
+			"content_type": "Articles",
+			"states": ["Tamil Nadu","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Nuclear"],
+			"tags": ["Kudankulam"],
+			"date": "March 15, 2017",
+			"posted_at": "1489536000",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Unit 2 of the Kudankulam nuclear power plant reached its full capacity of 1,000 MW, becoming the second nuclear reactor in the country to generate 1,000MW.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "over-90-percent-of-land-for-pavagada-solar-park-acquired-in-karnataka",
+			"title": "Over 90 percent of land for Pavagada solar park acquired in Karnataka",
+			"url": "/articles/over-90-percent-of-land-for-pavagada-solar-park-acquired-in-karnataka/",
+			"content_type": "Articles",
+			"states": ["Karnataka"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Solar","Pavagada","SECI"],
+			"date": "March 15, 2017",
+			"posted_at": "1489536000",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Karnataka Solar Power Development Corporation has managed to acquire 12,000 of the 13,000 acres identified for the Pavagada solar park, allowing it to start infrastructure work. The state hopes to generate around 2,700 megawatts (MW) from the park by the end of 2018. The park is being developed by the Karnataka Solar Power Development Corp. Ltd., a joint venture between Karnataka Renewable Energy Development Ltd and the Solar Energy Corp. of India.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "ntpc-commissions-solar-project-in-rajasthan",
+			"title": "NTPC commissions solar project in Rajasthan",
+			"url": "/articles/ntpc-commissions-solar-project-in-rajasthan/",
+			"content_type": "Articles",
+			"states": ["Rajasthan","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Solar","NTPC","Bhandla"],
+			"date": "March 15, 2017",
+			"posted_at": "1489536000",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The National Thermal Power Corporation announced commissioning of a 45 MW capacity solar plant at Bhadla in Rajasthan, taking the total installed capacity of the project to 160 MW.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "new-regulations-in-western-madhya-pradesh-for-getting-power-connection-approvals",
+			"title": "New regulations in western Madhya Pradesh for getting power connection approvals",
+			"url": "/articles/new-regulations-in-western-madhya-pradesh-for-getting-power-connection-approvals/",
+			"content_type": "Articles",
+			"states": ["Madhya Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["Distribution"],
+			"date": "March 15, 2017",
+			"posted_at": "1489536000",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Madhya Pradesh Paschim Kshetra Vidyut Vitaran Company Ltd. will make it compulsory for both commercial and residential consumers to submit a photograph while applying for a new power connection. Contractors installing supply lines will have to submit a report on how much supply is needed for each connection. The moves are meant to control power loss and avoid cases of overloading.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "india-s-largest-floating-solar-power-plant-starts-generation-of-power",
+			"title": "India&#39;s largest floating solar power plant starts generation of power",
+			"url": "/articles/india-s-largest-floating-solar-power-plant-starts-generation-of-power/",
+			"content_type": "Articles",
+			"states": ["Kerala","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Solar","NTPC","Kayamkulam"],
+			"date": "March 15, 2017",
+			"posted_at": "1489536000",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The National Thermal Power Corporation began power generation from India’s largest floating solar power plant at Kayamkulam. The 100 kilowatt peak floating solar generation plant was indigenously developed at the Rajiv Gandhi Combined Cycle Power Plant in Kerala’s Kayamkulam district, the company said.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "delhi-to-modernize-its-electrical-grid-with-support-from-nokia",
+			"title": "Delhi to modernize its electrical grid with support from Nokia",
+			"url": "/articles/delhi-to-modernize-its-electrical-grid-with-support-from-nokia/",
+			"content_type": "Articles",
+			"states": ["Delhi"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["Nokia","Telecom","Tata Power-DDL"],
+			"date": "March 15, 2017",
+			"posted_at": "1489536000",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Tata Power Delhi Distribution Ltd (Tata Power-DDL) has joined with telecom equipment maker Nokia to modernize electrical grids. Nokia has provided Tata Power-DDL with an Internet protocol/multiprotocol label switching network to support the management of its electrical grids in north and north-west Delhi.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "50-mw-wind-afrm-to-come-up-at-amba-in-madhya-pradesh",
+			"title": "50 MW wind afrm to come up at Amba in Madhya Pradesh",
+			"url": "/articles/50-mw-wind-afrm-to-come-up-at-amba-in-madhya-pradesh/",
+			"content_type": "Articles",
+			"states": ["Madhya Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Wind","Gamesa","IL&FS"],
+			"date": "March 15, 2017",
+			"posted_at": "1489536000",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Renewable energy firm Gamesa announced that it has secured an order from Infrastructure Leasing &amp; Financial Services for a 50 MW wind farm project at Amba, Madhya Pradesh.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "tripura-to-increase-its-power-supply-to-eastern-bangaldesh",
+			"title": "Tripura to increase its power supply to eastern Bangaldesh",
+			"url": "/articles/tripura-to-increase-its-power-supply-to-eastern-bangaldesh/",
+			"content_type": "Articles",
+			"states": ["Tripura"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["Bangladesh"],
+			"date": "March 8, 2017",
+			"posted_at": "1488931200",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Tripura will supply eastern Bangladesh with a further 60 MW of electricity, beyond the 100 MW it has been providing since March 2016.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "telangana-s-transco-successfully-installs-and-tests-new-feeder-bays-at-dichpally",
+			"title": "Telangana&#39;s TRANSCO successfully installs and tests new feeder bays at Dichpally",
+			"url": "/articles/telangana-s-transco-successfully-installs-and-tests-new-feeder-bays-at-dichpally/",
+			"content_type": "Articles",
+			"states": ["Telangana","Chattisgarh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["Feeder","Distribution","Transmission","Dichpally"],
+			"date": "March 8, 2017",
+			"posted_at": "1488931200",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Telangana Transco announced the successful installation and test charge of two new feeder bays at the Dichpally substation, the final step necessary before Telangana can begin to receive power from Chhattisgarh. Telangana’s two discoms are set to get 1,000 MW of electricity beginning in the middle of March.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "steel-giant-arcelormittal-seeks-permission-to-use-steel-mill-location-to-build-600-mw-solar-plant-instead",
+			"title": "Steel giant ArcelorMittal seeks permission to use steel mill location to build 600 MW solar plant instead",
+			"url": "/articles/steel-giant-arcelormittal-seeks-permission-to-use-steel-mill-location-to-build-600-mw-solar-plant-instead/",
+			"content_type": "Articles",
+			"states": ["Karnataka"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["ArcelorMittal","Solar"],
+			"date": "March 8, 2017",
+			"posted_at": "1488931200",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Steel giant ArcelorMittal is seeking the state government’s permission to build a 600 megawatt (MW) solar plant on a site that was originally meant for a steel mill with the capacity to produce six million metric tons per year. ArcelorMittal cited steel overcapacity worldwide and the uncertainty of iron ore availability in the area as reasons for the change.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "delhi-to-release-its-new-solar-policy-effective-in-april",
+			"title": "Delhi to release its new solar policy, effective in April",
+			"url": "/articles/delhi-to-release-its-new-solar-policy-effective-in-april/",
+			"content_type": "Articles",
+			"states": ["Delhi"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Solar Policy","Solar Rooftop"],
+			"date": "March 8, 2017",
+			"posted_at": "1488931200",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Delhi announced that its new solar power policy will come into effect in April. The policy will include a list of vendors of solar panels who are eligible for the center’s 30 percent subsidy on rooftop solar system. Consumers will receive an incentive of 3 cents (INR 2) for every kilowatt of energy they generate from the systems.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "west-bengal-and-gail-work-together-to-supply-natural-gas-to-kolkata",
+			"title": "West Bengal and GAIL work together to supply natural gas to Kolkata",
+			"url": "/articles/west-bengal-and-gail-work-together-to-supply-natural-gas-to-kolkata/",
+			"content_type": "Articles",
+			"states": ["West Bengal","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Oil and Gas"],
+			"tags": ["GAIL","Kolkata"],
+			"date": "March 1, 2017",
+			"posted_at": "1488326400",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>West Bengal will enter into a joint venture with the Gas Authority of India Limited (GAIL) to supply natural gas to every household in greater Kolkata. GAIL, which will control 74 percent of the venture, will finance the project while the stat will provide land and infrastructure.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "tata-power-to-institute-a-15-mw-solar-power-plant-in-telangana",
+			"title": "Tata Power to institute a 15 MW solar power plant in Telangana",
+			"url": "/articles/tata-power-to-institute-a-15-mw-solar-power-plant-in-telangana/",
+			"content_type": "Articles",
+			"states": ["Telangana"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Tata Power","Solar","Bellampally"],
+			"date": "March 1, 2017",
+			"posted_at": "1488326400",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Tata Power Renewable Energy Ltd, a wholly-owned subsidiary of Tata Power, synchronised its 15 MW solar plant at Bellampally, taking Tata Power’s total installed operating capacity past 10,500 MW.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "sikkim-joins-center-s-uday-power-bailout-initiative",
+			"title": "Sikkim joins center&#39;s UDAY power bailout initiative",
+			"url": "/articles/sikkim-joins-center-s-uday-power-bailout-initiative/",
+			"content_type": "Articles",
+			"states": ["Sikkim"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["UDAY","Distribution"],
+			"date": "March 1, 2017",
+			"posted_at": "1488326400",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Sikkim has become the 22nd state to join the Ujwal Discom Assurance Yojana (UDAY)—the bailout program designed to free state electricity distribution companies from their debt burdens. Membership is estimate to bring the state a financial benefit of $53.3 million.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "reported-lag-in-addition-of-convetional-energy-sources-in-gujarat",
+			"title": "Reported lag in addition of convetional energy sources in Gujarat",
+			"url": "/articles/reported-lag-in-addition-of-convetional-energy-sources-in-gujarat/",
+			"content_type": "Articles",
+			"states": ["Gujarat"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables","Coal"],
+			"tags": ["Electricity"],
+			"date": "March 1, 2017",
+			"posted_at": "1488326400",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Subdued electricity demand coupled with surplus availability has led to a marked slowdown in the addition of new capacity from conventional energy sources in Gujarat. Installed electricity generation capacity of non-renewable sources grew by just 0.7 percent in 2015-16, compared to 6.2 percent in 2013-14.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "powergrid-wins-a-transmission-project-in-eastern-west-bengal",
+			"title": "POWERGRID wins a transmission project in eastern West Bengal",
+			"url": "/articles/powergrid-wins-a-transmission-project-in-eastern-west-bengal/",
+			"content_type": "Articles",
+			"states": ["West Bengal","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["POWERGRID","Transmission"],
+			"date": "March 1, 2017",
+			"posted_at": "1488326400",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Power Grid Corporation has won a 765 kilovolt (kV) transmission project in the eastern part of the state following a competitive auction conducted by the Power Finance Corporation.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "mandatory-installation-of-solar-in-private-schools-in-haryana-special-incentives-for-girls-schools",
+			"title": "Mandatory installation of solar in private schools in Haryana, special incentives for girls&#39; schools",
+			"url": "/articles/mandatory-installation-of-solar-in-private-schools-in-haryana-special-incentives-for-girls-schools/",
+			"content_type": "Articles",
+			"states": ["Haryana"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Solar"],
+			"date": "March 1, 2017",
+			"posted_at": "1488326400",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Haryana government will require all private schools in the state to install solar power systems. Girls’ schools will be able to apply for a grant to cover the cost of the systems at a rate of $300 per kilowatt.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "madhya-pradesh-calls-for-application-for-rooftop-solar-installations",
+			"title": "Madhya Pradesh calls for application for rooftop solar installations",
+			"url": "/articles/madhya-pradesh-calls-for-application-for-rooftop-solar-installations/",
+			"content_type": "Articles",
+			"states": ["Madhya Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Solar","MRUVNL"],
+			"date": "March 1, 2017",
+			"posted_at": "1488326400",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Madhya Pradesh Urja Vikas Nigam, a public sector utility focusing on non-conventional sources of energy, is calling for applications from citizens interested in installing rooftop solar systems. Consumers will be able to sell excess power back to the state government.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "delhi-expected-to-surpass-its-peak-power-demand-from-last-year",
+			"title": "Delhi expected to surpass its peak power demand from last year",
+			"url": "/articles/delhi-expected-to-surpass-its-peak-power-demand-from-last-year/",
+			"content_type": "Articles",
+			"states": ["Delhi"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": [],
+			"date": "March 1, 2017",
+			"posted_at": "1488326400",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Delhi’s peak power demand may touch 6,600 megawatts (MW) this summer, surpassing last year’s peak of 6,261 MW — so far the highest ever recorded.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "andhra-set-to-launch-its-solar-farming-policy",
+			"title": "Andhra set to launch its &#39;solar farming&#39; policy",
+			"url": "/articles/andhra-set-to-launch-its-solar-farming-policy/",
+			"content_type": "Articles",
+			"states": ["Andhra Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables","Energy Efficiency"],
+			"tags": ["Solar","Pumps"],
+			"date": "March 1, 2017",
+			"posted_at": "1488326400",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Andhra Pradesh energy department is set to launch the ‘Solar Farming’ program, under which existing pump sets will be replaced with energy-efficient solar pumps that generate their own power. Farmers can sell surplus energy to the grid.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "adb-supports-expansion-of-inter-regional-power-connectivity",
+			"title": "ADB supports expansion of inter-regional power connectivity",
+			"url": "/articles/adb-supports-expansion-of-inter-regional-power-connectivity/",
+			"content_type": "Articles",
+			"states": ["Chattisgarh","Tamil Nadu","Kerala","Rajasthan","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power","Renewables"],
+			"tags": ["Transmission","POWERGRID"],
+			"date": "March 1, 2017",
+			"posted_at": "1488326400",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>India and the ADB signed a $500 million loan to expand inter-regional power connectivity and strengthen the transmission system to accommodate renewable energy-generation capacity. The loan will help the Power Grid Corporation of India add a total of 11,000 megavolt amperes transmission capacity in and between Chhattisgarh, Tamil Nadu, Kerala, and Rajasthan.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "1-73-million-people-in-maharashtra-give-up-their-lpg-subsidy",
+			"title": "1.73 million people in Maharashtra give up their LPG subsidy",
+			"url": "/articles/1-73-million-people-in-maharashtra-give-up-their-lpg-subsidy/",
+			"content_type": "Articles",
+			"states": ["Maharashtra","Uttar Pradesh","Delhi"],
+			"sectors": ["Energy"],
+			"subsectors": ["Oil and Gas"],
+			"tags": ["Cooking Gas","LPG"],
+			"date": "March 1, 2017",
+			"posted_at": "1488326400",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Maharashtra tops the list of states where cooking gas consumers have voluntarily given up or surrendered their liquefied petroleum gas subsidy. As of January 29, 1.73 million people in Maharashtra have renounced their subsidy, followed by 1.28 million in Uttar Pradesh and 790,000 in Delhi.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "telangana-s-power-discoms-report-projected-revenue-deficit-of-1-5-billing-for-fy18",
+			"title": "Telangana&#39;s power DISCOMs report projected revenue deficit of $1.5 billing for FY18",
+			"url": "/articles/telangana-s-power-discoms-report-projected-revenue-deficit-of-1-5-billing-for-fy18/",
+			"content_type": "Articles",
+			"states": ["Telangana"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["Distribution"],
+			"date": "February 22, 2017",
+			"posted_at": "1487721600",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Telangana’s two power distribution companies (discoms) have told the state government that they face a revenue deficit of nearly $1.5 billion for the fiscal year 2017-18. The discoms cite increased demand from the agriculture sector for the revenue deficit.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "tangedco-receives-6-6-cent-bid-for-500-mw-solar-tender",
+			"title": "TANGEDCO receives 6.6 cent bid for 500 MW solar tender",
+			"url": "/articles/tangedco-receives-6-6-cent-bid-for-500-mw-solar-tender/",
+			"content_type": "Articles",
+			"states": ["Tamil Nadu"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Generation","Distribution","Tangedco","solar"],
+			"date": "February 22, 2017",
+			"posted_at": "1487721600",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Tamil Nadu Generation and Distribution Corporation (Tangedco) received a low bid of 6.6 cents per kilowatt hour for its 500 MW solar tender, lower than its previous benchmark of 6.7 cents. The tender generated bids from 22 developers for 300 MW of capacity, but 200 MW was left unsubscribed.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "stage-iii-of-the-hydroelectric-teesta-power-project-commissioned-at-1200-mw",
+			"title": "Stage III of the hydroelectric Teesta power project commissioned at 1200 MW",
+			"url": "/articles/stage-iii-of-the-hydroelectric-teesta-power-project-commissioned-at-1200-mw/",
+			"content_type": "Articles",
+			"states": ["Sikkim"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["Teesta","Hydro"],
+			"date": "February 22, 2017",
+			"posted_at": "1487721600",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Sikkim commissioned the 1,200 MW hydroelectric Teesta Stage III Power Project. The $2 billion project is designed to provide 12 percent of the state’s power free for the first 15 years and 15 percent thereafter.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "rjasathan-announces-relief-from-power-tariffs-for-farmers",
+			"title": "Rjasathan announces relief from power tariffs for farmers",
+			"url": "/articles/rjasathan-announces-relief-from-power-tariffs-for-farmers/",
+			"content_type": "Articles",
+			"states": ["Rajasthan"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["Power Tariff","RERC","farmers"],
+			"date": "February 22, 2017",
+			"posted_at": "1487721600",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Rajasthan government announced it would bear the costs of the increase in power tariffs for farmers, at a cost of $74 million. In September 2016 the Rajasthan Electricity Regulatory Commission increased the power tariff in various consumer categories, creating resentment among farmers.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "new-15-mw-wind-power-project-commissioned-in-amreli",
+			"title": "New 15 MW wind power project commissioned in Amreli",
+			"url": "/articles/new-15-mw-wind-power-project-commissioned-in-amreli/",
+			"content_type": "Articles",
+			"states": ["Gujarat"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Wind","Amreli","Gujarat Industries Power Company"],
+			"date": "February 22, 2017",
+			"posted_at": "1487721600",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Gujarat Industries Power Company announced that it has commissioned a 15 megawatt (MW) wind power project in Amreli.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "mytrah-energy-to-invest-1-9-billion-in-wind-and-solar-projects-in-andhra",
+			"title": "Mytrah Energy to invest $1.9 billion in wind and solar projects in Andhra",
+			"url": "/articles/mytrah-energy-to-invest-1-9-billion-in-wind-and-solar-projects-in-andhra/",
+			"content_type": "Articles",
+			"states": ["Andhra Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Wind","Solar","Mytrah","CII"],
+			"date": "February 22, 2017",
+			"posted_at": "1487721600",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Mytrah Energy announced that it will invest $1.9 billion in wind and solar power projects in Andhra Pradesh. Mytrah signed an MOU with the state at the CII Partnership Summit.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "hartek-group-commissioned-by-punjab-to-implement-scada-relays-in-three-cities",
+			"title": "Hartek Group commissioned by Punjab to implement SCADA relays in three cities",
+			"url": "/articles/hartek-group-commissioned-by-punjab-to-implement-scada-relays-in-three-cities/",
+			"content_type": "Articles",
+			"states": ["Punjab"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["SCADA","Hartek group","Ludhiana","Amritsar","Jalandhar"],
+			"date": "February 22, 2017",
+			"posted_at": "1487721600",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Hartek Group has won a smart grid order from Punjab State Power Corporation Ltd for the supply, installation, and commissioning of supervisory control and data acquisition relays at 55 substations in Ludhiana, Amritsar, and Jalandhar. The upgrades will enable substations to collect and store more data for troubleshooting and maintenance.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "activists-threaten-blocking-lpg-import-terminal-in-kerala",
+			"title": "Activists threaten blocking LPG import terminal in Kerala",
+			"url": "/articles/activists-threaten-blocking-lpg-import-terminal-in-kerala/",
+			"content_type": "Articles",
+			"states": ["Kerala"],
+			"sectors": ["Energy"],
+			"subsectors": ["Oil and Gas"],
+			"tags": ["IOC","LPG","Puthuyype","National Green Tribunal"],
+			"date": "February 22, 2017",
+			"posted_at": "1487721600",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Local activists are threatening a blockade of the planned Indian Oil Corporation (IOC) liquefied petroleum gas (LPG) import terminal at Puthuvype. The groups claim that the facility is prohibited by a ruling of the National Green Tribunal and that import and storage facilities will the livelihoods of people living nearby</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "with-bikaner-cesc-receives-third-distribution-franchisee-license-in-rajasthan",
+			"title": "With Bikaner, CESC receives third distribution franchisee license in Rajasthan",
+			"url": "/articles/with-bikaner-cesc-receives-third-distribution-franchisee-license-in-rajasthan/",
+			"content_type": "Articles",
+			"states": ["Rajasthan"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["CESC","Distribution Frachisee","Bikaner"],
+			"date": "February 15, 2017",
+			"posted_at": "1487116800",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Calcutta Electric Supply Corporation Limited has been appointed as a power distribution franchisee to supply electricity to Bikaner in Rajasthan. This is the group’s third distribution operation in Rajasthan after Kota and Bharatpur. The agreement has a 20-year tenure.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "tata-power-to-spend-30-million-for-installation-of-200-000-meters-in-delhi",
+			"title": "Tata Power to spend $30 million for installation of 200,000 meters in Delhi",
+			"url": "/articles/tata-power-to-spend-30-million-for-installation-of-200-000-meters-in-delhi/",
+			"content_type": "Articles",
+			"states": ["Delhi"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["Tata Power-DDL","Landis+Gyr","Smart Meter"],
+			"date": "February 15, 2017",
+			"posted_at": "1487116800",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Tata Power Delhi Distribution signed an agreement with Switzerland-based Landis+Gyr to build the communication backbone for large-scale implementation of smart meters. Tata Power will spend around $30 million on implementation of the city’s first 200,000 smart meters and expects to start installation by December 2018.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "record-low-tender-for-solar-in-madhya-pradesh-at-4-4-cents",
+			"title": "Record low tender for solar in Madhya Pradesh at 4.4 cents",
+			"url": "/articles/record-low-tender-for-solar-in-madhya-pradesh-at-4-4-cents/",
+			"content_type": "Articles",
+			"states": ["Madhya Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Solar","Rewa Ultra Mega Solar","SECI"],
+			"date": "February 15, 2017",
+			"posted_at": "1487116800",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The 750MW solar auction in Madhya Pradesh closed after 33 hours of bidding, with Mahindra Renewables, Acme Solar, and Solenergi Power the winning bidders at a record low price of 4.4 cents per kilowatt hour for the first year. The tender was issued by Rewa Ultra Mega Solar (RUMS), a joint venture between Solar Energy Corporation of India (SECI) and the government of Madhya Pradesh.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "msedcl-disconnects-nonpaying-consumers-and-recovers-350-000",
+			"title": "MSEDCL disconnects nonpaying consumers and recovers $350,000",
+			"url": "/articles/msedcl-disconnects-nonpaying-consumers-and-recovers-350-000/",
+			"content_type": "Articles",
+			"states": ["Maharashtra"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["MSEDCL","Jalna","Aurangabad","payments"],
+			"date": "February 15, 2017",
+			"posted_at": "1487116800",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Since February 1, the Maharashtra State Electricity Distribution Company Ltd (MSEDCL) has disconnected power supply to a total of 5,525 consumers in both Jalna and Aurangabad districts while managing to recover $350,000 in unpaid bills from 52,582 defaulters.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "mapping-of-offshore-wind-potential-commences-in-gujarat",
+			"title": "Mapping of offshore wind potential commences in Gujarat",
+			"url": "/articles/mapping-of-offshore-wind-potential-commences-in-gujarat/",
+			"content_type": "Articles",
+			"states": ["Gujarat","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Mintry of Environment","Wind"],
+			"date": "February 15, 2017",
+			"posted_at": "1487116800",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The central Ministry of Environment has approved a plan to build an offshore data collection platform in the Gulf of Kutch, near the Gujarat coast, to conduct wind energy mapping and identify high-potential locations for future wind energy installations.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "3-6-mw-solar-rooftop-systems-to-be-produced-by-bhel-for-surat",
+			"title": "3.6 MW solar rooftop systems to be produced by BHEL for Surat",
+			"url": "/articles/3-6-mw-solar-rooftop-systems-to-be-produced-by-bhel-for-surat/",
+			"content_type": "Articles",
+			"states": ["Gujarat","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["BHEL","Solar rooftop","Surat"],
+			"date": "February 15, 2017",
+			"posted_at": "1487116800",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>State-run power equipment maker Bharat Heavy Electricals Ltd. (BHEL) has secured orders for 3.6 megawatts (MW) of solar photovoltaic rooftop systems from the Surat Municipal Corporation.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "tangedco-to-build-its-first-thermal-power-plant-in-chennai",
+			"title": "TANGEDCO to build its first thermal power plant in Chennai",
+			"url": "/articles/tangedco-to-build-its-first-thermal-power-plant-in-chennai/",
+			"content_type": "Articles",
+			"states": ["Tamil Nadu","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Coal"],
+			"tags": ["Tangedco","Generation","Distribution","REC"],
+			"date": "February 8, 2017",
+			"posted_at": "1486512000",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The state power utility, Tamil Nadu Generation and Distribution Corporation (Tangedco), will set up its first-ever 800MW thermal power plant with financial assistance from the Rural Electrification Corporation (REC). The REC will loan Tangedco $1.02 billion to set up the power plant and two substations in and around Chennai.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "maharashtra-disconnects-power-from-hundreds-of-households-due-to-non-payment",
+			"title": "Maharashtra disconnects power from hundreds of households due to non-payment",
+			"url": "/articles/maharashtra-disconnects-power-from-hundreds-of-households-due-to-non-payment/",
+			"content_type": "Articles",
+			"states": ["Maharashtra"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["MSEDCL","Aurangabad","payments"],
+			"date": "February 8, 2017",
+			"posted_at": "1486512000",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Maharashtra State Electricity Distribution Company Ltd has launched a drive to hundreds of thousands of dollars in dues from over 60,000 consumers in the Aurangabad area who have not made payments for the past three months. The company has disconnected over 600 connections since February 1, when the drive was launched.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "haryana-increases-municipal-electricty-tax-to-support-state-utilities",
+			"title": "Haryana increases municipal electricty tax to support state utilities",
+			"url": "/articles/haryana-increases-municipal-electricty-tax-to-support-state-utilities/",
+			"content_type": "Articles",
+			"states": ["Haryana"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["Electricity","Tariff"],
+			"date": "February 8, 2017",
+			"posted_at": "1486512000",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Haryana has increased the municipal electricity tax from .07 cents per unit to 2 percent of the total power bill. The move is meant to improve the financial health of the state’s utilities</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "gamesa-opens-new-wind-blade-manufacturing-unit-in-andhra",
+			"title": "Gamesa opens new wind blade manufacturing unit in Andhra",
+			"url": "/articles/gamesa-opens-new-wind-blade-manufacturing-unit-in-andhra/",
+			"content_type": "Articles",
+			"states": ["Andhra Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Gamesa","Wind","Manufacturing","Nellore"],
+			"date": "February 8, 2017",
+			"posted_at": "1486512000",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Spanish wind turbines manufacturer Gamesa has opened a new wind blade manufacturing facility in Nellore, Andhra Pradesh. The facility will manufacture blades for Gamesa’s G114-2.0 MW class S turbine, which are custom-built for the Indian market.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "financial-assistance-close-to-5-8-billion-finalized-for-state-power-sector",
+			"title": "Financial assistance close to $5.8 billion finalized for state power sector",
+			"url": "/articles/financial-assistance-close-to-5-8-billion-finalized-for-state-power-sector/",
+			"content_type": "Articles",
+			"states": ["Karnataka","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["REC","BESCOM","KPCL","Electricity"],
+			"date": "February 8, 2017",
+			"posted_at": "1486512000",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Rural Electrification Corporation, Karnataka Power Corporation (KPCL), and Bangalore Electricity Supply Corporation (BESCOM) signed an MOU for financial assistance of $5.8 billion to Karnataka power utilities over the next five years. KPCL can draw on financing of $4 billion for generation projects, and other loan requirements, while BESCOM can access $1.8 billion for implementation of distribution projects.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "andhra-s-global-investor-summit-results-in-various-deals-in-the-energy-sector",
+			"title": "Andhra&#39;s global investor summit results in various deals in the energy sector",
+			"url": "/articles/andhra-s-global-investor-summit-results-in-various-deals-in-the-energy-sector/",
+			"content_type": "Articles",
+			"states": ["Andhra Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables","Oil and Gas"],
+			"tags": ["Mytrah","Kakinada"],
+			"date": "February 8, 2017",
+			"posted_at": "1486512000",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The ‘Sunrise Andhra Pradesh Investment Meet’ held January 27-28 produced major investment pledges, particularly in the energy sector. Mytrah Energy said it has signed pacts for 2,000 megawatts (MW) of renewable power projects (half solar and half wind) worth $2 billion. Kakinada SEZ Ltd. signed Memoranda of Understanding (MoUs) worth $7 billion with firms interested in opening units at the Kakinada Special Enterprise Zone, including public sector utilities in the oil and gas sector.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "uae-reviews-plan-to-develop-lng-terminal-in-gujarat",
+			"title": "UAE reviews plan to develop LNG terminal in Gujarat",
+			"url": "/articles/uae-reviews-plan-to-develop-lng-terminal-in-gujarat/",
+			"content_type": "Articles",
+			"states": ["Gujarat"],
+			"sectors": ["Energy"],
+			"subsectors": ["Oil and Gas"],
+			"tags": ["UAE","LNG","Swan Energy"],
+			"date": "February 1, 2017",
+			"posted_at": "1485907200",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The United Arab Emirates has reviewed a plan to develop an LNG terminal in Gujarat in coordination with Swan Energy, according to official Emirates News Agency. The matter came up for discussion during crown prince of Abu Dhabi Sheikh Mohamed bin Zayed Al Nahyan’s recent visit to India. Abu Dhabi National Marine Dredging Company presented its plan and will undertake a contract to develop the terminal.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "tata-power-delhi-distribution-ltd-implements-microgrid-project-in-tayabpur-village-in-bihar",
+			"title": "Tata Power Delhi Distribution Ltd implements microgrid project in Tayabpur village in Bihar",
+			"url": "/articles/tata-power-delhi-distribution-ltd-implements-microgrid-project-in-tayabpur-village-in-bihar/",
+			"content_type": "Articles",
+			"states": ["Bihar","Delhi"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Tata Power-DDL","Tayabpur","electricity","microgrid"],
+			"date": "February 1, 2017",
+			"posted_at": "1485907200",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Power distribution company Tata Power Delhi Distribution Limited (DDL) has implemented a microgrid project in Bihar’s Tayabpur village, which has an estimated 190 dwellings with a population of around 1000. The project is in line with the central government’s electrification program, which aims to provide “electricity to all” by establishing a standalone off-grid village electrification system where grid supply has not reached or is not feasible. For the project, Tata Power-DDL has been supported by partners including TataTrusts, MIT, Prayas Juvenile Aid Centre, and General Electric.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "second-unit-of-kudankulum-attains-its-generation-capacity-of-1000-mw",
+			"title": "Second unit of Kudankulum attains its generation capacity of 1000 MW",
+			"url": "/articles/second-unit-of-kudankulum-attains-its-generation-capacity-of-1000-mw/",
+			"content_type": "Articles",
+			"states": ["Tamil Nadu","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Nuclear"],
+			"tags": ["Kudankulum"],
+			"date": "February 1, 2017",
+			"posted_at": "1485907200",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The second unit of the Kudankulam Nuclear Power Project (KNPP) in Tamil Nadu has attained its generation capacity of 1,000 megawatts (MW) of electricity and will soon start commercial power generation. The unit is India’s 22nd nuclear power reactor and among the largest in the country.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "rural-electrification-corporation-offers-8-8-billion-financial-assistance-to-andhra-s-power-sector",
+			"title": "Rural Electrification Corporation offers $8.8 billion financial assistance to Andhra&#39;s power sector",
+			"url": "/articles/rural-electrification-corporation-offers-8-8-billion-financial-assistance-to-andhra-s-power-sector/",
+			"content_type": "Articles",
+			"states": ["Andhra Pradesh","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["REC","Generation","Transmission","Distribution","Electricity"],
+			"date": "February 1, 2017",
+			"posted_at": "1485907200",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The publicly-owned Rural Electrification Corporation (REC) has signed three deals for financial assistance of around $8.8 billion to the Andhra Pradesh power sector. REC will grant $5.8 billion to Andhra Pradesh Power Generation Corp, $1.5 billion to Transmission Corporation of Andhra Pradesh and $1.5 billion to the state’s power distribution companies (discoms).</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "powergrid-to-link-chattisgarh-and-tamil-nadu",
+			"title": "POWERGRID to link Chattisgarh and Tamil Nadu",
+			"url": "/articles/powergrid-to-link-chattisgarh-and-tamil-nadu/",
+			"content_type": "Articles",
+			"states": ["Tamil Nadu","Chattisgarh","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["BHEL","ABB","POWERGRID","Raigarh","Pugalur"],
+			"date": "February 1, 2017",
+			"posted_at": "1485907200",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>State-run power equipment maker Bharat Hindustan Electronics Ltd (BHEL) and industrial technology company ABB have won a contract worth $200 million from the Power Grid Corporation to set up a 800 kilovolt, 6,000 MW high voltage direct current link between the Western Region Grid (Raigarh, Chattisgarh) and the Southern Region Grid (Pugalur, Tamil Nadu).</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "multiple-lng-stakeholders-agree-to-supply-tolled-gas-to-power-stations-in-east-godavari",
+			"title": "Multiple LNG stakeholders agree to supply tolled gas to power stations in East Godavari",
+			"url": "/articles/multiple-lng-stakeholders-agree-to-supply-tolled-gas-to-power-stations-in-east-godavari/",
+			"content_type": "Articles",
+			"states": ["Andhra Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Oil and Gas"],
+			"tags": ["Atlantic","AG&P","Hindustan LNG","East Godavari"],
+			"date": "February 1, 2017",
+			"posted_at": "1485907200",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Atlantic, Gulf and Pacific Company (AG&amp;P), the leading global integrator of liquid natural gas (LNG) infrastructure solutions, and Hindustan LNG, a Hyderabad-based LNG import terminal development company, have signed an MOU to supply tolled gas to power stations in the East Godavari region of Andhra Pradesh. Under the agreement, AG&amp;P will provide an integrated solution to deliver regasified LNG through a new LNG import terminal that AG&amp;P will also design and build at the port in Andhra Pradesh.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "madhya-pradesh-to-have-an-indoor-power-station-in-residential-areas",
+			"title": "Madhya Pradesh to have an indoor power station in residential areas",
+			"url": "/articles/madhya-pradesh-to-have-an-indoor-power-station-in-residential-areas/",
+			"content_type": "Articles",
+			"states": ["Madhya Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["Indoor power substation"],
+			"date": "February 1, 2017",
+			"posted_at": "1485907200",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Madhya Pradesh will be the third state in the country to have an indoor power station in residential areas. The new sub-station uses the Gas Insulated Supply System to switch from high transmission voltages and lower distribution voltages.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "gujarat-discoms-fall-short-of-purchasing-clean-energy-mandated-by-the-state-s-rpo",
+			"title": "Gujarat DISCOMs fall short of purchasing clean energy mandated by the state&#39;s RPO",
+			"url": "/articles/gujarat-discoms-fall-short-of-purchasing-clean-energy-mandated-by-the-state-s-rpo/",
+			"content_type": "Articles",
+			"states": ["Gujarat"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Distribution","UGVCL","DGVCL","MGVCL","PGVCL"],
+			"date": "February 1, 2017",
+			"posted_at": "1485907200",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Gujarat Urja Vikas Nigam Ltd.’s (GUVNL) four affiliated distribution companies fell short of purchasing required renewable energy in 2015-16 on account of low supply of power from wind and other renewable energy sources. Under the state’s Renewable Purchase Obligation (RPO), a distribution company is mandated to buy 9 percent of electricity from renewable energy (7 percent from wind, 1.5 percent from solar and 0.5 percent from other sources). GUVNL procured only 7.66 percent from renewable energy sources in 2015-16.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "despite-being-the-first-state-to-join-uday-jharkhand-s-discom-still-in-the-red",
+			"title": "Despite being the first state to join UDAY, Jharkhand&#39;s discom still in the red",
+			"url": "/articles/despite-being-the-first-state-to-join-uday-jharkhand-s-discom-still-in-the-red/",
+			"content_type": "Articles",
+			"states": ["Jharkhand"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["JBVNL","UDAY","Distribution"],
+			"date": "February 1, 2017",
+			"posted_at": "1485907200",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Jharkhand’s state-owned power distribution company, Jharkhand Bijli Vitran Nigam Ltd (JBVNL) is once again in debt despite Jharkhand’s early entry into the Ujwal Discom Assurance Yojana, the center’s debt relief scheme for state electricity distribution bodies. Jharkhand signed on in September 2015, making it the first state to join the scheme, and received debt relief totaling $814 million. One year later, JBVNL now owes $230 million to power producers.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "225-000-families-to-receive-free-lpg-connections-in-karnataka",
+			"title": "225,000 families to receive free LPG connections in Karnataka",
+			"url": "/articles/225-000-families-to-receive-free-lpg-connections-in-karnataka/",
+			"content_type": "Articles",
+			"states": ["Center-State Relations","Karnataka"],
+			"sectors": ["Energy"],
+			"subsectors": ["Oil and Gas"],
+			"tags": ["PM Ujjwala Yojana","LPG"],
+			"date": "February 1, 2017",
+			"posted_at": "1485907200",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Karnataka has identified 225,000 families to participate in the Pradhan Mantri Ujjwala Yojana, which seeks to provide liquefied petroleum gas (LPG) connection to poor families. The state government will provide them with free double burner stoves and LPG connections.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "west-bengal-receives-proposals-worth-34-4-billion-during-its-global-investment-summit",
+			"title": "West Bengal receives proposals worth $34.4 billion during its global investment summit",
+			"url": "/articles/west-bengal-receives-proposals-worth-34-4-billion-during-its-global-investment-summit/",
+			"content_type": "Articles",
+			"states": ["West Bengal"],
+			"sectors": ["Energy"],
+			"subsectors": ["Energy Efficiency"],
+			"tags": ["Bengal Global Business Summit 2017","China","Rail","Green City"],
+			"date": "January 26, 2017",
+			"posted_at": "1485388800",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>West Bengal has received investment proposals worth $34.4 billion through the recent Bengal Global Business Summit, which was held on January 20 and 21. These include $4 billion from Chinese investors to build a mass rail transit program, and collaboration with Korean companies to develop green city projects.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "tripura-receives-200-million-from-world-bank-for-power-systems-upgrade",
+			"title": "Tripura receives $200 million from World Bank for power systems upgrade",
+			"url": "/articles/tripura-receives-200-million-from-world-bank-for-power-systems-upgrade/",
+			"content_type": "Articles",
+			"states": ["Tripura"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["World Bank","SPML Infra Ltd"],
+			"date": "January 26, 2017",
+			"posted_at": "1485388800",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The World Bank has sanctioned $201.6 million for complete upgrade and improvement of the power system network in Tripura. The project has been divided in to five phases and SPML Infra Ltd has been contracted for first phase estimated to cost $67.5 million.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "suzlon-commissioned-for-a-50-40-mw-project-in-kutch",
+			"title": "Suzlon commissioned for a 50.40 MW project in Kutch",
+			"url": "/articles/suzlon-commissioned-for-a-50-40-mw-project-in-kutch/",
+			"content_type": "Articles",
+			"states": ["Gujarat"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Suzlon","Wind","Kutch"],
+			"date": "January 26, 2017",
+			"posted_at": "1485388800",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Wind turbine maker Suzlon Group received a commission for a 50.40 megawatt (MW) order from a leading power utility in Gujarat. It will be located in Kutch, to be completed by March 2017.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "second-unit-of-kudankulam-nuclear-power-project-attains-maximum-generating-capacity-at-1000-mw",
+			"title": "Second unit of Kudankulam nuclear power project attains maximum generating capacity at 1000 MW",
+			"url": "/articles/second-unit-of-kudankulam-nuclear-power-project-attains-maximum-generating-capacity-at-1000-mw/",
+			"content_type": "Articles",
+			"states": ["Tamil Nadu","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Nuclear"],
+			"tags": ["Kudankulam","Russia"],
+			"date": "January 26, 2017",
+			"posted_at": "1485388800",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The second unit of Kudankulam Nuclear Power Project (KNPP) attained its maximum generating capacity of 1,000 MW, six months since it went critical.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "paid-electricity-bill-mandatory-in-haryana-for-approval-of-essential-government-services",
+			"title": "Paid electricity bill mandatory in Haryana for approval of essential government services",
+			"url": "/articles/paid-electricity-bill-mandatory-in-haryana-for-approval-of-essential-government-services/",
+			"content_type": "Articles",
+			"states": ["Haryana"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["Billing"],
+			"date": "January 26, 2017",
+			"posted_at": "1485388800",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Haryana has made an in-principle decision to make it mandatory for regular payment of electricity bills when applying for government jobs, issuance and renewal of arms licenses, purchase of land plots, and approving blueprints and construction of plots measuring 250 square yards.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "bhel-commissioned-for-sagardighi-thermal-power-station-in-west-bengal",
+			"title": "BHEL Commissioned for Sagardighi Thermal Power Station in West Bengal",
+			"url": "/articles/bhel-commissioned-for-sagardighi-thermal-power-station-in-west-bengal/",
+			"content_type": "Articles",
+			"states": ["West Bengal"],
+			"sectors": ["Energy"],
+			"subsectors": [""],
+			"tags": [],
+			"date": "January 26, 2017",
+			"posted_at": "1485388800",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>State-run power equipment maker BHEL has been commissioned for a 500 MW unit of Sagardighi Thermal Power Station Phase II in West Bengal.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "tata-power-commissions-new-49-mw-solar-plant-bringing-their-renewable-capacity-to-1876-mw",
+			"title": "Tata Power commissions new 49 MW solar plant, bringing their renewable capacity to 1876 MW",
+			"url": "/articles/tata-power-commissions-new-49-mw-solar-plant-bringing-their-renewable-capacity-to-1876-mw/",
+			"content_type": "Articles",
+			"states": ["Tamil Nadu"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Tata Power","Kayathar","Solar"],
+			"date": "January 18, 2017",
+			"posted_at": "1484697600",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Tata Power Renewable Energy Ltd announced it had commissioned a 49 MW solar plant at Kayathar. The company’s operating renewable energy capacity has now reached 1,876 MW.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "ntpc-acquires-the-1000-mw-chhabra-power-plant-in-an-asset-to-equity-deal",
+			"title": "NTPC acquires the 1000 MW Chhabra power plant in an asset-to-equity deal",
+			"url": "/articles/ntpc-acquires-the-1000-mw-chhabra-power-plant-in-an-asset-to-equity-deal/",
+			"content_type": "Articles",
+			"states": ["Rajasthan","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Coal"],
+			"tags": ["NTPC","Chhabra"],
+			"date": "January 18, 2017",
+			"posted_at": "1484697600",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The National Thermal Power Corporation Limited (NTPC) will pay $103 million and will assume close to $467 million in debt as part of an asset-for-equity deal to purchase the 1,000 MW Chhabra power plant. Two additional units of 660 MW each will be transferred to NTPC after their completion.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "karnataka-sets-new-solar-target-at-6000-mw-by-2021",
+			"title": "Karnataka sets new solar target at 6000 MW by 2021",
+			"url": "/articles/karnataka-sets-new-solar-target-at-6000-mw-by-2021/",
+			"content_type": "Articles",
+			"states": ["Karnataka"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Solar policy","Generation"],
+			"date": "January 18, 2017",
+			"posted_at": "1484697600",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Karnataka has amended its solar policy to set a new, higher, target for solar generation of 6,000 megawatts (MW) by March 2021. Current installed capacity, including rooftop solar, is 300 MW.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "for-640-million-abb-to-provide-equipment-for-development-of-1-137-mile-power-link",
+			"title": "For $640 million, ABB to provide equipment for development of 1,137-mile power link",
+			"url": "/articles/for-640-million-abb-to-provide-equipment-for-development-of-1-137-mile-power-link/",
+			"content_type": "Articles",
+			"states": ["Tamil Nadu"],
+			"sectors": ["Energy"],
+			"subsectors": ["Coal","Renewables"],
+			"tags": ["ABB","Thermal","Wind","Switzerland"],
+			"date": "January 18, 2017",
+			"posted_at": "1484697600",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Swiss transformer manufacturer ABB won a $640 million contract to provide equipment for a 1,137-mile power link in India to connect thermal and wind power plants with the country’s growing urban areas, with its terminus in Tamil Nadu. The ultra-high-voltage 800 kilovolt system will have its other terminus at Raigarh.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "center-issues-draft-requirements-for-its-digital-village-initiative",
+			"title": "Center issues draft requirements for its Digital Village Initiative",
+			"url": "/articles/center-issues-draft-requirements-for-its-digital-village-initiative/",
+			"content_type": "Articles",
+			"states": ["Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Energy Efficiency"],
+			"tags": ["LED","villages"],
+			"date": "January 18, 2017",
+			"posted_at": "1484697600",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The central government has issued draft requirements for its Digital Village initiative, which is meant to provide services such as tele-medicine, tele-education, WiFi hotspots, and LED street lighting in 100 villages across India. The requirements include setting up smart schools and three primary healthcare centers. Participating states and union territories will choose the implementing organizations.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "bhel-wins-14-million-order-from-powergrid-for-three-new-substations-in-karnataka",
+			"title": "BHEL wins $14 million order from POWERGRID for three new substations in Karnataka",
+			"url": "/articles/bhel-wins-14-million-order-from-powergrid-for-three-new-substations-in-karnataka/",
+			"content_type": "Articles",
+			"states": ["Karnataka","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["BHEL","POWERGRID","ADB"],
+			"date": "January 18, 2017",
+			"posted_at": "1484697600",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Bharat Heavy Electricals Ltd won bidding on a $14 million order from Power Grid Corporation of India for augmentation of three extra high voltage (EHV) sub-stations in Karnataka. The work is funded by the Asian Development Bank.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "tamil-nadu-telangana-and-assam-join-uday-bring-total-to-21",
+			"title": "Tamil Nadu, Telangana and Assam join UDAY, bring total to 21",
+			"url": "/articles/tamil-nadu-telangana-and-assam-join-uday-bring-total-to-21/",
+			"content_type": "Articles",
+			"states": ["Center-State Relations","Assam","Tamil Nadu","Telangana"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["UDAY","Distribution"],
+			"date": "January 12, 2017",
+			"posted_at": "1484179200",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Tamil Nadu, Telangana, and Assam signed memoranda of understanding (MoUs) to join the center’s relief program for debt-stressed state utilities, the Ujwal Discom Assurance Yojana (UDAY). The admission of these states brings the total to 21.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "suzlon-commissioned-for-a-105mw-wind-power-plant-in-andhra",
+			"title": "Suzlon commissioned for a 105MW wind power plant in Andhra",
+			"url": "/articles/suzlon-commissioned-for-a-105mw-wind-power-plant-in-andhra/",
+			"content_type": "Articles",
+			"states": ["Andhra Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Suzlon","Wind"],
+			"date": "January 12, 2017",
+			"posted_at": "1484179200",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Suzlon Group said that it has won an order for a 105 megawatt (MW) wind power plant in Andhra Pradesh. The project consists of 50 towers, each with a capacity of 2.1 MW. The entire plant is scheduled to come online by June 2017.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "petrol-dealers-threat-to-stop-accepting-card-transactions-delayed-to-jan-13",
+			"title": "Petrol dealers&#39; threat to stop accepting card transactions delayed to Jan 13",
+			"url": "/articles/petrol-dealers-threat-to-stop-accepting-card-transactions-delayed-to-jan-13/",
+			"content_type": "Articles",
+			"states": ["Tamil Nadu","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Oil and Gas","Energy-related Transportation"],
+			"tags": ["Petroleum","Demonetization"],
+			"date": "January 12, 2017",
+			"posted_at": "1484179200",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Petroleum dealers in Tamil Nadu threatened to stop accepting credit cards and debit cards at petrol pumps beginning January 9. Under pressure from the central government, they agreed to postpone the action until January 13 and to enter talks about whether merchants or banks should bear the cost of credit card transactions.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "nhpc-to-supply-1400-mw-to-mizoram-over-the-next-35-years",
+			"title": "NHPC to supply 1400 MW to Mizoram over the next 35 years",
+			"url": "/articles/nhpc-to-supply-1400-mw-to-mizoram-over-the-next-35-years/",
+			"content_type": "Articles",
+			"states": ["Mizoram","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["NHPC","PPA","Hydro"],
+			"date": "January 12, 2017",
+			"posted_at": "1484179200",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>State-owned hydropower company NHPC Limited has signed a power purchase agreement with the government of Mizoram to supply 1,400 MW for a period of 35 years. The power will come from two projects currently under construction – Tawang I and Tawang II.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "bhel-successfully-commissioned-a-600-mw-coal-based-thermal-plant-in-telangana",
+			"title": "BHEL successfully commissioned a 600 MW coal-based thermal plant in Telangana",
+			"url": "/articles/bhel-successfully-commissioned-a-600-mw-coal-based-thermal-plant-in-telangana/",
+			"content_type": "Articles",
+			"states": ["Telangana","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Coal"],
+			"tags": ["BHEL","Singareni","Alidabad"],
+			"date": "January 4, 2017",
+			"posted_at": "1483488000",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>State-run power equipment maker Bharat Heavy Electricals Limited has successfully commissioned a 600 megawatt (MW) coal-based thermal power plant at the Singareni Thermal Power Project in Alidabad.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "more-than-20-million-pumps-to-be-replaced-by-energy-efficient-pumps-in-andhra",
+			"title": "More than 20 million pumps to be replaced by energy efficient pumps in Andhra",
+			"url": "/articles/more-than-20-million-pumps-to-be-replaced-by-energy-efficient-pumps-in-andhra/",
+			"content_type": "Articles",
+			"states": ["Andhra Pradesh","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Energy Efficiency"],
+			"tags": ["irrigation","pumps","Jacque","Tucker","CSIS","kewlio","iDeas Lab is neat","India States"],
+			"date": "January 27, 2016",
+			"posted_at": "1453852800",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Indian central government has agreed to invest about $740 million to replace standard agricultural irrigation pumps with energy efficient ones in Andhra Pradesh. More than 20 million pumps will be replaced, achieving energy savings of 46 billion kilowatt hours.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "mamata-banerjee-inaugrates-new-spv-bengal-birbhum-coalfields-limited",
+			"title": "Mamata Banerjee inaugrates new SPV, Bengal Birbhum Coalfields Limited",
+			"url": "/articles/mamata-banerjee-inaugrates-new-spv-bengal-birbhum-coalfields-limited/",
+			"content_type": "Articles",
+			"states": ["West Bengal"],
+			"sectors": ["Energy"],
+			"subsectors": ["Coal"],
+			"tags": ["BBCL","Birbhum"],
+			"date": "January 27, 2016",
+			"posted_at": "1453852800",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>West Bengal chief minister Mamata Banerjee unveiled Bengal Birbhum Coalfields Ltd (BBCL), a special purpose vehicle created to develop India’s largest coal mine, in the Birbhum district. Banerjee claimed the block will produce coal worth $32 billion and would attract an investment of $3.3 billion</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "maharashtra-aims-to-electrify-over-125-000-households-implements-center-s-ddugjy",
+			"title": "Maharashtra aims to electrify over 125,000 households, implements center&#39;s DDUGJY",
+			"url": "/articles/maharashtra-aims-to-electrify-over-125-000-households-implements-center-s-ddugjy/",
+			"content_type": "Articles",
+			"states": ["Maharashtra","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["Electricity","DDUGJY"],
+			"date": "January 27, 2016",
+			"posted_at": "1453852800",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Maharashtra Cabinet agreed to implement the central government’s Deendayal Upadhyaya Gramjyoti Yojana (DDUGJY) and its Integrated Power Development Scheme (IPDS), in a bid to strengthen rural and urban electrification networks. Maharashtra expects to electrify two thirds of the remaining 190,000 households without power.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "increased-taxes-on-petrol-and-diesel-in-delhi",
+			"title": "Increased taxes on petrol and diesel in Delhi",
+			"url": "/articles/increased-taxes-on-petrol-and-diesel-in-delhi/",
+			"content_type": "Articles",
+			"states": ["Delhi"],
+			"sectors": ["Energy"],
+			"subsectors": ["Oil and Gas"],
+			"tags": ["Petrol","Diesel"],
+			"date": "January 27, 2016",
+			"posted_at": "1453852800",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Delhi government has increased taxes on petrol and diesel for the second time this financial year and has added a new pollution tax. The changes raise the price of petrol in Delhi by $0.014 a liter and of diesel by $.007 per liter.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "four-thermal-power-plants-to-come-up-in-andhra",
+			"title": "Four thermal power plants to come up in Andhra",
+			"url": "/articles/four-thermal-power-plants-to-come-up-in-andhra/",
+			"content_type": "Articles",
+			"states": ["Andhra Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Coal"],
+			"tags": ["Krishnapatnam"],
+			"date": "January 27, 2016",
+			"posted_at": "1453852800",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Krishnapatnam Power Corporation has signed a memorandum of understanding with Andhra Pradesh to build four thermal power plants, with a total capacity of 2780 megawatts and an investment of $2.5 billion.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "flisom-expresses-interest-in-setting-up-solar-panel-manufacturing-in-andhra",
+			"title": "Flisom expresses interest in setting up solar panel manufacturing in Andhra",
+			"url": "/articles/flisom-expresses-interest-in-setting-up-solar-panel-manufacturing-in-andhra/",
+			"content_type": "Articles",
+			"states": ["Andhra Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Solar"],
+			"date": "January 27, 2016",
+			"posted_at": "1453852800",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Chief Minister N Chandrababu Naidu visited Switzerland to meet with potential investors prior to the World Economic Forum summit at Davos. Swiss solar panel maker Flisom expressed interest in setting up a solar panel manufacturing plant with an investment of $200 million.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "escoms-in-karnataka-seek-hike-in-power-tariff",
+			"title": "ESCOMs in Karnataka seek hike in power tariff",
+			"url": "/articles/escoms-in-karnataka-seek-hike-in-power-tariff/",
+			"content_type": "Articles",
+			"states": ["Karnataka"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["ESCOM","Regulatory Commission","KERC"],
+			"date": "January 27, 2016",
+			"posted_at": "1453852800",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Industries in Karnataka have expressed concern over electricity supply companies’ (Escoms) request for a steep hike in power tariffs. Five Escoms have petitioned the Karnataka Electricity Regulatory Commissions (KERC), seeking an increase in power tariffs by more than $0.01 a unit.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "second-unit-of-a-600-mw-super-critical-thermal-plant-commissioned-by-bhel-in-uttar-pradesh",
+			"title": "Second unit of a 600 MW super-critical thermal plant commissioned by BHEL in Uttar Pradesh",
+			"url": "/articles/second-unit-of-a-600-mw-super-critical-thermal-plant-commissioned-by-bhel-in-uttar-pradesh/",
+			"content_type": "Articles",
+			"states": ["Uttar Pradesh","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Coal"],
+			"tags": ["BHEL","Supercritical","Lalitpur","Allahabad"],
+			"date": "January 22, 2016",
+			"posted_at": "1453420800",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>State-run power-plant builder Bharat Heavy Electricals Ltd. (BHEL) commissioned the second 660 megawatt (MW) supercritical unit of the Lalitpur Super Thermal Power Project (STPP) in Uttar Pradesh. In December, BHEL also successfully commissioned the first unit of a planned 3×660 MW STPP in the state’s Allahabad district.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "essel-along-with-golden-concord-sign-mous-with-andhra",
+			"title": "Essel along with Golden Concord sign MoUs with Andhra",
+			"url": "/articles/essel-along-with-golden-concord-sign-mous-with-andhra/",
+			"content_type": "Articles",
+			"states": ["Andhra Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Essel","Golden Concord","Manufacturing"],
+			"date": "January 22, 2016",
+			"posted_at": "1453420800",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Essel Group, in partnership with Chinese company Golden Concord Holdings Ltd., signed two memoranda of understanding with the Andra Pradesh state government to establish Smart Industrial Parks and a new manufacturing hub for renewal energy equipment manufacturing. The projects, worth a total of $11 billion, are expected to generate more than 100,000 new skilled jobs.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "210-mw-solar-project-in-telangana-awarded-to-suzlon",
+			"title": "210 MW solar project in Telangana awarded to Suzlon",
+			"url": "/articles/210-mw-solar-project-in-telangana-awarded-to-suzlon/",
+			"content_type": "Articles",
+			"states": ["Telangana"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Solar","Wind","Suzlon"],
+			"date": "January 22, 2016",
+			"posted_at": "1453420800",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Wind turbine manufacturer Suzlon has announced it will make a foray into solar power with a total of 210 MW-worth of projects in Telangana. The company won the projects from the state utility through a competitive bidding process. Suzlon will build six different capacity projects across the state, to be commissioned in FY2017.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "karnataka-plans-for-a-2000-mw-solar-park",
+			"title": "Karnataka plans for a 2000 MW solar park",
+			"url": "/articles/karnataka-plans-for-a-2000-mw-solar-park/",
+			"content_type": "Articles",
+			"states": ["Karnataka"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Solar","Tumkur"],
+			"date": "January 15, 2016",
+			"posted_at": "1452816000",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The High Level Clearance Committee of the Karnataka government approved projects with a total investment outlay of $3.5 billion, including a 2,000 MW solar park in Tumkur district. Karnataka Solar Power Development Corporation plans to build the park at a cost of $2.2 billion.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "gujarat-to-adjust-power-prices-lower-tax-on-natural-gas",
+			"title": "Gujarat to adjust power prices, lower tax on natural gas",
+			"url": "/articles/gujarat-to-adjust-power-prices-lower-tax-on-natural-gas/",
+			"content_type": "Articles",
+			"states": ["Gujarat"],
+			"sectors": ["Energy"],
+			"subsectors": ["Oil and Gas"],
+			"tags": ["Natural Gas","Petrol","Diesel"],
+			"date": "January 15, 2016",
+			"posted_at": "1452816000",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The state government is adjusting power prices in the state by raising taxes on petrol and diesel while lowering taxes on piped natural gas (PNG). The per-liter price of petrol and diesel will rise by less than three cents, while PNG will cost more than seven cents less per cubic meter.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "delhi-discoms-propose-canceling-their-contracts-with-central-power-generators",
+			"title": "Delhi DISCOMs propose canceling their contracts with central power generators",
+			"url": "/articles/delhi-discoms-propose-canceling-their-contracts-with-central-power-generators/",
+			"content_type": "Articles",
+			"states": ["Delhi","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["Distribution","NTPC","NHPC","THDC"],
+			"date": "January 15, 2016",
+			"posted_at": "1452816000",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Delhi’s power distribution companies (discoms) have asked the Central Electricity Regulatory Commission to allow them to terminate their power procurement contracts with state-run companies NTPC Ltd., NHPC Ltd., and THDC India Ltd. The two discoms are looking at cheaper power sources, including power banking arrangements under which they would supply surplus electricity to other states and be allowed to draw on those states’ power supply when in need.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "bhel-commissioned-for-600-mw-thermal-plant-in-telangana",
+			"title": "BHEL commissioned for 600 MW thermal plant in Telangana",
+			"url": "/articles/bhel-commissioned-for-600-mw-thermal-plant-in-telangana/",
+			"content_type": "Articles",
+			"states": ["Telangana","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Coal"],
+			"tags": ["BHEL","Kakatiya"],
+			"date": "January 15, 2016",
+			"posted_at": "1452816000",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>State-run power plant equipment manufacturer Bharat Heavy Electricals Ltd. (BHEL) has commissioned a 600 MW unit at the Kakatiya Thermal Power Plant. BHEL has commissioned 84 percent of the coal-based power stations in Telangana.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "maharashtra-to-become-the-first-state-to-give-exemptions-to-electric-vehicles",
+			"title": "Maharashtra to become the first state to give exemptions to electric vehicles",
+			"url": "/articles/maharashtra-to-become-the-first-state-to-give-exemptions-to-electric-vehicles/",
+			"content_type": "Articles",
+			"states": ["Maharashtra"],
+			"sectors": ["Energy"],
+			"subsectors": ["Energy-related Transportation"],
+			"tags": ["Piyush Goyal","EV"],
+			"date": "January 6, 2016",
+			"posted_at": "1452038400",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Maharashtra is likely to become the first state in the country to exempt electric vehicles from value-added tax, road taxes, and registration fees. The proposal comes from Union power minister Piyush Goyal, who said the state government had agreed and would soon make an announcement.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "center-approves-funds-for-replacing-old-pumps-with-energy-efficients-ones-in-andhra",
+			"title": "Center approves funds for replacing old pumps with energy efficients ones in Andhra",
+			"url": "/articles/center-approves-funds-for-replacing-old-pumps-with-energy-efficients-ones-in-andhra/",
+			"content_type": "Articles",
+			"states": ["Andhra Pradesh","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Energy Efficiency"],
+			"tags": ["Pump","Piyush Goyal"],
+			"date": "January 6, 2016",
+			"posted_at": "1452038400",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Union minister for power, Piyush Goyal, has agreed to support a $1.13 billion scheme to replace 1.5 million agricultural pumps in Andhra Pradesh with energy efficient pump sets, free of cost.</p>\n"
+		}
+	
+	,
+	
+		
+		
+		
+		
+		{
+			"objectID": "a-lot-rides-on-uday",
+			"title": "A Lot Rides on UDAY",
+			"url": "/analysis/a-lot-rides-on-uday/",
+			"content_type": "Analysis",
+			"states": [""],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["UDAY Distribution"],
+			"date": "June 29, 2016",
+			"posted_at": "1467158400",
+			"weight": {
+				"position": 5
+			},
+			"excerpt": "<p>In November 2015, Minister for Power Piyush Goyal announced a new program to bail out India’s struggling electricity utility companies, the <a href=\"http://bit.ly/28UCBJX\">Ujwal DISCOM Assurance Yojana (UDAY)</a>. Weakness in the electric power sector remains one of India’s biggest obstacles to faster human and economic development. UDAY is not the first attempt to bail out the struggling state electricity utilities, but it has developed fairly strong momentum, and it has crucial features in terms of timing and commitments that make it qualitatively different from past bailouts. UDAY’s success is critical for India’s attempt to expand electricity access and for “Make in India.” Perhaps most notably for the Obama administration, UDAY can provide fiscal space for India to meet its significant clean energy commitments.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "of-sun-gods-and-solar-energy",
+			"title": "Of Sun Gods and Solar Energy",
+			"url": "/analysis/of-sun-gods-and-solar-energy/",
+			"content_type": "Analysis",
+			"states": ["Rajasthan","West Bengal","Karnataka","Bihar"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Solar"],
+			"date": "January 26, 2017",
+			"posted_at": "1485388800",
+			"weight": {
+				"position": 5
+			},
+			"excerpt": "<p><em>Politics, capitalism, and energy poverty are combining in strange ways across India. The result looks like progress—sometimes.</em></p>\n\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "payment-security-mechanism-for-solar-power-in-india-can-india-secure-its-future-and-the-future-of-solar-developers-as-well",
+			"title": "Payment Security Mechanism for Solar Power in India: Can India Secure its Future and the Future of Solar Developers as well?",
+			"url": "/analysis/payment-security-mechanism-for-solar-power-in-india-can-india-secure-its-future-and-the-future-of-solar-developers-as-well/",
+			"content_type": "Analysis",
+			"states": [""],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Solar"],
+			"date": "February 10, 2017",
+			"posted_at": "1486684800",
+			"weight": {
+				"position": 5
+			},
+			"excerpt": "<p><strong>FACTS:</strong>\n</p>\n<ul>\n<li>Solar Energy Corporation of India Limited (<a href=\"http://www.seci.gov.in/content/innerpage/introduction.php\">SECI</a>) proposed a $220 million (Rs. 1,500 crore) <a href=\"http://mnre.gov.in/file-manager/UserFiles/Draft-PSM-Scheme.pdf\">Payment Security Fund</a> for solar developers in August 2016 to instill faith in the Indian renewable energy investment landscape. SECI, a public company, is responsible for implementing the Indian Ministry of New and Renewable Energy’s renewable energy mandate.</li>\n<li>The Payment Security Fund is meant to serve many purposes: ensure timely payments to solar developers, provide payment security through bank guarantees, compensate developers in the event of tariff changes by distribution companies, compensate for lack of access to the grid for evacuation of power, and cover other defaults or delays not foreseen at the time of signing power purchase agreements (PPAs) with solar project developers.</li>\n<li>Solar projects approved by the ministry under the phased implementation of the Jawaharlal Nehru National Solar Mission (JNNSM)—a 2010 Indian government program to deploy 100,000 megawatts of grid-connected solar power by 2022— be eligible for support from the Payment Security Fund.</li>\n<li>The new fund comes on top of several other measures SECI has put in place For the implementation of JNNSM, a <a href=\"http://mnre.gov.in/file-manager/UserFiles/further-revised-VGF_750MW_Guidelines_for-grid-solar-power-projects.pdf\">viability gap funding mechanism</a> was introduced. Under this, solar projects selected through a transparent process would receive government subsidies of up to 30 percent of the project cost to make up for project-related capital expenditures that could not be recovered from tariff-related revenue.</li>\n<li>This is not the first payment security scheme introduced by SECI. In June 2011, it introduced a <a href=\"http://mnre.gov.in/file-manager/UserFiles/payment_security_mechansim_grid_connected_jnnsm_2011_2012.pdf\">payment security mechanism</a> to encourage distribution companies (DISCOMs) to make timely payments to grid-connected solar plants. The mechanism provided for a 2 percent rebate to DISCOMs when payments were made to developers the day after the bill is raised and an escrow account with six months’ worth of payments, which can be invoked in the event of nonpayment.</li>\n<li>Despite these measures, between <a href=\"https://www.bloomberg.com/news/articles/2016-06-15/india-s-utilities-seen-holding-up-360-million-for-renewables\">June</a> and <a href=\"http://www.livemint.com/Industry/ASu58DZtfl5xnomADH13wL/Clean-energy-firms-worry-about-backdown-by-discoms.html\">August</a> 2016, as many as 16 solar and wind project developers claimed that their investments were in jeopardy, owing to delays in signing of PPAs, delays in payments on commissioned plants, and forced reduction/shutdown of their power plants. The list included Indian electricity sector majors like ReNew Power, Adani Power, ACME Solar, and Hero Futures Energy.</li>\n</ul>\n<p> <strong>OPINION:</strong><br /> India has set a <a href=\"http://www4.unfccc.int/submissions/INDC/Published%20Documents/India/1/INDIA%20INDC%20TO%20UNFCCC.pdf\">target</a> of 175 gigawatts (GW) of power from renewable sources by 2022, of which 100 GW is set to come from solar energy. India’s renewable energy plans are <a href=\"https://climatepolicyinitiative.org/wp-content/uploads/2016/11/Reaching-Indias-Renewable-Energy-Targets-The-Role-of-Institutional-Investors_conference-draft.pdf\">predominantly financed</a> by the central government or by debt financing through banks. The <a href=\"https://climatepolicyinitiative.org/wp-content/uploads/2016/11/Reaching-Indias-Renewable-Energy-Targets-The-Role-of-Institutional-Investors_conference-draft.pdf\">role</a> of institutional investors in developing and financing renewable energy projects in India is crucial. Therefore, having a good investment environment is important to maintain investor involvement.</p>\n<p> Solar project developers in India are faced with off-taker risks that stem from nonpayment for power purchased by distribution utilities or the refusal of utilities to off-take power. Poor financial health and credit worthiness of the DISCOMs exacerbates this off-taker risk. India is no newcomer to infrastructure project–related problems because of institutional and payment delays. This has earned it a low rank of 130 among 190 countries in the <em>Ease of Doing Business</em> <a href=\"http://www.doingbusiness.org/data/exploreeconomies/india\">rankings</a> by the World Bank (India ranks a low 178 in <em>Enforcing Contracts</em>). In this environment, solar project developers require a safety net.</p>\n<div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>&lt;p&gt; The Payment Security Fund envisaged by the Ministry of New and Renewable Energy essentially makes the Indian government a guarantor for the investment by solar project developers. By making SECI the implementation agency for the fund, the government know-how of the financial health of DISCOMs (which are public companies) can be leveraged to ensure that payments are made to project developers. Government underwriting of solar project investment and the built-in mechanism to ensure that the DISCOMs honor their contracts reduce investor risk. This could in turn create a lower-risk investment atmosphere for solar project development.&lt;/p&gt;\n</code></pre>\n</div>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "indian-states-breakthrough-index-solar-policy",
+			"title": "Indian States Breakthrough Index: Solar Policy",
+			"url": "/analysis/indian-states-breakthrough-index-solar-policy/",
+			"content_type": "Analysis",
+			"states": [""],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["RPO","producer incentives"],
+			"date": "February 15, 2017",
+			"posted_at": "1487116800",
+			"weight": {
+				"position": 5
+			},
+			"excerpt": "<p><strong>This issue: </strong>In September 2016, <a href=\"http://www.mprenewable.nic.in/Decentralized%20RE%20Policy%20in%20English%2024.09.2016.pdf\">Madhya Pradesh</a> became the latest state to encourage consumers to install solar rooftop panels. But despite the vogue for such sources of renewable energy, state policies vary widely. We awarded Andhra Pradesh Breakthrough status for a policy that offers generous incentives to producers and consumers, including ambitious purchase targets and net-metering policies.<br />\n<br />\n<img alt=\"\" height=\"744\" src=\"https://www.csis.org/s3/files/styles/wysiwyg_medium/public/assets/images/170215_bt_index11.jpg?itok=EsIQxcDX\" style=\"float: right;width:240px;\" typeof=\"foaf:Image\" />\n<strong>Why it matters: </strong>India has set an extraordinarily ambitious goal of reaching 175 gigawatts (GW) of renewables production by 2022. Of that total, 100 GW is set come from solar, 40 percent of it from rooftop solar. But at the current pace, India will only have <a href=\"http://www.pv-tech.org/news/india-expected-to-reach-just-12gw-of-rooftop-solar-by-2022\">12 GW</a> of rooftop solar by 2022. To foster growth, states need to set policies that encourage solar production (and meet implementation <a href=\"http://www.bridgetoindia.com/poor-implementation-net-metering-policies-poses-major-challenge-rooftop-solar/\">challenges</a>).<br />\n<br />\n<strong>How the Index works: </strong>We rank state solar policies in three areas: the value of producer incentives, the consumer friendliness of their net-metering policy, and the ambition of their renewable purchase obligation (RPO) targets. Each category had a maximum score of 10, with up to 3 bonus points for making rooftop solar mandatory. The maximum possible score was 33.<br />\n<br />\nRPO targets were evaluated based on the government of India’s suggested solar generation targets for each state (an indication of solar potential). Net-metering scores were based on whether or not the state had strict limits on rooftop solar generation and whether consumers could bank their excess production and receive cash credits for it. Producer incentive scores reflect whether a state assigns solar must-run status, gives solar plants the same incentives as other industries, and exempts solar generation from common electricity generation taxes and charges.<br />\n<br />\n<strong>Our data: </strong>We drew data almost exclusively from published government sources. Given our belief that making information available to citizens is a crucial part of any policy, if we could not find a regulation after an exhaustive search, we coded it as nonexistent. Raw data and sources are available on request; please contact <a href=\"mailto:SWatson@csis.org\">SWatson@csis.org</a>.<br />\n<br />\n<strong>Highlights from the Data</strong></p>\n\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "politicization-of-electric-power-in-uttar-pradesh",
+			"title": "Politicization of (Electric) Power in Uttar Pradesh",
+			"url": "/analysis/politicization-of-electric-power-in-uttar-pradesh/",
+			"content_type": "Analysis",
+			"states": ["Uttar Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["State Elections"],
+			"date": "February 23, 2017",
+			"posted_at": "1487808000",
+			"weight": {
+				"position": 5
+			},
+			"excerpt": "<p>While caste and communal politics will likely play a major role in determining the political fortunes of Uttar Pradesh (UP), a broad set of issues will drive the electorate in the state’s ongoing legislative assembly elections. Election results on March 11 will determine who will govern the state – which has a population of over 200 million, or nearly 2.7 percent of the world’s population – for the next five years. It will also set the stage for the state’s energy future: will the winning party seek to provide electric power to all groups equally or will electric power distribution be swayed by political dictates?</p>\n\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "government-capture-of-electric-power-in-punjab",
+			"title": "Government Capture of (Electric) Power in Punjab",
+			"url": "/analysis/government-capture-of-electric-power-in-punjab/",
+			"content_type": "Analysis",
+			"states": ["Punjab"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["State Elections"],
+			"date": "March 7, 2017",
+			"posted_at": "1488844800",
+			"weight": {
+				"position": 5
+			},
+			"excerpt": "<p>Punjab state assembly elections were held on February 4, 2017, with results set to be announced March 11. Punjab, with a <a href=\"http://www.census2011.co.in/census/state/punjab.html\">population</a> of over 27.7 million, is famed for providing electricity to <a href=\"http://rchiips.org/nfhs/pdf/NFHS4/PB_FactSheet.pdf\">almost all</a> the households in the state — a stark contrast to the <a href=\"http://www.censusindia.gov.in/2011census/hlo/Data_sheet/India/Source_Lighting.pdf\">national average</a> of 68 percent. It also holds the distinction of providing round-the-clock power supply, while many other states suffer from daily power outages. Its power distribution company Punjab State Power Corporation Ltd (PSPCL), was <a href=\"http://pspcl.in/jsps/newsDetails.jsp?id=311\">chosen</a> as the best performing utility in the power sector in 2015. The Prakash Singh Badal-led Akali Dal/BJP coalition that has been in power in the state since 2007 takes <a href=\"http://punjabnewsexpress.com/punjab/news/historic-achievements-are-made-by-punjab-government-during-9-years-sukhbir-badal-47261.aspx\">credit</a> for transforming Punjab from a position of power deficit to power surplus while securing universal power access for its people. But this is not the whole story: PSPCL faces severe revenue deficits, and no party has presented a power plan that would prevent looming degradation in services.</p>\n\n"
+		}
+	
+]

@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: http://india-states.siteleaf.net/sitemap.xml

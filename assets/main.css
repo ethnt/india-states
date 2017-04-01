@@ -2688,6 +2688,29 @@ article.post-individualContainer .post-footer {
       background-color: #004165;
       color: #ffffff; }
 
+/*==================================
+=            About Page            =
+==================================*/
+.page-container {
+  margin: 3rem 0; }
+  .page-container .page-header {
+    margin: 0 0 1rem 0; }
+    .page-container .page-header .main-title {
+      margin: 0; }
+  .page-container .team-container .team-personContainer {
+    text-align: center;
+    margin: 1rem 0; }
+    .page-container .team-container .team-personContainer img {
+      max-width: 200px;
+      max-height: 250px;
+      margin: 0 auto 0.5rem; }
+    .page-container .team-container .team-personContainer .team-name {
+      font-family: "museo-sans", sans-serif;
+      color: #004165; }
+    .page-container .team-container .team-personContainer .team-title {
+      font-size: 15px;
+      font-size: 0.9375rem; }
+
 /*===============================
 =            Vendors            =
 ===============================*/

@@ -15,10 +15,6 @@
   <!-- Typekit -->
   <script src="https://use.typekit.net/xxu0xvd.js"></script>
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
-
-  <script src="//code.jquery.com/jquery-3.1.0.min.js"></script>
-  <script src="//cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
-  <script src="//cdn.jsdelivr.net/autocomplete.js/0/autocomplete.jquery.min.js"></script>
   
   
 
@@ -315,7 +311,7 @@
         
 <section class="archive-container">
 	
-    <div class="archive-featureImage" style="background-image:url('http://www.tbalert.org/wp-content/uploads/2011/05/0029_tap_india_2013.jpg'"></div>
+    <div class="archive-featureImage" style="background-image:url('http://res.cloudinary.com/csisilab/image/fetch/http://www.tbalert.org/wp-content/uploads/2011/05/0029_tap_india_2013.jpg'"></div>
   
 	<header class="archive-header">
 		<div class="content-wrapper fullWidthContent">
@@ -463,7 +459,6 @@
     postsPaginateMainObject["all"] = [
       
         
-        
         {
           "id": "tamil-nadu-telangana-and-assam-join-uday-bring-total-to-21",
           "title": "Tamil Nadu, Telangana and Assam join UDAY, bring total to 21",
@@ -500,42 +495,166 @@
     
     
 
-    
+
+      <script type="text/javascript">
+        // Load all posts JSON grouped by subsector
+        postsPaginateMainObject["coal"] = [
+          
+        ];
+
+        postsPaginateSecondaryObject["coal"] = [];
+        postsPaginateMainObject["coal"].forEach(function(post, pIndex) {
+          post.states.forEach(function(state, index){
+            var newPost = {
+              "id": post.id,
+              "title": post.title,
+              "states": post.states,
+              "state": state,
+              "date": post.date,
+              "postHtml": post.postHtml
+            };
+            postsPaginateSecondaryObject["coal"].push(newPost);
+
+            // Increment Total
+            postsPaginateSecondaryTotal[state]["coal"] = postsPaginateSecondaryTotal[state]["coal"] + 1 || 1;
+          });
+        });
+      </script>
+
   
 
     
     
 
-    
+
+      <script type="text/javascript">
+        // Load all posts JSON grouped by subsector
+        postsPaginateMainObject["energy-efficiency"] = [
+          
+        ];
+
+        postsPaginateSecondaryObject["energy-efficiency"] = [];
+        postsPaginateMainObject["energy-efficiency"].forEach(function(post, pIndex) {
+          post.states.forEach(function(state, index){
+            var newPost = {
+              "id": post.id,
+              "title": post.title,
+              "states": post.states,
+              "state": state,
+              "date": post.date,
+              "postHtml": post.postHtml
+            };
+            postsPaginateSecondaryObject["energy-efficiency"].push(newPost);
+
+            // Increment Total
+            postsPaginateSecondaryTotal[state]["energy-efficiency"] = postsPaginateSecondaryTotal[state]["energy-efficiency"] + 1 || 1;
+          });
+        });
+      </script>
+
   
 
     
     
 
-    
+
+      <script type="text/javascript">
+        // Load all posts JSON grouped by subsector
+        postsPaginateMainObject["energy-related-transportation"] = [
+          
+        ];
+
+        postsPaginateSecondaryObject["energy-related-transportation"] = [];
+        postsPaginateMainObject["energy-related-transportation"].forEach(function(post, pIndex) {
+          post.states.forEach(function(state, index){
+            var newPost = {
+              "id": post.id,
+              "title": post.title,
+              "states": post.states,
+              "state": state,
+              "date": post.date,
+              "postHtml": post.postHtml
+            };
+            postsPaginateSecondaryObject["energy-related-transportation"].push(newPost);
+
+            // Increment Total
+            postsPaginateSecondaryTotal[state]["energy-related-transportation"] = postsPaginateSecondaryTotal[state]["energy-related-transportation"] + 1 || 1;
+          });
+        });
+      </script>
+
   
 
     
     
 
-    
+
+      <script type="text/javascript">
+        // Load all posts JSON grouped by subsector
+        postsPaginateMainObject["nuclear"] = [
+          
+        ];
+
+        postsPaginateSecondaryObject["nuclear"] = [];
+        postsPaginateMainObject["nuclear"].forEach(function(post, pIndex) {
+          post.states.forEach(function(state, index){
+            var newPost = {
+              "id": post.id,
+              "title": post.title,
+              "states": post.states,
+              "state": state,
+              "date": post.date,
+              "postHtml": post.postHtml
+            };
+            postsPaginateSecondaryObject["nuclear"].push(newPost);
+
+            // Increment Total
+            postsPaginateSecondaryTotal[state]["nuclear"] = postsPaginateSecondaryTotal[state]["nuclear"] + 1 || 1;
+          });
+        });
+      </script>
+
   
 
     
     
 
-    
+
+      <script type="text/javascript">
+        // Load all posts JSON grouped by subsector
+        postsPaginateMainObject["oil-and-gas"] = [
+          
+        ];
+
+        postsPaginateSecondaryObject["oil-and-gas"] = [];
+        postsPaginateMainObject["oil-and-gas"].forEach(function(post, pIndex) {
+          post.states.forEach(function(state, index){
+            var newPost = {
+              "id": post.id,
+              "title": post.title,
+              "states": post.states,
+              "state": state,
+              "date": post.date,
+              "postHtml": post.postHtml
+            };
+            postsPaginateSecondaryObject["oil-and-gas"].push(newPost);
+
+            // Increment Total
+            postsPaginateSecondaryTotal[state]["oil-and-gas"] = postsPaginateSecondaryTotal[state]["oil-and-gas"] + 1 || 1;
+          });
+        });
+      </script>
+
   
 
     
     
 
-    
+
       <script type="text/javascript">
         // Load all posts JSON grouped by subsector
         postsPaginateMainObject["power"] = [
           
-            
             
             {
               "id": "tamil-nadu-telangana-and-assam-join-uday-bring-total-to-21",
@@ -565,21 +684,44 @@
           });
         });
       </script>
-    
+
   
 
     
     
 
-    
+
+      <script type="text/javascript">
+        // Load all posts JSON grouped by subsector
+        postsPaginateMainObject["renewables"] = [
+          
+        ];
+
+        postsPaginateSecondaryObject["renewables"] = [];
+        postsPaginateMainObject["renewables"].forEach(function(post, pIndex) {
+          post.states.forEach(function(state, index){
+            var newPost = {
+              "id": post.id,
+              "title": post.title,
+              "states": post.states,
+              "state": state,
+              "date": post.date,
+              "postHtml": post.postHtml
+            };
+            postsPaginateSecondaryObject["renewables"].push(newPost);
+
+            // Increment Total
+            postsPaginateSecondaryTotal[state]["renewables"] = postsPaginateSecondaryTotal[state]["renewables"] + 1 || 1;
+          });
+        });
+      </script>
+
   
 
 
 
   <!-- If there are no articles -->
   
-
-<script src="/assets/js/pagination.js"></script>
 			</section>
 		</div>
 	</section>
@@ -627,14 +769,25 @@
 
 </footer>
 
+<script src="//code.jquery.com/jquery-3.1.0.min.js"></script>
+  <script src="//cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
+  <script src="//cdn.jsdelivr.net/autocomplete.js/0/autocomplete.jquery.min.js"></script>
+<script src="/assets/js/homepage.js"></script>
 <script src="/assets/js/breadcrumbs.js"></script>
 <script src="/assets/js/smooth-scroll.js"></script>
 <script src="/assets/js/post-listing.js"></script>
 <script src="/assets/js/sticky-menu.js"></script>
 <script src="/assets/js/show-more-meta.js"></script>
 <script src="/assets/js/share-icons.js"></script>
-<script src="/assets/js/searchpage.js"></script>
 <script src="/assets/js/navigation.js"></script>
+<script src="/assets/js/state-landing.js"></script>
+<script src="/assets/js/pagination.js"></script>
+<!-- IE < 10 support -->
+<!--[if lte IE 9]>
+<script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+<![endif]-->
+<script src="//cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.js"></script>
+<script src="/assets/js/searchpage.js"></script>
 
     <section class="search-overlay">
 	<div class="search-closeIconContainer">

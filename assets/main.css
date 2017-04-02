@@ -1598,11 +1598,18 @@ header.site-header {
     @media screen and (min-width: 64em) {
       header.site-header .header-mainContainer {
         height: 125px; } }
-  header.site-header .header-logoContainer.col-md-6 {
-    padding-left: 0;
-    padding-right: 0;
-    flex-basis: 45%;
-    max-width: 45%; }
+  @media screen and (min-width: 48em) {
+    header.site-header .header-logoContainer {
+      padding-left: 0;
+      padding-right: 0;
+      flex-basis: 45%;
+      max-width: 45%; } }
+  @media screen and (min-width: 64em) {
+    header.site-header .header-logoContainer {
+      padding-right: .5rem;
+      padding-left: .5rem;
+      flex-basis: 50%;
+      max-width: 50%; } }
   header.site-header .header-logo {
     font-family: "expo-serif-pro", serif;
     font-size: 26px;
@@ -1610,15 +1617,24 @@ header.site-header {
     color: #ffffff; }
     @media screen and (min-width: 48em) {
       header.site-header .header-logo {
+        font-size: 32px;
+        font-size: 2rem; } }
+    @media screen and (min-width: 64em) {
+      header.site-header .header-logo {
         font-size: 45px;
         font-size: 2.8125rem; } }
-  header.site-header .header-navContainer.col-md-6 {
-    flex-basis: 55%;
-    max-width: 55%;
-    padding-left: 0;
-    padding-right: 0; }
+  @media screen and (min-width: 48em) {
+    header.site-header .header-navContainer {
+      padding-left: 0;
+      padding-right: 0;
+      flex-basis: 55%;
+      max-width: 55%; } }
   @media screen and (min-width: 64em) {
     header.site-header .header-navContainer {
+      padding-right: .5rem;
+      padding-left: .5rem;
+      flex-basis: 50%;
+      max-width: 50%;
       align-self: flex-end;
       text-align: right; } }
   header.site-header .header-navContainer .header-nav {
@@ -1627,14 +1643,10 @@ header.site-header {
     font-size: 1.125rem;
     color: #DDDDDD;
     text-transform: uppercase; }
-    @media screen and (min-width: 48em) {
-      header.site-header .header-navContainer .header-nav {
-        background-color: red; } }
     @media screen and (min-width: 64em) {
       header.site-header .header-navContainer .header-nav {
         font-size: 15px;
-        font-size: 0.9375rem;
-        background-color: transparent; } }
+        font-size: 0.9375rem; } }
     header.site-header .header-navContainer .header-nav #nav-toggle {
       cursor: pointer;
       position: absolute;
@@ -1668,10 +1680,11 @@ header.site-header {
     header.site-header .header-navContainer .header-nav #toggleMenu {
       display: none; }
     header.site-header .header-navContainer .header-nav #toggleMenu:checked ~ .header-navListContainer {
-      transition: right 300ms ease-in-out;
+      transition: right 300ms ease-in-out, display 300ms ease-in-out;
       right: 0;
       z-index: 50;
-      overflow-y: scroll; }
+      overflow-y: scroll;
+      display: block; }
     @media screen and (min-width: 64em) {
       header.site-header .header-navContainer .header-nav .header-navigationSiteOverlay {
         display: none; } }
@@ -1693,7 +1706,8 @@ header.site-header {
       width: 50%;
       width: 50vw;
       height: 100vh;
-      transition: right 300ms ease-in-out; }
+      display: none;
+      transition: right 300ms ease-in-out, display 300ms ease-in-out; }
       @media screen and (min-width: 48em) {
         header.site-header .header-navContainer .header-nav .header-navListContainer {
           top: 100px; } }
@@ -2231,7 +2245,8 @@ footer.site-footer {
     overflow-y: scroll;
     font-size: 16px;
     font-size: 1rem;
-    font-family: "museo-sans", sans-serif; }
+    font-family: "museo-sans", sans-serif;
+    text-align: left; }
     .home-content .home-dropdownMenu::-webkit-scrollbar {
       -webkit-appearance: none;
       width: 7px; }
@@ -2305,7 +2320,8 @@ footer.site-footer {
   max-height: 300px;
   overflow: hidden; }
   .stateFeatureImageContainer .col-xs-12, .stateFeatureImageContainer .col-md-6 {
-    padding: 0; }
+    padding: 0;
+    margin-bottom: -5px; }
   .stateFeatureImageContainer img {
     width: 100%;
     height: auto; }

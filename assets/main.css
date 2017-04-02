@@ -1495,7 +1495,9 @@ ul.shareIcons {
       color: #ffffff;
       font-style: normal;
       margin-left: 0.5rem;
-      box-shadow: none; }
+      box-shadow: none;
+      background-color: #004165;
+      border: none; }
       @media screen and (min-width: 48em) {
         .pagination-sortByContainer .pagination-sortBy .sort-dropdown {
           display: none; } }
@@ -2061,6 +2063,7 @@ footer.site-footer {
       overflow-x: hidden; } }
 
 .home-content {
+  overflow-x: hidden;
   /* Remove select border in Safari */
   /* Remove select border in Firefox */ }
   .home-content .home-orContainer {

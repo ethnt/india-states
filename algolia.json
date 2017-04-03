@@ -531,27 +531,6 @@
 		
 		
 		{
-			"objectID": "test-article",
-			"title": "Test Article",
-			"url": "/articles/test-article/",
-			"content_type": "Articles",
-			"states": [],
-			"sectors": [],
-			"subsectors": [],
-			"tags": ["Pump","Piyush Goyal"],
-			"date": "April 2, 2017",
-			"posted_at": "1491177180",
-			"weight": {
-				"position": 4
-			},
-			"excerpt": "<p>this is a test article to test the algolia plugin to make sure that new posts can be detected and deleted posts are deleted.</p>\n"
-		},
-	
-		
-		
-		
-		
-		{
 			"objectID": "west-bengal-to-get-its-first-super-critical-thermalpower-plant",
 			"title": "West Bengal to get its first super-critical thermalpower plant",
 			"url": "/articles/west-bengal-to-get-its-first-super-critical-thermalpower-plant/",

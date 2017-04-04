@@ -21,6 +21,11 @@
   <!-- Typekit -->
   <script src="https://use.typekit.net/xxu0xvd.js"></script>
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+  <!-- jQuery Shim -->
+  <script>
+(function(){"use strict";var c=[],f={},a,e,d,b;if(!window.jQuery){a=function(g){c.push(g)};f.ready=function(g){a(g)};e=window.jQuery=window.$=function(g){if(typeof g=="function"){a(g)}return f};window.checkJQ=function(){if(!d()){b=setTimeout(checkJQ,100)}};b=setTimeout(checkJQ,100);d=function(){if(window.jQuery!==e){clearTimeout(b);var g=c.shift();while(g){jQuery(g);g=c.shift()}b=f=a=e=d=window.checkJQ=null;return true}return false}}})();
+  </script>
   
   
 
@@ -638,6 +643,10 @@
 <script src="/assets/js/navigation.js"></script>
 <script src="/assets/js/state-landing.js"></script>
 <script src="/assets/js/pagination.js"></script>
+<script src="/assets/js/national-goals.js"></script>
+<script src="http://code.highcharts.com/maps/highmaps.js"></script>
+<script src="http://code.highcharts.com/maps/modules/data.js"></script>
+<script src="http://code.highcharts.com/mapdata/countries/tr/tr-all.js"></script>
 
     <section class="search-overlay">
 	<div class="search-closeIconContainer">

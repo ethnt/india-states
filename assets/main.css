@@ -792,8 +792,10 @@ a {
         -o-transform: rotate(-45deg);
         transform: rotate(-45deg); }
   .search-overlay .search-barResultsContainer {
-    text-align: center;
-    margin-top: 12% !important; }
+    text-align: center; }
+    @media screen and (min-width: 64em) {
+      .search-overlay .search-barResultsContainer {
+        margin-top: 6% !important; } }
     .search-overlay .search-barResultsContainer .algolia-autocomplete {
       width: 100% !important; }
     .search-overlay .search-barResultsContainer .is-input-container {
@@ -847,14 +849,19 @@ a {
     .search-overlay .search-barResultsContainer .aa-dropdown-menu {
       background-color: transparent;
       border: none;
-      width: 80%;
+      width: 100%;
       margin: 1rem auto;
-      left: 10% !important;
-      right: 10% !important;
+      left: 0% !important;
+      right: 0% !important;
       font-size: 20px;
       font-size: 1.25rem;
       box-sizing: border-box;
       color: #F0F0F0; }
+      @media screen and (min-width: 64em) {
+        .search-overlay .search-barResultsContainer .aa-dropdown-menu {
+          left: 10% !important;
+          right: 10% !important;
+          width: 80%; } }
     .search-overlay .search-barResultsContainer .aa-suggestion {
       border-bottom: 1px solid #869AA4;
       cursor: pointer;
@@ -878,11 +885,10 @@ a {
         box-shadow: none; }
         .search-overlay .search-barResultsContainer .aa-suggestion a:hover {
           color: #E87415; }
-      .search-overlay .search-barResultsContainer .aa-suggestion > span:first-child {
-        color: #ffffff; }
-      .search-overlay .search-barResultsContainer .aa-suggestion > span:last-child {
-        text-transform: uppercase;
-        color: #ffffff; }
+        .search-overlay .search-barResultsContainer .aa-suggestion a span {
+          display: inline-block; }
+        .search-overlay .search-barResultsContainer .aa-suggestion a .search-resultTitle {
+          padding-right: 1rem; }
       .search-overlay .search-barResultsContainer .aa-suggestion > span:first-child em, .search-overlay .search-barResultsContainer .aa-suggestion > span:last-child em {
         font-weight: 700;
         font-style: normal;
@@ -891,7 +897,8 @@ a {
       .search-overlay .search-barResultsContainer .aa-suggestion .search-contentType {
         font-family: "museo-sans", sans-serif;
         color: #F0F0F0;
-        float: right; }
+        float: right;
+        padding: 0; }
     .search-overlay .search-barResultsContainer .is-footer {
       text-align: right;
       padding-top: 28px; }
@@ -1150,18 +1157,28 @@ a {
   .search-container #no-results-message li a.remove:hover img {
     opacity: 1; }
   .search-container a.clear-all {
-    font-size: 12px;
-    line-height: 1;
+    color: #ffffff;
+    background-color: #004165;
+    font-size: 13px;
+    font-size: 0.8125rem;
+    font-family: "museo-sans", sans-serif;
+    font-weight: 300;
+    border-radius: 2px;
+    border: 0px;
+    text-transform: uppercase;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    padding: 8px 18px;
     display: inline-block;
-    margin: 10px;
-    padding: 8px 12px;
-    text-decoration: none;
-    color: black;
-    border: 2px solid #ddd;
-    border-radius: 4px; }
+    text-align: center;
+    line-height: 1.3;
+    letter-spacing: 1px;
+    box-shadow: none; }
   .search-container a.clear-all:hover {
-    transition: border-color .3s ease-in;
-    border-color: #999; }
+    background-color: #01273C; }
   .search-container .ais-range-slider--target {
     margin: 40px 30px 40px 0;
     font-size: 13px; }
@@ -2640,7 +2657,7 @@ article.post-individualContainer .post-footer {
       .goal-container .goal-header .goal-nameContainer {
         padding-right: 3rem; } }
   .goal-container .goal-interactiveContainer {
-    margin: 3rem 0; }
+    margin: 4rem 0; }
     .goal-container .goal-interactiveContainer ul.map-statesList {
       list-style-type: none;
       margin: 0;
@@ -2670,49 +2687,80 @@ article.post-individualContainer .post-footer {
       max-width: 10px; }
 
 /*----------  Progress Bars  ----------*/
-@media screen and (min-width: 64em) {
-  .progress-container .progress-stateContainer {
-    text-align: right; } }
-.progress-container .progress-stateContainer .progress-stateName {
-  font-size: 16px;
-  font-size: 1rem;
+.progressbars-container {
+  margin-top: 2rem; }
+
+.progress-container .progress-stateContainer {
   font-family: "museo-sans", sans-serif;
-  line-height: 1.4;
-  text-transform: uppercase;
-  font-style: normal; }
-.progress-container .progress-barContainer {
-  position: relative; }
-  .progress-container .progress-barContainer .progress {
-    width: 100%;
-    height: 18px;
-    padding: 0.2rem 0.5rem; }
-  .progress-container .progress-barContainer .progress-wrap {
-    background: #E87415;
-    margin: 0.5rem 0;
-    overflow: hidden;
-    position: relative; }
-    .progress-container .progress-barContainer .progress-wrap .progress-bar {
-      background: #F0F0F0;
-      left: 0;
-      position: absolute;
-      top: 0;
-      color: #E87415;
-      font-family: "museo-sans", sans-serif; }
-  .progress-container .progress-barContainer .tip-content {
-    display: none;
-    padding: 10px;
-    background: #ffffff;
-    border: 1px solid #205075;
-    font-family: "museo-sans", sans-serif;
+  line-height: 1.4; }
+  @media screen and (min-width: 64em) {
+    .progress-container .progress-stateContainer {
+      text-align: right; } }
+  .progress-container .progress-stateContainer .progress-stateName {
+    display: block;
+    font-size: 16px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-style: normal; }
+  .progress-container .progress-stateContainer .progress-achieved {
+    display: block;
     font-size: 14px;
     font-size: 0.875rem;
-    -webkit-box-shadow: 2px 2px 5px #A8A8A8;
-    -moz-box-shadow: 2px 2px 5px #A8A8A8;
-    box-shadow: 2px 2px 5px #A8A8A8; }
+    color: #A8A8A8; }
+    @media screen and (min-width: 64em) {
+      .progress-container .progress-stateContainer .progress-achieved {
+        display: none; } }
+.progress-container .progress-barContainer {
+  position: relative;
+  margin: 0 0 1rem 0; }
+  @media screen and (min-width: 64em) {
+    .progress-container .progress-barContainer {
+      margin: 0.5rem 0; } }
+  .progress-container .progress-barContainer .progress-wrap {
+    background: #F0F0F0;
+    font-family: "museo-sans", sans-serif;
+    width: 100%;
+    overflow: hidden;
+    height: 24px;
+    position: relative; }
+    .progress-container .progress-barContainer .progress-wrap span.progress-percentage {
+      color: #E87415;
+      display: inline-block;
+      position: absolute;
+      top: 3px;
+      margin-left: 3px; }
+    .progress-container .progress-barContainer .progress-wrap span.progress-target {
+      display: none; }
+      @media screen and (min-width: 64em) {
+        .progress-container .progress-barContainer .progress-wrap span.progress-target {
+          color: #A8A8A8;
+          display: inline-block;
+          position: absolute;
+          top: 3px;
+          right: 3px;
+          opacity: 0.7; } }
+    .progress-container .progress-barContainer .progress-wrap .progress-bar {
+      background-color: #E87415;
+      width: 0;
+      display: inline-block;
+      position: relative;
+      z-index: 5;
+      height: 100%; }
+  .progress-container .progress-barContainer .tip-content {
+    display: none;
+    padding: 8px;
+    background-color: #f7f7f7;
+    border: 1px solid #E87415;
+    font-family: "museo-sans", sans-serif;
+    opacity: 0.85;
+    border-radius: 2px;
+    font-size: 12px;
+    font-size: 0.75rem;
+    -webkit-box-shadow: 1px 1px 2px #A8A8A8;
+    -moz-box-shadow: 1px 1px 2px #A8A8A8;
+    box-shadow: 1px 1px 2px #A8A8A8; }
     .progress-container .progress-barContainer .tip-content span {
-      font-weight: bold;
-      text-decoration: underline;
-      text-align: center; }
+      font-weight: bold; }
   .progress-container .progress-barContainer .progress-wrap:hover ~ .tip-content {
     display: block;
     position: fixed;

@@ -38,12 +38,12 @@
 <meta property="og:url" content="http://india-states.siteleaf.net/states/sikkim/" />
 <meta property="og:site_name" content="Engaging Indian States" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2017-04-04T17:58:27+00:00" />
+<meta property="article:published_time" content="2017-04-04T21:33:32+00:00" />
 <script type="application/ld+json">
 {"@context": "http://schema.org",
 "@type": "BlogPosting",
 "headline": "Sikkim",
-"datePublished": "2017-04-04T17:58:27+00:00",
+"datePublished": "2017-04-04T21:33:32+00:00",
 "description": "Sikkim sticks out sharply from India’s northern border, sharing frontiers with more countries (Nepal, China, and Bhutan) than it does with fellow states (West Bengal). Its mountainous terrain has kept it culturally and economically isolated from the rest of India, with agriculture and tourism major industries, but in recent years Sikkim has harnessed the power of central government investment to become one of India’s fastest growing states.",
 "url": "http://india-states.siteleaf.net/states/sikkim/"}</script>
 <!-- End Jekyll SEO tag -->
@@ -718,9 +718,9 @@
 
 	<span class="listCategory">Keywords</span><br />
 	
-	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=uday">UDAY</a>, 
+	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=UDAY">UDAY</a>, 
 	
-	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=distribution">Distribution</a>
+	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=Distribution">Distribution</a>
 	
 	
 
@@ -829,9 +829,9 @@
 
 	<span class="listCategory">Keywords</span><br />
 	
-	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=teesta">Teesta</a>, 
+	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=Teesta">Teesta</a>, 
 	
-	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=hydro">Hydro</a>
+	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=Hydro">Hydro</a>
 	
 	
 
@@ -858,7 +858,7 @@
 		
 			
 
-			&mdash; Sikkim reaches MW
+			&mdash; Sikkim reaches 0.01MW
 
 		
 		<span class="goal-lastUpdated">(updated January 1, 2017)</span><br />
@@ -969,16 +969,10 @@
 	      templates: {
 	        //'suggestion' templating function used to render a single suggestion
 	        suggestion: function(suggestion) {
-	        	if(suggestion.content_type) {
-	        		return '<a href="'+suggestion.url+'"><span>' +
-	            suggestion._highlightResult.title.value + '</span><span class="search-contentType">' +
+	        	return '<a href="'+suggestion.url+'" class="row flex-center__y"><span class="col-xs-8 col-md-9 search-resultTitle">' +
+	            suggestion._highlightResult.title.value + '</span><span class="search-contentType col-xs-4 col-md-3">' +
 	            suggestion.content_type + '</span></a>';
-	        	}
-	        	else {
-	        		return '<a href="'+suggestion.url+'"><span>' +
-	        		suggestion._highlightResult.title.value + '</span></a>';
-	        	}
-	          
+	       
 	        },
 	        // Show "See More Search Results"
 	        footer: function({ query, isEmpty }) {

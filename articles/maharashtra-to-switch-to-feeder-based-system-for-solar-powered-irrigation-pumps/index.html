@@ -435,13 +435,13 @@
 
 	<span class="listCategory">Keywords</span><br />
 	
-	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=solar">Solar</a>, 
+	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=Solar">Solar</a>, 
 	
-	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=irrigation">Irrigation</a>, 
+	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=Irrigation">Irrigation</a>, 
 	
-	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=feeder">Feeder</a>, 
+	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=Feeder">Feeder</a>, 
 	
-	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=pumps">Pumps</a>
+	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=Pumps">Pumps</a>
 	
 	
 
@@ -607,16 +607,10 @@
 	      templates: {
 	        //'suggestion' templating function used to render a single suggestion
 	        suggestion: function(suggestion) {
-	        	if(suggestion.content_type) {
-	        		return '<a href="'+suggestion.url+'"><span>' +
-	            suggestion._highlightResult.title.value + '</span><span class="search-contentType">' +
+	        	return '<a href="'+suggestion.url+'" class="row flex-center__y"><span class="col-xs-8 col-md-9 search-resultTitle">' +
+	            suggestion._highlightResult.title.value + '</span><span class="search-contentType col-xs-4 col-md-3">' +
 	            suggestion.content_type + '</span></a>';
-	        	}
-	        	else {
-	        		return '<a href="'+suggestion.url+'"><span>' +
-	        		suggestion._highlightResult.title.value + '</span></a>';
-	        	}
-	          
+	       
 	        },
 	        // Show "See More Search Results"
 	        footer: function({ query, isEmpty }) {

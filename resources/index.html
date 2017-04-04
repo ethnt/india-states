@@ -327,11 +327,11 @@
       <h2 class="sectionSubtitle">PDF Files</h2>
       <ul class="resource-listing">
         
-          <li><a href="http://www.cea.nic.in/reports/committee/nep/nep_dec.pdf" target="_blank" rel="nofollow">Central Electricity Authority draft national electricity plan (NEP), December 2016 </a></li>
+          <li><a href="http://www.cea.nic.in/reports/committee/nep/nep_dec.pdf" target="_blank" rel="nofollow">Central Electricity Authority draft national electricity plan (NEP), December 2016 <img src="/assets/img/external-link-icon.svg" title="Central Electricity Authority draft national electricity plan (NEP), December 2016" alt="Go to" /></a></li>
         
-          <li><a href="http://www.petroleum.nic.in/docs/HELP.pdf" target="_blank" rel="nofollow">Hydrocarbon Exploration and Licensing Policy (HELP) </a></li>
+          <li><a href="http://www.petroleum.nic.in/docs/HELP.pdf" target="_blank" rel="nofollow">Hydrocarbon Exploration and Licensing Policy (HELP) <img src="/assets/img/external-link-icon.svg" title="Hydrocarbon Exploration and Licensing Policy (HELP)" alt="Go to" /></a></li>
         
-          <li><a href="http://www.cercind.gov.in/08022007/Act-with-amendment.pdf" target="_blank" rel="nofollow">The Electricity Act, 2003 </a></li>
+          <li><a href="http://www.cercind.gov.in/08022007/Act-with-amendment.pdf" target="_blank" rel="nofollow">The Electricity Act, 2003 <img src="/assets/img/external-link-icon.svg" title="The Electricity Act, 2003" alt="Go to" /></a></li>
         
       </ul>
       
@@ -461,16 +461,10 @@
 	      templates: {
 	        //'suggestion' templating function used to render a single suggestion
 	        suggestion: function(suggestion) {
-	        	if(suggestion.content_type) {
-	        		return '<a href="'+suggestion.url+'"><span>' +
-	            suggestion._highlightResult.title.value + '</span><span class="search-contentType">' +
+	        	return '<a href="'+suggestion.url+'" class="row flex-center__y"><span class="col-xs-8 col-md-9 search-resultTitle">' +
+	            suggestion._highlightResult.title.value + '</span><span class="search-contentType col-xs-4 col-md-3">' +
 	            suggestion.content_type + '</span></a>';
-	        	}
-	        	else {
-	        		return '<a href="'+suggestion.url+'"><span>' +
-	        		suggestion._highlightResult.title.value + '</span></a>';
-	        	}
-	          
+	       
 	        },
 	        // Show "See More Search Results"
 	        footer: function({ query, isEmpty }) {

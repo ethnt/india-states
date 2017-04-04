@@ -367,9 +367,10 @@
       
         By 
         
-          <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="articleAuthor">Sarah Ladislaw</span></span>,
         
-          <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="articleAuthor">Sharmila Bellur</span></span>
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="articleAuthor">Sharmila Bellur</span></span>,
+        
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="articleAuthor">Sarah Ladislaw</span></span>
         
         <br />
       
@@ -405,18 +406,6 @@
   <footer class="post-footer">
     
       
-        
-        <section class="post-authorInfoContainer row" itemprop="author" itemscope itemtype="http://schema.org/Person">
-          <div class="post-authorImage col-xs-12 col-md-3">
-            <img src="/assets/img/anon-author.svg " alt='Sarah Ladislaw Image'/>
-          </div>
-          <div class="post-authorInfo col-xs-12 col-md-9">
-            <h3 class="post-authorName sectionSubtitle" itemprop="name">Sarah Ladislaw</h3>
-            <span class="post-authorTitle articleMeta">Director and Senior Fellow, Energy and National Security Program</span>
-            <p class="post-authorBio">As director of the Energy and National Security Program, Sarah Ladislaw leads CSIS’s work in energy policy, market, and technology analysis. Ladislaw is an expert in U.S. energy policy, global oil and natural gas markets, and climate change.
-</p>
-          </div>
-        </section>
       
         
         <section class="post-authorInfoContainer row" itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -427,6 +416,19 @@
             <h3 class="post-authorName sectionSubtitle" itemprop="name">Sharmila Bellur</h3>
             <span class="post-authorTitle articleMeta">Research Intern, Energy and National Security Program</span>
             <p class="post-authorBio"></p>
+          </div>
+        </section>
+      
+        
+        <section class="post-authorInfoContainer row" itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <div class="post-authorImage col-xs-12 col-md-3">
+            <img src="/assets/img/anon-author.svg " alt='Sarah Ladislaw Image'/>
+          </div>
+          <div class="post-authorInfo col-xs-12 col-md-9">
+            <h3 class="post-authorName sectionSubtitle" itemprop="name">Sarah Ladislaw</h3>
+            <span class="post-authorTitle articleMeta">Director and Senior Fellow, Energy and National Security Program</span>
+            <p class="post-authorBio">As director of the Energy and National Security Program, Sarah Ladislaw leads CSIS’s work in energy policy, market, and technology analysis. Ladislaw is an expert in U.S. energy policy, global oil and natural gas markets, and climate change.
+</p>
           </div>
         </section>
       
@@ -481,7 +483,7 @@
 
 	<span class="listCategory">Keywords</span><br />
 	
-	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=solar">Solar</a>
+	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=Solar">Solar</a>
 	
 	
 
@@ -647,16 +649,10 @@
 	      templates: {
 	        //'suggestion' templating function used to render a single suggestion
 	        suggestion: function(suggestion) {
-	        	if(suggestion.content_type) {
-	        		return '<a href="'+suggestion.url+'"><span>' +
-	            suggestion._highlightResult.title.value + '</span><span class="search-contentType">' +
+	        	return '<a href="'+suggestion.url+'" class="row flex-center__y"><span class="col-xs-8 col-md-9 search-resultTitle">' +
+	            suggestion._highlightResult.title.value + '</span><span class="search-contentType col-xs-4 col-md-3">' +
 	            suggestion.content_type + '</span></a>';
-	        	}
-	        	else {
-	        		return '<a href="'+suggestion.url+'"><span>' +
-	        		suggestion._highlightResult.title.value + '</span></a>';
-	        	}
-	          
+	       
 	        },
 	        // Show "See More Search Results"
 	        footer: function({ query, isEmpty }) {

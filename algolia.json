@@ -526,6 +526,22 @@
 	
 	,
 	
+		{
+			"objectID": "solar-performance-tracker",
+			"title": "Solar Performance Tracker",
+			"url": "/national-goals/solar-performance-tracker/",
+			"content_type": "National Goal",
+			"sectors": "Energy",
+			"subsectors": "Renewables",
+			"posted_at": 0,
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>In 2014, Prime Minister Narendra Modi set a goal of reaching 100 GW of solar power generation capacity by 2022. In order to achieve this ambitious target, state governments must increase their rate of solar capacity growth. The Ministry of New and Renewable Energy (MNRE) has assigned each state a solar capacity target. The Indian States Solar Energy Performance Tracker is a tool to monitor the progress states have made in reaching this target.</p>\n"
+		}
+	
+	,
+	
 		
 		
 		
@@ -6301,6 +6317,27 @@
 				"position": 5
 			},
 			"excerpt": "<p>Punjab state assembly elections were held on February 4, 2017, with results set to be announced March 11. Punjab, with a <a href=\"http://www.census2011.co.in/census/state/punjab.html\">population</a> of over 27.7 million, is famed for providing electricity to <a href=\"http://rchiips.org/nfhs/pdf/NFHS4/PB_FactSheet.pdf\">almost all</a> the households in the state — a stark contrast to the <a href=\"http://www.censusindia.gov.in/2011census/hlo/Data_sheet/India/Source_Lighting.pdf\">national average</a> of 68 percent. It also holds the distinction of providing round-the-clock power supply, while many other states suffer from daily power outages. Its power distribution company Punjab State Power Corporation Ltd (PSPCL), was <a href=\"http://pspcl.in/jsps/newsDetails.jsp?id=311\">chosen</a> as the best performing utility in the power sector in 2015. The Prakash Singh Badal-led Akali Dal/BJP coalition that has been in power in the state since 2007 takes <a href=\"http://punjabnewsexpress.com/punjab/news/historic-achievements-are-made-by-punjab-government-during-9-years-sukhbir-badal-47261.aspx\">credit</a> for transforming Punjab from a position of power deficit to power surplus while securing universal power access for its people. But this is not the whole story: PSPCL faces severe revenue deficits, and no party has presented a power plan that would prevent looming degradation in services.</p>\n\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "india-s-hydrocarbon-exploration-and-licensing-policy-help-will-it-help-india-s-upstream-oil-and-gas",
+			"title": "India’s Hydrocarbon Exploration and Licensing Policy (HELP): Will it Help India’s Upstream Oil and Gas?",
+			"url": "/analysis/india-s-hydrocarbon-exploration-and-licensing-policy-help-will-it-help-india-s-upstream-oil-and-gas/",
+			"content_type": "Analysis",
+			"states": [],
+			"sectors": ["Energy"],
+			"subsectors": ["Oil and Gas"],
+			"tags": ["Dharmendra Pradhan","HELP"],
+			"date": "March 21, 2017",
+			"posted_at": "1490054400",
+			"weight": {
+				"position": 5
+			},
+			"excerpt": "HELP marks the biggest transition from an era of government control to government support for upstream E&P in India. OALP removes restrictions on exploration by giving companies both the data and the discretion to explore areas of their choice. India’s upstream oil and gas E&P policy has been subject to criticism, with protectionism and government red tape being blamed for lackluster development of oil and gas upstream. A policy that will encourage upstream investment and improve productivity could help incentivize more private and foreign entrants into the oil and gas sector."
 		}
 	
 ]

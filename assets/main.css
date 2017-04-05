@@ -1541,8 +1541,11 @@ p.noResults {
   font-size: 0.9375rem;
   font-family: "museo-sans", sans-serif; }
   .pagination-pagesContainer a {
-    margin: 0 0.5rem;
+    margin: 0 0.2rem;
     box-shadow: none; }
+    @media screen and (min-width: 48em) {
+      .pagination-pagesContainer a {
+        margin: 0 0.5rem; } }
     .pagination-pagesContainer a.active {
       pointer-events: none; }
       .pagination-pagesContainer a.active .btn-gray {
@@ -2330,11 +2333,12 @@ footer.site-footer {
           padding-bottom: 0.5rem;
           border-bottom: 1px dashed #A8A8A8; }
   .stateInfoContainer .stateMapContainer {
-    margin: 3rem auto 0;
-    max-width: 400px; }
+    margin: 3rem auto 0; }
     @media screen and (min-width: 64em) {
       .stateInfoContainer .stateMapContainer {
         margin: 0rem auto 0; } }
+    .stateInfoContainer .stateMapContainer svg {
+      max-width: 400px; }
 
 .stateFeatureImageContainer {
   max-height: 300px;

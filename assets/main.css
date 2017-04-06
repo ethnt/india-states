@@ -2346,6 +2346,11 @@ footer.site-footer {
   .stateFeatureImageContainer .col-xs-12, .stateFeatureImageContainer .col-md-6 {
     padding: 0;
     margin-bottom: -5px; }
+  .stateFeatureImageContainer .stateSecondaryImage {
+    display: none; }
+    @media screen and (min-width: 64em) {
+      .stateFeatureImageContainer .stateSecondaryImage {
+        display: block; } }
   .stateFeatureImageContainer img {
     width: 100%;
     height: auto; }
@@ -2361,6 +2366,11 @@ footer.site-footer {
   margin-top: 0.5rem;
   margin-bottom: 4rem;
   padding-left: 0.5rem; }
+  .stateFeatureImageCaptions .stateSecondaryCaption {
+    display: none; }
+    @media screen and (min-width: 64em) {
+      .stateFeatureImageCaptions .stateSecondaryCaption {
+        display: block; } }
 
 @media screen and (min-width: 90em) {
   .stateInfoContainer .content-wrapper, .sectorsArticlesContainer .content-wrapper {

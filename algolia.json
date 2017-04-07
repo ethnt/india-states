@@ -66,11 +66,11 @@
 		},
 	
 		{
-			"objectID": "chattisgarh",
-			"title": "Chattisgarh",
-			"url": "/states/chattisgarh/",
+			"objectID": "chhattisgarh",
+			"title": "Chhattisgarh",
+			"url": "/states/chhattisgarh/",
 			"content_type": "State",
-			"states": "Chattisgarh",
+			"states": "Chhattisgarh",
 			"posted_at": 0,
 			"weight": {
 				"position": 1
@@ -761,7 +761,7 @@
 			"title": "Telangana&#39;s TRANSCO successfully installs and tests new feeder bays at Dichpally",
 			"url": "/articles/telangana-s-transco-successfully-installs-and-tests-new-feeder-bays-at-dichpally/",
 			"content_type": "Articles",
-			"states": ["Telangana","Chattisgarh"],
+			"states": ["Telangana","Chhattisgarh"],
 			"sectors": ["Energy"],
 			"subsectors": ["Power"],
 			"tags": ["Feeder","Distribution","Transmission","Dichpally"],
@@ -1013,7 +1013,7 @@
 			"title": "ADB supports expansion of inter-regional power connectivity",
 			"url": "/articles/adb-supports-expansion-of-inter-regional-power-connectivity/",
 			"content_type": "Articles",
-			"states": ["Chattisgarh","Tamil Nadu","Kerala","Rajasthan","Center-State Relations"],
+			"states": ["Chhattisgarh","Tamil Nadu","Kerala","Rajasthan","Center-State Relations"],
 			"sectors": ["Energy"],
 			"subsectors": ["Power","Renewables"],
 			"tags": ["Transmission","POWERGRID"],
@@ -1555,11 +1555,11 @@
 		
 		
 		{
-			"objectID": "powergrid-to-link-chattisgarh-and-tamil-nadu",
-			"title": "POWERGRID to link Chattisgarh and Tamil Nadu",
+			"objectID": "powergrid-to-link-chhattisgarh-and-tamil-nadu",
+			"title": "POWERGRID to link Chhattisgarh and Tamil Nadu",
 			"url": "/articles/powergrid-to-link-chattisgarh-and-tamil-nadu/",
 			"content_type": "Articles",
-			"states": ["Tamil Nadu","Chattisgarh","Center-State Relations"],
+			"states": ["Tamil Nadu","Chhattisgarh","Center-State Relations"],
 			"sectors": ["Energy"],
 			"subsectors": ["Power"],
 			"tags": ["BHEL","ABB","POWERGRID","Raigarh","Pugalur"],
@@ -1568,7 +1568,7 @@
 			"weight": {
 				"position": 4
 			},
-			"excerpt": "<p>State-run power equipment maker Bharat Hindustan Electronics Ltd (BHEL) and industrial technology company ABB have won a contract worth $200 million from the Power Grid Corporation to set up a 800 kilovolt, 6,000 MW high voltage direct current link between the Western Region Grid (Raigarh, Chattisgarh) and the Southern Region Grid (Pugalur, Tamil Nadu).</p>\n"
+			"excerpt": "<p>State-run power equipment maker Bharat Hindustan Electronics Ltd (BHEL) and industrial technology company ABB have won a contract worth $200 million from the Power Grid Corporation to set up a 800 kilovolt, 6,000 MW high voltage direct current link between the Western Region Grid (Raigarh, Chhattisgarh) and the Southern Region Grid (Pugalur, Tamil Nadu).</p>\n"
 		},
 	
 		
@@ -3512,7 +3512,7 @@
 			"title": "Some states against center&#39;s plan to control procurement of electrical and power equipment",
 			"url": "/articles/some-states-against-center-s-plan-to-control-procurement-of-electrical-and-power-equipment/",
 			"content_type": "Articles",
-			"states": ["Center-State Relations","Chattisgarh","Madhya Pradesh","Maharashtra","Uttar Pradesh"],
+			"states": ["Center-State Relations","Chhattisgarh","Madhya Pradesh","Maharashtra","Uttar Pradesh"],
 			"sectors": ["Energy"],
 			"subsectors": ["Power"],
 			"tags": ["Procurement"],
@@ -5255,7 +5255,7 @@
 			"title": "Ministry of Finance allows four UDAY states to issue bonds to cover the debt of their DISCOMs",
 			"url": "/articles/ministry-of-finance-allows-four-uday-states-to-issue-bonds-to-cover-the-debt-of-their-discoms/",
 			"content_type": "Articles",
-			"states": ["Center-State Relations","Uttar Pradesh","Rajasthan","Jharkhand","Chattisgarh"],
+			"states": ["Center-State Relations","Uttar Pradesh","Rajasthan","Jharkhand","Chhattisgarh"],
 			"sectors": ["Energy"],
 			"subsectors": ["Power"],
 			"tags": ["UDAY","Distribution"],
@@ -5608,11 +5608,11 @@
 		
 		
 		{
-			"objectID": "telangana-decides-to-purchase-power-from-chattisgarh",
-			"title": "Telangana decides to purchase power from Chattisgarh",
-			"url": "/articles/telangana-decides-to-purchase-power-from-chattisgarh/",
+			"objectID": "telangana-decides-to-purchase-power-from-chhattisgarh",
+			"title": "Telangana decides to purchase power from Chhattisgarh",
+			"url": "/articles/telangana-decides-to-purchase-power-from-chhattisgarh/",
 			"content_type": "Articles",
-			"states": ["Telangana","Chattisgarh"],
+			"states": ["Telangana","Chhattisgarh"],
 			"sectors": ["Energy"],
 			"subsectors": ["Power"],
 			"tags": ["Distribution"],

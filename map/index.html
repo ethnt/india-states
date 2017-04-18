@@ -377,6 +377,8 @@ $(function () {
     
   ];
 
+  console.log(mapData);
+
   // Initiate the chart
   var chartOptions = {
     chart: {
@@ -442,7 +444,12 @@ $(function () {
     tooltip: {
       formatter: function(){
         var s = "<strong>"+this.point.nameNormal + '</strong><br/>';
-        s += 'Value: ' + this.point.value + '<br/>';
+        if(this.point.value) {
+          s += 'Value: ' + this.point.value + '<br/>';
+        }
+        else {
+          s += '<em>No data currently available.</em>';
+        }
         return s;
       },
     }

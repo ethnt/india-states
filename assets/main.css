@@ -2619,6 +2619,10 @@ footer.site-footer {
   @media screen and (max-width: 25em) {
     .statesLanding-container .statesLanding-mainContent.content-wrapper {
       margin: 2rem 1rem; } }
+  @media (min-width: 1350px) {
+    .statesLanding-container .statesLanding-mainContent {
+      margin: 3rem auto !important;
+      max-width: 1300px; } }
   .statesLanding-container .statesLanding-mainContent ul.statesLanding-statesList {
     list-style-type: none;
     margin: 0;
@@ -2675,11 +2679,21 @@ article.post-individualContainer .post-header {
   margin-bottom: 2rem; }
   article.post-individualContainer .post-header .main-title {
     margin: 0;
-    font-size: 56px;
-    font-size: 3.5rem; }
+    font-size: 30px;
+    font-size: 1.875rem; }
+    @media screen and (min-width: 48em) {
+      article.post-individualContainer .post-header .main-title {
+        font-size: 56px;
+        font-size: 3.5rem; } }
   article.post-individualContainer .post-header .sectionSubtitle {
     margin: 0;
-    color: #E87415; }
+    color: #E87415;
+    font-size: 16px;
+    font-size: 1rem; }
+    @media screen and (min-width: 48em) {
+      article.post-individualContainer .post-header .sectionSubtitle {
+        font-size: 20px;
+        font-size: 1.25rem; } }
 article.post-individualContainer .post-content {
   margin-bottom: 3rem; }
   article.post-individualContainer .post-content .post-featureImage {
@@ -3034,22 +3048,22 @@ article.post-individualContainer .post-footer {
 /*======================================
 =            Resrouces Page            =
 ======================================*/
-.page-container {
+.page-container.resources {
   margin-top: 0; }
-  .page-container ul.shareIcons {
+  .page-container.resources ul.shareIcons {
     margin-top: 0.5rem; }
     @media screen and (min-width: 48em) {
-      .page-container ul.shareIcons {
+      .page-container.resources ul.shareIcons {
         text-align: right; } }
-  .page-container .post-content {
-    margin: 3rem 0; }
-  .page-container ul.resource-listing {
+  .page-container.resources .post-content {
+    margin: 3rem 0 5rem 0; }
+  .page-container.resources ul.resource-listing {
     margin-bottom: 2.5rem; }
-    .page-container ul.resource-listing li {
+    .page-container.resources ul.resource-listing li {
       margin: 1rem 0; }
-      .page-container ul.resource-listing li a {
+      .page-container.resources ul.resource-listing li a {
         box-shadow: none; }
-        .page-container ul.resource-listing li a img {
+        .page-container.resources ul.resource-listing li a img {
           max-width: 10px; }
 
 /*===============================

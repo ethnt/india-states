@@ -1891,6 +1891,27 @@
 		
 		
 		{
+			"objectID": "ntpc-agrees-to-resume-power-supply-to-tamil-nadu-from-its-power-plant-in-vallur",
+			"title": "NTPC agrees to resume power supply to Tamil Nadu from its power plant in Vallur",
+			"url": "/articles/ntpc-agrees-to-resume-power-supply-to-tamil-nadu-from-its-power-plant-in-vallur/",
+			"content_type": "Articles",
+			"states": ["Tamil Nadu","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power","Coal"],
+			"tags": ["NTPC","Vallur"],
+			"date": "May 3, 2017",
+			"posted_at": "1493826540",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The National Thermal Power Corporation (NTPC) has agreed to resume power supply to Tamil Nadu from its thermal power plant in Vallur. Supply to Tamil Nadu and other southern states had been halted for over a month due to unpaid bills totaling $180 million.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
 			"objectID": "rajasthan-ranks-highest-in-led-streetlighting-deployment",
 			"title": "Rajasthan ranks highest in LED streetlighting deployment",
 			"url": "/articles/rajasthan-ranks-highest-in-led-streetlighting-deployment/",
@@ -2185,20 +2206,20 @@
 		
 		
 		{
-			"objectID": "ntpc-ceases-power-supply-from-vallure-to-three-states",
-			"title": "NTPC ceases power supply from Vallure to three states",
+			"objectID": "ntpc-ceases-power-supply-from-vallur-to-three-states",
+			"title": "NTPC ceases power supply from Vallur to three states",
 			"url": "/articles/ntpc-ceases-power-supply-from-vallure-to-three-states/",
 			"content_type": "Articles",
 			"states": ["Karnataka","Center-State Relations","Tamil Nadu","Telangana"],
 			"sectors": ["Energy"],
 			"subsectors": ["Coal"],
-			"tags": ["NTPC","Vallure"],
+			"tags": ["NTPC"],
 			"date": "April 26, 2017",
 			"posted_at": "1493164800",
 			"weight": {
 				"position": 4
 			},
-			"excerpt": "<p>The public National Thermal Power Corporation (NTPC) has decided to cease power supply from its Vallure power plant to Tamil Nadu, Karnataka, and Telangana. The three states owe NTPC $214 million.</p>\n"
+			"excerpt": "<p>The public National Thermal Power Corporation (NTPC) has decided to cease power supply from its Vallur power plant to Tamil Nadu, Karnataka, and Telangana. The three states owe NTPC $214 million.</p>\n"
 		},
 	
 		

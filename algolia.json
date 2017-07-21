@@ -1114,6 +1114,69 @@
 		
 		
 		{
+			"objectID": "128-million-adb-loan-approved-for-uttarakhand-to-develop-hydropower-capacity",
+			"title": "$128 million ADB loan approved for Uttarakhand to develop hydropower capacity",
+			"url": "/articles/128-dollars-million-adb-loan-approved-for-uttarakhand-to-develop-hydropower-capacity/",
+			"content_type": "Articles",
+			"states": ["Uttarakhand","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power","Renewables"],
+			"tags": ["ADB","Hydro"],
+			"date": "June 7, 2017",
+			"posted_at": "1496847000",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The center approved a $128 million loan to Uttarakhand from the Asian Development Bank, the next tranche of funding under the Uttarakhand Power Sector Investment Programme. The Programme is dedicated to developing hydropower capacity in Uttarakhand.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "ibc-solar-commissions-its-sixth-solar-project-in-rajasthan",
+			"title": "IBC Solar commissions its sixth solar project in Rajasthan",
+			"url": "/articles/ibc-solar-commissions-its-sixth-solar-project-in-rajasthan/",
+			"content_type": "Articles",
+			"states": ["Rajasthan"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["IBC Solar","Solar"],
+			"date": "June 7, 2017",
+			"posted_at": "1496846760",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>IBC SOLAR commissioned a 22.5 MWp solar power plant, its sixth in Rajasthan.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "environment-clearance-deferred-for-tawang-hydro-project-in-arunachal-pradesh",
+			"title": "Environment clearance deferred for Tawang hydro project in Arunachal Pradesh",
+			"url": "/articles/clearance-deferred-for-tawang-hydro-project-in-arunachal-pradesh/",
+			"content_type": "Articles",
+			"states": ["Arunachal Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Tawang","Hydro"],
+			"date": "June 7, 2017",
+			"posted_at": "1496845380",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The environment ministry has deferred clearance for the 600 MW Tawang hydroelectric project on the grounds that the location is a vital wintering ground of the black necked crane, an endangered species, and other birds. The ministry will conduct environmental impact study.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
 			"objectID": "uttar-pradesh-cancels-seven-ppas-on-account-of-delay-in-signing-of-fuel-supply-agreements",
 			"title": "Uttar Pradesh cancels seven PPAs on account of delay in signing of fuel supply agreements",
 			"url": "/articles/uttar-pradesh-cancels-seven-ppas-on-account-of-delay-in-signing-of-fuel-supply-agreements/",
@@ -1576,6 +1639,69 @@
 		
 		
 		{
+			"objectID": "no-changes-to-existing-tariff-in-goa-for-2017-18",
+			"title": "No changes to existing tariff in Goa for 2017-18",
+			"url": "/articles/no-changes-to-existing-tariff-in-goa-for-2017-18/",
+			"content_type": "Articles",
+			"states": ["Goa"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["JERC (Goa and Union Territories)","Tariff"],
+			"date": "May 24, 2017",
+			"posted_at": "1495635180",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Joint Electricity Regulatory Commission approved Goa’s petition to continue the existing tariff structure with no increases for 2017-18.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "maharashtra-seamless-commissions-solar-project-in-rajasthan",
+			"title": "Maharashtra Seamless commissions solar project in Rajasthan",
+			"url": "/articles/maharashtra-seamless-commissions-solar-project-in-rajasthan/",
+			"content_type": "Articles",
+			"states": ["Rajasthan"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Maharashtra Seamless Ltd.","Jodhpur","Solar"],
+			"date": "May 24, 2017",
+			"posted_at": "1495634940",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Maharashtra Seamless Ltd. has commissioned a 20 MW solar power project outside Jodhpur.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "himachal-pradesh-supplies-its-power-surplus-to-west-bengal-and-the-railways",
+			"title": "Himachal Pradesh supplies its power surplus to West Bengal and the Railways",
+			"url": "/articles/himachal-pradesh-supplies-its-power-surplus-to-west-bengal-and-the-railways/",
+			"content_type": "Articles",
+			"states": ["Himachal Pradesh","West Bengal"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["Indian Railways"],
+			"date": "May 24, 2017",
+			"posted_at": "1495634520",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>With a power surplus of almost 1150 MW, Himachal Pradesh has started supplying power to West Bengal and the Railways. The state sells power at an average price of 4.3 cents per unit, only marginally higher than last year’s average of 4 cents</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
 			"objectID": "uttar-pradesh-cancels-3-800-mw-long-term-power-purchase-agreement",
 			"title": "Uttar Pradesh cancels 3,800 MW long term power purchase agreement",
 			"url": "/articles/uttar-pradesh/",
@@ -1716,6 +1842,90 @@
 				"position": 4
 			},
 			"excerpt": "<p>Bihar’s chief minister Nitish Kumar inaugurated various initiatives worth $413. 8 million for the energy department, which include construction of grid and power sub-station laying of new 33 kilovolt (KV), 11 KV and low tension lines, sub-divisional control room with customer facilitation centre, and rural electrification.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "oil-india-ltd-surveys-presence-of-hydrocarbons-in-manipur",
+			"title": "Oil India Ltd surveys presence of hydrocarbons in Manipur",
+			"url": "/articles/oil-india-ltd-surveys-presence-of-hydrocarbons-in-manipur/",
+			"content_type": "Articles",
+			"states": ["Manipur","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Oil and Gas"],
+			"tags": ["Oil India Ltd."],
+			"date": "May 18, 2017",
+			"posted_at": "1495116300",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Oil India Limited has begun a survey to check for the presence of hydrocarbons in Manipur. The survey will take about two years and is due to be completed by April 2019.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "uttarakhand-approves-increase-in-power-tariff",
+			"title": "Uttarakhand approves increase in power tariff",
+			"url": "/articles/uttarakhand-approves-increase-in-power-tariff/",
+			"content_type": "Articles",
+			"states": ["Uttarakhand"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power","Renewables"],
+			"tags": ["Tariff","Hydro"],
+			"date": "May 18, 2017",
+			"posted_at": "1495115820",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Uttarakhand government has cleared an increase in the power tariff. Electricity produced from hydropower will have new taxes and fees totalling .55 cents per unit, on top of the current tariff of 3 cents per unit.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "multiple-coal-power-projects-get-shelved-in-odisha",
+			"title": "Multiple coal power projects get shelved in Odisha",
+			"url": "/articles/multiple-coal-power-projects-get-shelved-in-odisha/",
+			"content_type": "Articles",
+			"states": ["Odisha"],
+			"sectors": ["Energy"],
+			"subsectors": ["Coal"],
+			"tags": ["Tata Power","BGR Energy Systems Ltd.","Kalinga Energy and Power"],
+			"date": "May 18, 2017",
+			"posted_at": "1495115580",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Coal-based power projects are gradually losing traction in Odisha, with multiple developers deciding to shelve planned projects due to difficulty obtaining coal blocks. Tata Power, BGR Energy Systems Ltd, and Kalinga Energy and Power have communicated their intent to scrap their proposed coal-fired projects in the state. The three companies had planned coal-fired plants with a total capacity of more than 2 GW.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "chhattisgarh-completes-first-stage-of-500-mw-power-plant",
+			"title": "Chhattisgarh completes first stage of 500 MW power plant",
+			"url": "/articles/chhattisgarh-completes-first-stage-of-500-mw-power-plant/",
+			"content_type": "Articles",
+			"states": ["Chhattisgarh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["CREDA","Solar","Rajnandgaon"],
+			"date": "May 10, 2017",
+			"posted_at": "1494449100",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Chhattisgarh has completed the initial stages of development of a 500 MW power plant. The first phase of the project, with 250 MW capacity, will be built in Rajnandgaon.</p>\n"
 		},
 	
 		
@@ -1884,6 +2094,153 @@
 				"position": 4
 			},
 			"excerpt": "<p>State power ministers agreed in principal to a central proposal to pool generation costs for all sources of power and to setting an average cost to be paid by state distribution companies. The central National Thermal Power Corporation, which submitted the proposal, argued that it will reduce costs to states purchasing power from central generation sources.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "telangana-draws-power-from-chhattisgarh",
+			"title": "Telangana draws power from Chhattisgarh",
+			"url": "/articles/telangana-draws-power-from-chhattisgarh/",
+			"content_type": "Articles",
+			"states": ["Telangana","Chhattisgarh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["Transmission","Solar","Wardha-Dichpally","Nizamabad"],
+			"date": "May 10, 2017",
+			"posted_at": "1494424260",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Telangana started drawing power on a commercial basis from Chhattisgarh on May 6. Power is supplied through the Wardha-Dichpally (Nizamabad) 765KV double circuit transmission line, the link between Northern and Southern Grids.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "telangana-s-power-generation-company-issues-three-solar-tenders",
+			"title": "Telangana&#39;s power generation company issues three solar tenders",
+			"url": "/articles/telanganas-power-generation-company-issues-three-solar-tenders/",
+			"content_type": "Articles",
+			"states": ["Telangana"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["TSGENCO","Solar"],
+			"date": "May 10, 2017",
+			"posted_at": "1494424080",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Telangana State Power Generation Corporation has issued three tenders for solar power projects with a combined capacity of 20 MW, the first tenders in the state.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "odisha-faces-roadblock-to-2-400-mw-coal-power-plant",
+			"title": "Odisha faces roadblock to 2,400 MW coal power plant",
+			"url": "/articles/odisha-faces-roadblock-to-2-400-mw-coal-power-plant/",
+			"content_type": "Articles",
+			"states": ["Odisha"],
+			"sectors": ["Energy"],
+			"subsectors": ["Coal"],
+			"tags": ["OTPC","Ministry of Coal","Tentuloi"],
+			"date": "May 10, 2017",
+			"posted_at": "1494423900",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Odisha Thermal Power Corporation’s (OTPC) planned 2,400 MW coal-based power plant reached an impasse as OTPC fears the coal block assigned by the Ministry of Coal (MoC) will be too expensive to exploit. The Ministry of coal had allocated the Tentuloi coal block, with reserves of 1.3 billion tons. But Tentuloi is an underground block and poses the risk of escalating the cost of power production.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "odisha-s-power-generation-company-to-sell-power-to-state-grid-amidst-current-lack-of-buyers",
+			"title": "Odisha&#39;s power generation company to sell power to state grid, amidst current lack of buyers",
+			"url": "/articles/odishas-power-generation-company-to-sell-power-to-state-grid-amidst-current-lack-of-buyers/",
+			"content_type": "Articles",
+			"states": ["Odisha"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["OPGC","Jharsuguda"],
+			"date": "May 10, 2017",
+			"posted_at": "1494423720",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Struggling to find buyers outside of Odisha, the Odisha Power Generation Corporation (OPGC) has offered to sell power to the state grid from the planned second unit of its 1740 MW super critical power plant at Jharsuguda. OPGC is adding two 660 MW units to the existing 420 MW capacity. The first new unit is already dedicated to the state grid.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "maharashtra-earns-62-million-from-selling-surplus-power-to-other-states",
+			"title": "Maharashtra earns $62 million from selling surplus power to other states",
+			"url": "/articles/maharashtra-earns-62-dollars-million-from-selling-surplus-power-to-other-states/",
+			"content_type": "Articles",
+			"states": ["Maharashtra","Karnataka","West Bengal"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["Distribution","MSEDCL"],
+			"date": "May 10, 2017",
+			"posted_at": "1494423480",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Maharashtra’s discom, which has an annual surplus of 2,000-3,000 MW, has earned more than $62 million by selling power to other states such as Karnataka and West Bengal. The Maharashtra State Electricity Distribution Company Ltd has accumulated debt of over $466 million.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "over-200-000-led-streetlights-installed-in-gujarat",
+			"title": "Over 200,000 LED streetlights installed in Gujarat",
+			"url": "/articles/over-200-000-led-streetlights-installed-in-gujarat/",
+			"content_type": "Articles",
+			"states": ["Gujarat","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Energy Efficiency"],
+			"tags": ["LED","Street Lighting National Programme"],
+			"date": "May 10, 2017",
+			"posted_at": "1494423300",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Gujarat has installed more than 200,000 LED streetlights under the center’s Street Lighting National Programme, bringing an approximate annual energy saving of 29 million kWh.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "delhi-government-and-bses-to-purchase-100-mw-of-wind-power",
+			"title": "Delhi government and BSES to purchase 100 MW of wind power",
+			"url": "/articles/delhi-government-and-bses-to-purchase-100-mw-of-wind-power/",
+			"content_type": "Articles",
+			"states": ["Delhi"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["BSES Rajdhani Power Ltd.","Reliance Infrastructure","Transmission","Wind"],
+			"date": "May 10, 2017",
+			"posted_at": "1494423180",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Power distribution company BSES Rajdhani Power Ltd, a joint venture of Reliance Infrastructure and the government of Delhi, signed a deal to purchase 100 MW of wind power from the Power Trading Corp. The tariff set in the 25 year-deal is 5.4 cents a unit, the lowest in India. The power will be delivered through an inter-state transmission system that will source power from wind power projects in Tamil Nadu and Gujarat.</p>\n"
 		},
 	
 		

@@ -547,6 +547,216 @@
 		
 		
 		{
+			"objectID": "uttar-pradesh-to-exit-all-ppas-with-cost-above-6-cents-per-unit-of-power",
+			"title": "Uttar Pradesh to exit all PPAs with cost above 6 cents per unit of power",
+			"url": "/articles/uttar-pradesh-to-exit-all-ppas-with-cost-above-6-cents-per-unit/",
+			"content_type": "Articles",
+			"states": ["Uttar Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["PPA","UPPCL","Bajaj Energy","Generation"],
+			"date": "July 19, 2017",
+			"posted_at": "1500487740",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>In a bid to cut power purchase costs to 6 cents per unit, the Uttar Pradesh Power Corporation (UPPCL) has decided to exit all power purchase agreements (PPAs) where costs are above that mark. UPPCL has already served 10 day exit notices on Bajaj Energy’s five 90 MW generation plants, where power costs 10.9 cents per unit.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "tamil-nadu-leads-in-installed-capacity-of-solar-rooftop-at-163-mw",
+			"title": "Tamil Nadu leads in installed capacity of solar rooftop at 163 MW",
+			"url": "/articles/tamil-nadu-leads-in-installed-capacity-of-solar-rooftop-at-163-mw/",
+			"content_type": "Articles",
+			"states": ["Tamil Nadu"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Solar rooftop"],
+			"date": "July 19, 2017",
+			"posted_at": "1500487500",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>A new report by Bridge to India finds that Tamil Nadu, with 163 megawatts (MW), continues to lead the country in rooftop solar capacity. India added 678 MW of rooftop solar in 2016-17, reaching a total installed capacity of 1.4 gigawatts.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "15-000-applications-for-subsidized-rooftop-panels-received-by-gujarat-government",
+			"title": "15,000 applications for subsidized rooftop panels received by Gujarat government",
+			"url": "/articles/15-000-applications-for-subsidized-rooftop-panels-received-in-gujarat/",
+			"content_type": "Articles",
+			"states": ["Gujarat"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Solar Rooftop"],
+			"date": "July 19, 2017",
+			"posted_at": "1500487320",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Gujarat received 15,000 applications for subsidized rooftop solar panels before the official launch of its solar rooftop program on July 14. The state will provide a subsidy of $320 per kilowatt (KW) capacity, as well as a flat subsidy of $155 per rooftop array. </p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "power-distributor-brpl-to-collaborate-with-teri-on-various-energy-topics",
+			"title": "Power distributor BRPL to collaborate with TERI on various energy topics",
+			"url": "/articles/power-distributor-brpl-to-collaborate-with-teri-on-various-energy-topics/",
+			"content_type": "Articles",
+			"states": [],
+			"sectors": [],
+			"subsectors": [],
+			"tags": ["BSES Rajdhani Power Ltd.","TERI","Solar Rooftop","Storage","Electric Vehicles","Smart Grid"],
+			"date": "July 19, 2017",
+			"posted_at": "1500487140",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Private power distributor BSES Rajdhani Power Ltd (BRPL) and The Energy and Resources Institute (TERI) have formed a two-year partnership to explore collaboration on solar rooftops, electric vehicles, energy storage systems, energy efficiency, and smart grid technologies.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "eesl-to-deploy-one-million-led-streetlights-in-andhra-pradesh-by-march-2018",
+			"title": "EESL to deploy one million LED streetlights in Andhra Pradesh by March 2018",
+			"url": "/articles/eesl-to-deploy-one-million-led-streetlights-in-andhra-pradesh-by-march-2018/",
+			"content_type": "Articles",
+			"states": ["Andhra Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Energy Efficiency"],
+			"tags": ["EESL","LED"],
+			"date": "July 19, 2017",
+			"posted_at": "1500486960",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>In conjunction with Energy Efficiency Services Ltd (EESL), Andhra Pradesh will deploy 1 million LED streetlights in seven districts of the state over the next nine months. Andhra Pradesh already has 600,000 LED streetlights. </p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "afd-agrees-to-provide-91-million-loan-to-himachal-pradesh-for-two-hydro-projects",
+			"title": "AFD agrees to provide $91 million loan to Himachal Pradesh for two hydro projects",
+			"url": "/articles/afd-agrees-to-provide-91-dollars-million-to-himachal-pradesh-for-two-hydro-projects/",
+			"content_type": "Articles",
+			"states": ["Himachal Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Agence Française de Développement","Hydro","Chanju"],
+			"date": "July 12, 2017",
+			"posted_at": "1499881860",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Agence Française de Développement (AFD) has agreed to a $91 million loan to develop two hydroelectric projects in Himachal Pradesh. The loan will finance two run-of-river hydroelectric plants in the Chanju river basin with a total capacity of 78 megawatts.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "uperc-asks-solar-auction-winners-to-lower-tariff",
+			"title": "UPERC asks solar auction winners to lower tariff",
+			"url": "/articles/uperc-asks-solar-auction-winners-to-lower-tariff/",
+			"content_type": "Articles",
+			"states": ["Uttar Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power","Renewables"],
+			"tags": ["Solar","Tariff","UPERC"],
+			"date": "July 12, 2017",
+			"posted_at": "1499881680",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The state Electricity Regulatory Commission has asked winners of a solar power auction conducted in September 2015 to voluntarily lower solar tariffs to 10 cents per kilowatt hour, the lowest price discovered in the auction. Some bidders successfully won projects with tariffs of 13 cents. </p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "tangedco-proposes-tariff-cap-on-solar-power-from-rooftop-plants",
+			"title": "TANGEDCO proposes tariff cap on solar power from rooftop plants",
+			"url": "/articles/tangedco-proposes-tariff-cap-on-solar-power-from-rooftop-plants/",
+			"content_type": "Articles",
+			"states": ["Tamil Nadu"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power","Power"],
+			"tags": ["Distribution","TANGEDCO","Tariff","Solar rooftop"],
+			"date": "July 12, 2017",
+			"posted_at": "1499877900",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Tamil Nadu Generation and Distribution Corporation (TANGEDCO) has proposed to cap the tariff for solar power generated by roof-top plants at 50 percent of the lowest price paid to solar power generation firms and to tax power generated by rooftop solar panels. TANGEDCO maintains that the move is necessary to save money in the context of its high operating deficit.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "maharashtra-to-help-ratnagiri-gas-power-ltd-from-going-insolvent",
+			"title": "Maharashtra to help Ratnagiri Gas &amp; Power Ltd. from going insolvent",
+			"url": "/articles/maharashtra-to-help-ratnagiri-gas-and-power-ltd-from-going-insolvent/",
+			"content_type": "Articles",
+			"states": ["Maharashtra"],
+			"sectors": ["Energy"],
+			"subsectors": ["Oil and Gas","Power"],
+			"tags": ["LNG","Ratnagiri Gas and Power Ltd."],
+			"date": "July 12, 2017",
+			"posted_at": "1499877660",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Maharashtra will retrospectively exempt state-owned Ratnagiri Gas and Power Limited, a liquid natural gas-fired power plant, from most taxes for the previous five years in an attempt to prevent the project from becoming insolvent. The plant is carrying $1.2 billion in debt.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "tata-power-ddl-to-test-solar-microgrids-in-bihar",
+			"title": "Tata Power-DDL to test solar microgrids in Bihar",
+			"url": "/articles/tata-power-ddl-to-test-solar-microgrids-in-bihar/",
+			"content_type": "Articles",
+			"states": ["Bihar"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Tata Power-DDL","MIT","Tata Trust","General Electric","Microgrid","Solar"],
+			"date": "July 12, 2017",
+			"posted_at": "1499877420",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Tata Power Delhi Distribution plans to test solar microgrids in Baishali district of Bihar. The company, in partnership with the Massachusetts Institute of Technology Center for Energy and Environmental Policy Research, General Electric, and Tata Trust, is exploring whether the microgrids are a viable business model for distributed electricity generation and distribution in remote areas.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
 			"objectID": "jharkhand-offers-subsidies-for-solar-rooftop-consumers-and-industry",
 			"title": "Jharkhand offers subsidies for solar rooftop consumers and industry",
 			"url": "/articles/jharkhand-offers-subsidies-for-solar-rooftop-consumers-and-industry/",

@@ -547,6 +547,69 @@
 		
 		
 		{
+			"objectID": "haryana-s-regulatory-commission-raises-power-tariffs",
+			"title": "Haryana&#39;s regulatory commission raises power tariffs",
+			"url": "/articles/haryanas-regulatory-commission-raises-power-tariffs/",
+			"content_type": "Articles",
+			"states": ["Haryana"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["HERC"],
+			"date": "July 26, 2017",
+			"posted_at": "1501094100",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Haryana Electricity Regulatory Commission raised power tariffs by up to .7 cents per unit. The increase does not apply to domestic consumers with a monthly consumption of up to 150 units. </p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "andhra-pradesh-will-annually-save-25-million-by-replacing-one-million-conventional-streetlights-with-led",
+			"title": "Andhra Pradesh will annually save $25 million by replacing one million conventional streetlights with LED",
+			"url": "/articles/andhra-pradesh-will-annually-save-25-dollars-million-by-replacing-one-million-conventional-streetlight-with-led/",
+			"content_type": "Articles",
+			"states": ["Andhra Pradesh","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Energy Efficiency"],
+			"tags": ["EESL","LED"],
+			"date": "July 26, 2017",
+			"posted_at": "1501093860",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>In cooperation with Energy Efficiency Services Ltd., Andhra Pradesh will replace 1 million conventional street lights with LED lights. The project will cost $38 million up front and estimated savings are over $25 million per year. </p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "mnre-holds-its-first-ever-wind-auction",
+			"title": "MNRE holds its first-ever wind auction",
+			"url": "/articles/mnre-holds-its-first-ever-wind-auction/",
+			"content_type": "Articles",
+			"states": ["Center-State Relations","Bihar","Jharkhand","Uttar Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power","Renewables"],
+			"tags": ["PPA","Wind"],
+			"date": "July 26, 2017",
+			"posted_at": "1501093740",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Ministry of New and Renewable Energy held its first-ever wind auction, signing Power Purchase Agreements for 1050 megawatts (MW) of capacity from four private sector companies at a rate of 5 cents per kilowatt-hour. Uttar Pradesh will receive 450 MW, Bihar 200 MW, and Jharkhand 200 MW. </p>\n"
+		},
+	
+		
+		
+		
+		
+		{
 			"objectID": "uttar-pradesh-to-exit-all-ppas-with-cost-above-6-cents-per-unit-of-power",
 			"title": "Uttar Pradesh to exit all PPAs with cost above 6 cents per unit of power",
 			"url": "/articles/uttar-pradesh-to-exit-all-ppas-with-cost-above-6-cents-per-unit/",

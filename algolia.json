@@ -11210,6 +11210,7 @@
 			"weight": {
 				"position": 5
 			},
+			"authors": ["Richard M. Rossow"],
 			"excerpt": "The central government has a limited set of tools to reform India’s broken state electricity utilities. But, fixing these utilities will help the states get their finances in order, reduce barriers to meeting India’s own renewable energy targets, and give a real boost to “Make in India.” With more than half of Indian states signed up to join the UDAY scheme, we can expect a solid short-term return, though ultimately state leaders will need to decide if this is a real turning point in how they manage their power grids."
 		},
 	
@@ -11232,6 +11233,7 @@
 			"weight": {
 				"position": 5
 			},
+			"authors": ["Kartikeya Singh"],
 			"excerpt": "Politics, capitalism, and energy poverty are combining in strange ways across India. The result looks like progress—sometimes. Solar energy in India is not a story of a battle between decentralized, renewable energy technologies and centralized grid distribution. Both approaches to providing energy in a nation as diverse and complex as India offer valuable lessons and opportunities. More important is India’s need to get its people access to energy to maximize their ability to thrive in the changing climate of the future. How this energy is delivered will take many forms and, perhaps, require the assistance of many gods."
 		},
 	
@@ -11254,6 +11256,7 @@
 			"weight": {
 				"position": 5
 			},
+			"authors": ["Sharmila Bellur","Sarah Ladislaw"],
 			"excerpt": "India has set a target of 175 GW of power from renewable sources by 2022, of which 100 GW is set to come from solar energy. India’s renewable energy plans are predominantly financed by the central government or by debt financing through banks. The role of institutional investors in developing and financing renewable energy projects in India is crucial. Therefore, having a good investment environment is important to maintain investor involvement."
 		},
 	
@@ -11276,6 +11279,7 @@
 			"weight": {
 				"position": 5
 			},
+			"authors": ["Richard M. Rossow","Sarah Watson"],
 			"excerpt": "In September 2016, Madhya Pradesh became the latest state to encourage consumers to install solar rooftop panels. But despite the vogue for such sources of renewable energy, state policies vary widely. Andhra Pradesh was awarded the Breakthrough status for a policy that offers generous incentives to producers and consumers, including ambitious purchase targets and net-metering policies."
 		},
 	
@@ -11298,6 +11302,7 @@
 			"weight": {
 				"position": 5
 			},
+			"authors": ["Sharmila Bellur"],
 			"excerpt": "HELP marks the biggest transition from an era of government control to government support for upstream E&P in India. OALP removes restrictions on exploration by giving companies both the data and the discretion to explore areas of their choice. India’s upstream oil and gas E&P policy has been subject to criticism, with protectionism and government red tape being blamed for lackluster development of oil and gas upstream."
 		},
 	
@@ -11320,6 +11325,7 @@
 			"weight": {
 				"position": 5
 			},
+			"authors": ["Sharmila Bellur"],
 			"excerpt": "<p>Punjab state assembly elections were held on February 4, 2017, with results set to be announced March 11. Punjab, with a <a href=\"http://www.census2011.co.in/census/state/punjab.html\">population</a> of over 27.7 million, is famed for providing electricity to <a href=\"http://rchiips.org/nfhs/pdf/NFHS4/PB_FactSheet.pdf\">almost all</a> the households in the state — a stark contrast to the <a href=\"http://www.censusindia.gov.in/2011census/hlo/Data_sheet/India/Source_Lighting.pdf\">national average</a> of 68 percent. It also holds the distinction of providing round-the-clock power supply, while many other states suffer from daily power outages. Its power distribution company Punjab State Power Corporation Ltd (PSPCL), was <a href=\"http://pspcl.in/jsps/newsDetails.jsp?id=311\">chosen</a> as the best performing utility in the power sector in 2015. The Prakash Singh Badal-led Akali Dal/BJP coalition that has been in power in the state since 2007 takes <a href=\"http://punjabnewsexpress.com/punjab/news/historic-achievements-are-made-by-punjab-government-during-9-years-sukhbir-badal-47261.aspx\">credit</a> for transforming Punjab from a position of power deficit to power surplus while securing universal power access for its people. But this is not the whole story: PSPCL faces severe revenue deficits, and no party has presented a power plan that would prevent looming degradation in services.</p>\n\n"
 		},
 	
@@ -11342,6 +11348,7 @@
 			"weight": {
 				"position": 5
 			},
+			"authors": ["Sharmila Bellur","Sarah Ladislaw"],
 			"excerpt": "HELP marks the biggest transition from an era of government control to government support for upstream E&P in India. OALP removes restrictions on exploration by giving companies both the data and the discretion to explore areas of their choice. India’s upstream oil and gas E&P policy has been subject to criticism, with protectionism and government red tape being blamed for lackluster development of oil and gas upstream. A policy that will encourage upstream investment and improve productivity could help incentivize more private and foreign entrants into the oil and gas sector."
 		},
 	
@@ -11364,6 +11371,7 @@
 			"weight": {
 				"position": 5
 			},
+			"authors": ["Jane Nakano","Kartikeya Singh","Sharmila Bellur"],
 			"excerpt": "India’s membership in the IEA is a major milestone for India, the IEA, and global energy governance. India has had dialogues with the IEA on emergency preparedness in the past, but India’s joining as an association country can help strengthen India’s capacity building in the areas of energy efficiency, energy technology, renewable energy, electricity security, and grid integration—many of which have been identified by Prime Minister Narendra Modi’s government as priorities."
 		},
 	
@@ -11386,6 +11394,7 @@
 			"weight": {
 				"position": 5
 			},
+			"authors": ["Sarah Watson"],
 			"excerpt": "India’s heavily politicized system of power subsidies requires large-scale power consumers to pay for the electricity use of key political constituencies. But over the past 10 years these high-paying consumers have increasingly left the system, seeking cheaper and more reliable power from other sources. Their flight has contributed to the severe strain on utility finances, threatening a downward spiral. But Indian states must resist the impulse to force high-paying customers back into the system."
 		},
 	
@@ -11408,6 +11417,7 @@
 			"weight": {
 				"position": 5
 			},
+			"authors": ["Kartikeya Singh"],
 			"excerpt": "India’s state power ministers [convened in Delhi ](http://pib.nic.in/newsite/PrintRelease.aspx?relid=161406)recently for an unusual group meeting. The event had a dual purpose: partly to celebrate how far India has come in rebuilding its power sector, and partly to lay out a roadmap for confronting the challenges that remain. My recent journey through 11 of India’s 29 states, speaking with senior power officials, confirms that India has made incredible progress in tackling its power generation deficit. Increased generation capacity through new additions of renewables and greater efficiency and reliability of coal stocks for thermal power plants is coupling with the success of India’s incredible demand-side measures to create a perfect storm of plentiful power. However, the next set of problems for its power sector are in some ways more difficult to confront. To address those problems, India will have to employ a diverse and creative set of solutions."
 		},
 	
@@ -11430,6 +11440,7 @@
 			"weight": {
 				"position": 5
 			},
+			"authors": ["Sarah Watson"],
 			"excerpt": "Madhya Pradesh and Tamil Nadu launch major distribution programs for energy-efficient appliances; Maharashtra waives fees for electric vehicles; ADB offers Rajasthan $500 million to improve its road network; Karnataka mandates energy-efficient pumps for those seeking new electricity connections; and more."
 		},
 	
@@ -11452,6 +11463,7 @@
 			"weight": {
 				"position": 5
 			},
+			"authors": ["Sarah Watson"],
 			"excerpt": "Bihar unveils an ambitious renewable power policy; Haryana builds a unified policing database; West Bengal drags its feet on the GST; Odisha finds a buyer for the Posco steel plot; and more."
 		},
 	
@@ -11474,6 +11486,7 @@
 			"weight": {
 				"position": 5
 			},
+			"authors": ["Sarah Watson"],
 			"excerpt": "A week of farmer unrest as protesters are shot in Madhya Pradesh, Maharashtra announces a total loan waiver program, and Uttar Pradesh struggles to find money for loan waivers; Karnataka puts the brakes on wind power; Madhya Pradesh and Rajasthan expand privatization of power distribution; and more."
 		},
 	
@@ -11496,6 +11509,7 @@
 			"weight": {
 				"position": 5
 			},
+			"authors": ["Sarah Watson"],
 			"excerpt": "Interstate transmission of solar power will be free until 2019; Karnataka plans to set prices in private hospitals; Delhi opens registration for rooftop solar; Gorkhaland protests intensify in West Bengal; Kerala gets a ‘green’ metro system; and more."
 		},
 	
@@ -11518,6 +11532,7 @@
 			"weight": {
 				"position": 5
 			},
+			"authors": ["Sarah Watson"],
 			"excerpt": "Pune announces India’s largest municipal bond issue; Indian and Chinese companies join to build solar panels in Gujarat; Rajasthan tenders solar power at a new record-low rate; the ADB will pay to skill 200,000 Odisha residents; and more."
 		},
 	
@@ -11540,6 +11555,7 @@
 			"weight": {
 				"position": 5
 			},
+			"authors": ["Sarah Watson"],
 			"excerpt": "The GST comes into effect nationwide; Maharashtra in a severe budget crunch; communal clashes in West Bengal; Karnataka launches an ambitious skills training program; and more."
 		},
 	
@@ -11562,6 +11578,7 @@
 			"weight": {
 				"position": 5
 			},
+			"authors": ["Sarah Watson"],
 			"excerpt": "Tamil Nadu and Uttar Pradesh are walking back their solar policies; renewed upheaval in the Nagaland Legislative Assembly; Tata Power and MIT test solar microgrids in Bihar; and more."
 		},
 	
@@ -11584,6 +11601,7 @@
 			"weight": {
 				"position": 5
 			},
+			"authors": ["Sarah Watson"],
 			"excerpt": "Uttar Pradesh presents the first Yogi Adityanath budget and starts to cancel expensive power contracts; Tripura blockaded for past week; Tamil Nadu moves for statewide rent control; President Mukherjee approves Maharashtra bill outlawing social boycott; and more."
 		},
 	
@@ -11606,6 +11624,7 @@
 			"weight": {
 				"position": 5
 			},
+			"authors": ["Sarah Watson"],
 			"excerpt": "Andhra Pradesh creates a drinking water supply corporation; Gujarat tops investment potential rankings once again; Tamil Nadu doubles legislator salaries; calm restored in Nagaland and Tripura; and more."
 		},
 	
@@ -11628,6 +11647,7 @@
 			"weight": {
 				"position": 5
 			},
+			"authors": ["Richard M. Rossow"],
 			"excerpt": "<p>Indian Prime Minister Narendra Modi has made the concept of “<a href=\"http://www.business-standard.com/article/news-ani/let-us-forge-a-model-of-cooperative-competitive-federalism-pm-modi-115020800351_1.html\">competitive federalism</a>’‘—encouraging states to compete to win the title of India’s best-performing state—a key element of his governing philosophy. States have taken up the baton, working hard to outdo each other in governance reforms. Every three months, the CSIS Wadhwani Chair in U.S.-India Policy prepares an overview of key state-level reforms from India’s twenty-nine states as well as Delhi and Puducherry (which have their own legislatures). In the first quarter of 2017, 1 January through 31 March, the total number of significant positive state-level reforms rose to 20, compared to fourteen in the fourth quarter of 2016.</p>\n\n"
 		},
 	
@@ -11650,6 +11670,7 @@
 			"weight": {
 				"position": 5
 			},
+			"authors": ["Sarah Watson"],
 			"excerpt": "Nitish Kumar stuns Bihar; UDAY cuts power losses; Madhya Pradesh collaborates with MIT on police reform; Jharkhand introduces kindergarten state-wide; and more."
 		},
 	
@@ -11672,6 +11693,7 @@
 			"weight": {
 				"position": 5
 			},
+			"authors": ["Sarah Watson"],
 			"excerpt": "Bihar and Delhi legislatures begin monsoon sessions; Maharashtra launches a direct benefits transfer portal; Tamil Nadu puts new restriction on eligibility for subsidized food; Odisha is rolling out LED streetlights state-wide; states drag their feet on real estate regulation; and more."
 		}
 	

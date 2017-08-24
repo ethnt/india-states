@@ -547,6 +547,237 @@
 		
 		
 		{
+			"objectID": "ntpc-formalizes-1-billion-loan-for-1-320-mw-power-plant-in-uttar-pradesh",
+			"title": "NTPC formalizes $1 billion loan for 1,320 MW power plant in Uttar Pradesh",
+			"url": "/articles/ntpc-formalizes-1-dollars-billion-loan-for-1-320-mw-power-plant-in-uttar-pradesh/",
+			"content_type": "Articles",
+			"states": ["Uttar Pradesh","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Coal","Power"],
+			"tags": ["NTPC","Allahabad"],
+			"date": "August 23, 2017",
+			"posted_at": "1503522000",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The National Thermal Power Corporation (NTPC) formalized a loan agreement for $1 billion to finance construction of a 1,320 MW power project near Allahabad . The project is a joint venture between NTPC and Uttar Pradesh’s generation utility.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "collection-of-electricity-payments-increases-by-28-5-percent-in-uttar-pradesh",
+			"title": "Collection of electricity payments increases by 28.5 percent in Uttar Pradesh",
+			"url": "/articles/collection-of-electricity-payments-increases-by-28-dot-5-percent-in-uttar-pradesh/",
+			"content_type": "Articles",
+			"states": ["Uttar Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["Theft","Yogi Adityanath"],
+			"date": "August 2, 2017",
+			"posted_at": "1501707420",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Yogi Adityanath government’s crackdown on electricity theft in Uttar Pradesh has led to a 28.5 percent increase in dues collection in the first quarter of current financial year, an official statement said.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "uttar-pradesh-government-cancels-ppas-for-six-solar-power-plants",
+			"title": "Uttar Pradesh government cancels PPAs for six solar power plants",
+			"url": "/articles/uttar-pradesh-government-cancels-ppas-for-six-solar-power-plants/",
+			"content_type": "Articles",
+			"states": ["Uttar Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Solar","PPA"],
+			"date": "August 2, 2017",
+			"posted_at": "1501707000",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Uttar Pradesh Power Corporation canceled power purchase agreements with six solar power plants with a combined capacity of 80 MW due to the delay in setting up their projects.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "telangana-promises-24x7-power-supply-for-agricultural-sectors-across-the-state-starting-february-2018",
+			"title": "Telangana promises 24x7 power supply for agricultural sectors across the state starting February 2018",
+			"url": "/articles/telangana-promises-24x7-power-supply-for-agricultural-sectors-across-the-state-starting-february-2018/",
+			"content_type": "Articles",
+			"states": ["Telangana"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["Distribution","Transmission"],
+			"date": "August 2, 2017",
+			"posted_at": "1501705260",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Telangana’s power utilities will supply 24x7 power supply to the agriculture sector across the state beginning February 2018. Last week the state began an experiment with round-the-clock supply in three districts that account for more than a third of the state’s agricultural connections. </p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "rajasthan-approves-new-agriculture-connection-policy",
+			"title": "Rajasthan approves new Agriculture Connection Policy",
+			"url": "/articles/rajasthan-approves-new-agriculture-connection-policy/",
+			"content_type": "Articles",
+			"states": ["Rajasthan"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["Vasundhara Raje","Agricultural Connection Policy","Bureau of Energy Efficiency"],
+			"date": "August 2, 2017",
+			"posted_at": "1501705200",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Chief Minister Vasundhara Raje approved a new Agricultural Connection Policy that gives priority in electrical connections to below poverty line farmers. Only farmers who install a pump set rated five stars by the Bureau of Energy Efficiency will be eligible to receive a 20-horsepower connection; standard connections are five horsepower.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "haryana-discoms-to-receive-116-7-millions-in-loans-from-the-state-government",
+			"title": "Haryana DISCOMs to receive $116.7 millions in loans from the state government",
+			"url": "/articles/haryana-discoms-to-receive-116-dollars-7-cents-millions-in-loans-from-the-state-government/",
+			"content_type": "Articles",
+			"states": ["Haryana"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["UDAY","Distribution"],
+			"date": "August 2, 2017",
+			"posted_at": "1501705140",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Haryana will provide $116.7 million in loans to its discoms at a concessional rate of interest about 3 percent lower than the market rate. The state has already taken over 75 percent of the original debt of $5.4 billion.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "haryana-to-launch-a-3-8-million-solar-powered-micro-irrigation-pilot",
+			"title": "Haryana to launch a $3.8 million solar-powered micro irrigation pilot",
+			"url": "/articles/haryana-to-launch-a-3-dollars-8-cents-million-solar-powered-micro-irrigation-pilot/",
+			"content_type": "Articles",
+			"states": ["Haryana"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Solar","Micro Irrigation"],
+			"date": "August 2, 2017",
+			"posted_at": "1501704960",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Haryana government is executing a solar power-based micro irrigation pilot. The $3.8 million project will use solar energy to power drip irrigation systems, reducing water and energy usage.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "black-and-veatch-to-construct-india-s-first-floating-storage-and-lng-re-gasification-unit-in-gujarat",
+			"title": "Black and Veatch to construct India&#39;s first Floating Storage and LNG Re-gasification unit in Gujarat",
+			"url": "/articles/black-and-veatch-to-construct-indias-first-floating-storage-and-lng-re-gasification-unit-in-gujarat/",
+			"content_type": "Articles",
+			"states": ["Gujarat"],
+			"sectors": ["Energy"],
+			"subsectors": ["Oil and Gas"],
+			"tags": ["Storage","LNG","Black and Veatch","Swan Energy"],
+			"date": "August 2, 2017",
+			"posted_at": "1501704780",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Black &amp; Veatch announced it won a contract from Swan Energy to construct part of India’s first Floating Storage and Re-gasification Unit for liquefied natural gas in Gujarat. The unit is expected to go on-stream by early 2020. </p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "delhi-region-discoms-mandated-to-buy-100-percent-of-power-generated-by-waste-to-energy-plants",
+			"title": "Delhi region DISCOMs mandated to buy 100 percent of power generated by waste-to-energy plants",
+			"url": "/articles/delhi-region-discoms-mandated-to-buy-100-percent-of-power-generated-by-waste-to-energy-plants/",
+			"content_type": "Articles",
+			"states": ["Delhi"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Waste to Energy","DERC","RPO"],
+			"date": "August 2, 2017",
+			"posted_at": "1501704600",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Delhi Electricity Regulatory Commission (DERC) has issued a draft regulation requiring discoms to buy 100 percent of the power generated by waste-to-energy plants in the Delhi region. The purchases will count towards the discoms’ Renewable Purchase Obligation.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "andhra-pradesh-ranks-highest-in-installed-solar-capacity-as-of-june-2017",
+			"title": "Andhra Pradesh ranks highest in installed solar capacity, as of June 2017",
+			"url": "/articles/andhra-pradesh-ranks-highest-in-installed-solar-capacity-as-of-june-2017/",
+			"content_type": "Articles",
+			"states": ["Andhra Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Solar"],
+			"date": "August 2, 2017",
+			"posted_at": "1501704540",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>With 2010.9 megawatts (MW) of installed solar power capacity, Andhra Pradesh has the highest solar capacity in India as of June 2017. The state added 1,294 MW of solar capacity in the 2016-17 financial year. India as a whole added around 5,525 MW of capacity in 2016-17, an increase of 66 percent over 2015-16.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "uday-successful-in-reducing-operating-losses-in-23-participating-states",
+			"title": "UDAY successful in reducing operating losses in 23 participating states",
+			"url": "/articles/uday-successful-in-reducing-operating-losses-in-23-participating-states/",
+			"content_type": "Articles",
+			"states": ["Center-State Relations","Karnataka","Kerala","Assam","Punjab"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["UDAY","Distribution"],
+			"date": "August 2, 2017",
+			"posted_at": "1501703220",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The central program to cut distribution company debt, the Ujwal Discom Assurance Yojana (UDAY), helped all but four of the 27 participating states and Union Territories reduce operating losses. Average aggregate transmission and commercial losses hit 20 percent, down from 25 percent the year the program started. Karnataka, Kerala, Punjab and Assam saw operating losses increase due to poor collection, high electricity theft, and low operational efficiency.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
 			"objectID": "haryana-s-regulatory-commission-raises-power-tariffs",
 			"title": "Haryana&#39;s regulatory commission raises power tariffs",
 			"url": "/articles/haryanas-regulatory-commission-raises-power-tariffs/",
